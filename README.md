@@ -5,10 +5,20 @@ Copyright 2002, 2003 Robert L Read
 
 Copyright by Robert L. Read. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with one Invariant Section being ‘History (As of February, 2003)’, no Front-Cover Texts, and one Back-Cover Text: ‘The original version of this document was written by Robert L. Read without renumeration and dedicated to the programmers of Hire.com.’ A copy of the license is included in the section entitled ‘GNU Free Documentation License’.
 
+## Introduction
+To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
+
+This is very subjective and, therefore, this essay is doomed to be personal and somewhat opinionated. I confine myself to problems that a programmer is very likely to have to face in her work. Many of these problems and their solutions are so general to the human condition that I will probably seem preachy. I hope in spite of this that this essay will be useful.
+
+Computer programming is taught in courses. The excellent books: The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96], and Extreme Programming Explained [XP99] all teach computer programming and the larger issues of being a good programmer. The essays of Paul Graham[PGSite] and Eric Raymond[Hacker] should certainly be read before or along with this article. This essay differs from those excellent works by emphasizing social problems and comprehensively summarizing the entire set of necessary skills as I see them.
+
+In this essay the term boss to refer to whomever gives you projects to do. I use the words business, company, and tribe, synonymously except that business connotes moneymaking, company connotes the modern workplace and tribe is generally the people you share loyalty with.
+
+Welcome to the tribe.
+
 ## Contents
 
-1. Introduction
-2. Beginner
+1. Beginner
 	- Personal Skills
 		- Learn to Debug
 		- How to Debug by Splitting the Problem Space
@@ -34,7 +44,7 @@ Copyright by Robert L. Read. Permission is granted to copy, distribute and/or mo
 		- Take Breaks when Stumped
 		- How to Recognize When to Go Home
 		- How to Deal with Difficult People
-3. Intermediate
+2. Intermediate
 	- Personal Skills
 		- How to Stay Motivated
 		- How to be Widely Trusted
@@ -62,7 +72,7 @@ Copyright by Robert L. Read. Permission is granted to copy, distribute and/or mo
 		- How to Evaluate Interviewees
 		- How to Know When to Apply Fancy Computer Science
 		- How to Talk to Non-Engineers
-4. Advanced
+3. Advanced
 	- Technological Judgment
 		- How to Tell the Hard From the Impossible
 		- How to Utilize Embedded Languages
@@ -83,7 +93,7 @@ Copyright by Robert L. Read. Permission is granted to copy, distribute and/or mo
 		- How to Tell People Things They Don't Want to Hear
 		- How to Deal with Managerial Myths
 		- How to Deal with Organizational Chaos
-5. Glossary
-6. Appendix A - Bibliography/Websiteography
-7. Appendix B - History (As of February 2003)
-8. Appendix C - GNNU Free Documentation Licence
+4. Glossary
+5. Appendix A - Bibliography/Websiteography
+6. Appendix B - History (As of February 2003)
+7. Appendix C - GNNU Free Documentation Licence
