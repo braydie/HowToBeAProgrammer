@@ -25,3 +25,6 @@
 	- Take Breaks when Stumped
 	- How to Recognize When to Go Home
 	- How to Deal with Difficult People
+
+< Back [Home](/)
+	
