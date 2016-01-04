@@ -1,7 +1,7 @@
 # 1. Beginner
 
 - Personal Skills
-	- Learn to Debug
+	- [Learn to Debug](Personal Skills/Learn To Debug.md)
 	- How to Debug by Splitting the Problem Space
 	- How to Remove an Error
 	- How to Debug Using a Log
