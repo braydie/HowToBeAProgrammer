@@ -1,29 +1,29 @@
 # 2. Intermediate
 
 - Personal Skills
-	- How to Stay Motivated
-	- How to be Widely Trusted
-	- How to Tradeoff Time vs. Space
-	- How to Stress Test
-	- How to Balance Brevity and Abstraction
-	- How to Learn New Skills
-	- Learn to Type
-	- How to Do Integration Testing
-	- Communication Languages
-	- Heavy Tools
-	- How to analyze data
+	- [How to Stay Motivated](Personal-Skills/01-How to Stay Motivated.md)
+	- [How to be Widely Trusted](Personal-Skills/02-How to be Widely Trusted.md)
+	- [How to Tradeoff Time vs. Space](Personal-Skills/03-How to Tradeoff vs Space.md)
+	- [How to Stress Test](Personal-Skills/04-How to Stress Test.md)
+	- [How to Balance Brevity and Abstraction](Personal-Skills/05-How to Balance Brevity and Abstraction.md)
+	- [How to Learn New Skills](Personal-Skills/06-How to Learn New Skills.md)
+	- [Learn to Type](Personal-Skills/07-Learn to Type.md)
+	- [How to Do Integration Testing](Personal-Skills/08-How to Do Integration.md)
+	- [Communication Languages](Personal-Skills/09-Communication Languages.md)
+	- [Heavy Tools](Personal-Skills/10-Heavy Tools.md)
+	- [How to analyze data](Personal-Skills/11-How to analyze data.md)
 - Team Skills
-	- How to Manage Development Time
-	- How to Manage Third-Party Software Risks
-	- How to Manage Consultants
-	- How to Communicate the Right Amount
-	- How to Disagree Honestly and Get Away with It
+	- [How to Manage Development Time](Team-Skills/01-How to Manage Development Time.md)
+	- [How to Manage Third-Party Software Risks](Team-Skills/02-How to Manage Third-Party Software Risks.md)
+	- [How to Manage Consultants](Team-Skills/03-How to Manage Consultants.md)
+	- [How to Communicate the Right Amount](Team-Skills/04-How to Communicate the Right Amount.md)
+	- [How to Disagree Honestly and Get Away with It](Team-Skills/05-How to Disagree Honestly and Get Away with It.md)
 - Judgement
-	- How to Tradeoff Quality Against Development Time
-	- How to Manage Software System Dependence
-	- How to Decide if Software is Too Immature
-	- How to Make a Buy vs. Build Decision
-	- How to Grow Professionally
-	- How to Evaluate Interviewees
-	- How to Know When to Apply Fancy Computer Science
-	- How to Talk to Non-Engineers
+	- [How to Tradeoff Quality Against Development Time](Judgement/01-How to Tradeoff Quality Against Development Time.md)
+	- [How to Manage Software System Dependence](Judgement/02-How to Manage Software System Dependence.md)
+	- [How to Decide if Software is Too Immature](Judgement/03-How to Decide if Software is Too Immature.md)
+	- [How to Make a Buy vs. Build Decision](Judgement/04-How to Make a Buy vs Build Decision.md)
+	- [How to Grow Professionally](Judgement/05-How to Grow Professionally.md)
+	- [How to Evaluate Interviewees](Judgement/06-How to Evaluate Interviewees.md)
+	- [How to Know When to Apply Fancy Computer Science](Judgement/07-How to Know When to Apply Fancy Computer Science.md)
+	- [How to Talk to Non-Engineers](Judgement/08-How to Talk to Non-Engineers.md)
