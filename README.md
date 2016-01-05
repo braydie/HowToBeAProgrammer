@@ -33,19 +33,19 @@ Welcome to the tribe.
 		- [How to Learn Design Skills](1-Beginner/Personal-Skills/11-How to Learn Design Skills.md)
 		- [How to Conduct Experiments](1-Beginner/Personal-Skills/12-How to Conduct Experiments.md) 
 	- Team Skills
-		- Why Estimation is Important
-		- How to Estimate Programming Time
-		- How to Find Out Information
-		- How to Utilize People as Information Sources
-		- How to Document Wisely
-		- How to Work with Poor Code
-		- How to Use Source Code Control
-		- How to Unit Test
-		- Take Breaks when Stumped
-		- How to Recognize When to Go Home
-		- How to Deal with Difficult People
+		- [Why Estimation is Important](1-Beginner/Team-Skills/01-Why Estimation is Important.md)
+		- [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How to Estimate Programming Time.md)
+		- [How to Find Out Information](1-Beginner/Team-Skills/03-How to Find Out Information.md)
+		- [How to Utilize People as Information Sources](1-Beginner/Team-Skills/04-How to Utilize People as Information Sources.md)
+		- [How to Document Wisely](1-Beginner/Team-Skills/05-How to Document Wisely.md)
+		- [How to Work with Poor Code](1-Beginner/Team-Skills/06-How to Work with Poor Code.md)
+		- [How to Use Source Code Control](1-Beginner/Team-Skills/07-How to Use Source Code Control.md)
+		- [How to Unit Test](1-Beginner/Team-Skills/08-How to Unit Test.md)
+		- [Take Breaks when Stumped](1-Beginner/Team-Skills/09-Take Breaks when Stumped.md)
+		- [How to Recognize When to Go Home](1-Beginner/Team-Skills/10-How to Recognize When to Go Home.md)
+		- [How to Deal with Difficult People](1-Beginner/Team-Skills/11-How to Deal with Difficult People.md)
 2. Intermediate
-	- 1-Beginner/Personal Skills
+	- Personal Skills
 		- How to Stay Motivated
 		- How to be Widely Trusted
 		- How to Tradeoff Time vs. Space
