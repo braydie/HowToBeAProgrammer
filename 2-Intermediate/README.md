@@ -1,28 +1,29 @@
 # 2. Intermediate
 
 - Personal Skills
-  - How to Stay Motivated
-  - How to be Widely Trusted
-  - How to Trafeoff Time vs. Space
-  - How to Balance Brevity and Abstraction
-  - How to Learn New Skills
-  - Learn to Type
-  - How to Do Integration Testing
-  - Communication Languages
-  - Heavy Tools
-  - How to analyse data
+	- How to Stay Motivated
+	- How to be Widely Trusted
+	- How to Tradeoff Time vs. Space
+	- How to Stress Test
+	- How to Balance Brevity and Abstraction
+	- How to Learn New Skills
+	- Learn to Type
+	- How to Do Integration Testing
+	- Communication Languages
+	- Heavy Tools
+	- How to analyze data
 - Team Skills
-  - How to Manage Development Time
-  - How to Manage Third-Party Software Risks
-  - How to Manage Consultants
-  - How to Communicate the Right Amount
-  - How to Disagree with Honesty and Get Away with It
+	- How to Manage Development Time
+	- How to Manage Third-Party Software Risks
+	- How to Manage Consultants
+	- How to Communicate the Right Amount
+	- How to Disagree Honestly and Get Away with It
 - Judgement
-  - How to Tradeoff Quality Against Development Time
-  - How to Manage Software System Dependence
-  - How to Device if Software is Too Immature
-  - How to Make a Buy vs. Build Decision
-  - How to Grow Professionally
-  - How to Evaluate Interviewees
-  - How to Know When to Apply Fancy Computer Science
-  - How to Talk to Non-Engineers
+	- How to Tradeoff Quality Against Development Time
+	- How to Manage Software System Dependence
+	- How to Decide if Software is Too Immature
+	- How to Make a Buy vs. Build Decision
+	- How to Grow Professionally
+	- How to Evaluate Interviewees
+	- How to Know When to Apply Fancy Computer Science
+	- How to Talk to Non-Engineers
