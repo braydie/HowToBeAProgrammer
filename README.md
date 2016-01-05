@@ -20,7 +20,7 @@ Welcome to the tribe.
 
 1. [Beginner](1-Beginner)
 	- Personal Skills
-		- [Learn to Debug](1-Beginner/Personal Skills/Learn To Debug.md)
+		- [Learn to Debug](1-Beginner/Personal Skills/01-Learn To Debug.md)
 		- How to Debug by Splitting the Problem Space
 		- How to Remove an Error
 		- How to Debug Using a Log
