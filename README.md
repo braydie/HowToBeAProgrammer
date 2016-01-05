@@ -1,4 +1,4 @@
-# How to be a Programmer: A Short, Comprehensive, and 1-Beginner/Personal Summary
+# How to be a Programmer: A Short, Comprehensive, and Personal Summary
 Robert L Read
 
 Copyright 2002, 2003 Robert L Read
