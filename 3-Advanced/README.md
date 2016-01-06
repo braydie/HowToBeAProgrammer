@@ -2,7 +2,7 @@
 
 - Technological Judgement
 	- [How to Tell the Hard From the Impossible](Technical-Judgement/01-How to Tell the Hard From the Impossible.md)
-	- [How to Utilize Embedded Languages](Technical-Judgement/02-How to Utilize Embedded Lanuages.md)
+	- [How to Utilize Embedded Languages](Technical-Judgement/02-How to Utilize Embedded Languages.md)
 	- [Choosing Languages](Technical-Judgement/03-Choosing Languages.md)
 - Compromising Wisely
 	- [How to Fight Schedule Pressure](Compromising Wisely/01-How to Fight Schedule Pressure.md)

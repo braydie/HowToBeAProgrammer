@@ -75,7 +75,7 @@ Welcome to the tribe.
 3. [Advanced](3-Advanced)
 	- Technological Judgement
         - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgement/01-How to Tell the Hard From the Impossible.md)
-        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgement/02-How to Utilize Embedded Lanuages.md)
+        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgement/02-How to Utilize Embedded Languages.md)
         - [Choosing Languages](3-Advanced/Technical-Judgement/03-Choosing Languages.md)
     - Compromising Wisely
         - [How to Fight Schedule Pressure](3-Advanced/Compromising Wisely/01-How to Fight Schedule Pressure.md)
