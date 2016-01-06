@@ -5,3 +5,5 @@ Unit testing, the testing of an individual piece of coded functionality by the t
 Use assertion checking and test drivers whenever possible. This not only catches bugs early, but is very useful later on and lets you eliminate mysteries that you would otherwise have to worry about.
 
 The Extreme Programming developers are writing extensively on unit testing effectively; I can do no better than to recommend their writings.
+
+Next [Take Breaks when Stumped](09-Take Breaks when Stumped.md)

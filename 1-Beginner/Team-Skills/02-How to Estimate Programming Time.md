@@ -17,3 +17,5 @@ In a team environment, you should try to have the people who will do the work do
 If there are big risks that cannot be evaluated, it is your duty to state so forcefully enough that your manager does not commit to them and then become embarrassed when the risk occurs. Hopefully in such a case whatever is needed will be done to decrease the risk.
 
 If you can convince your company to use *Extreme Programming*, you will only have to estimate relatively small things, and this is both more fun and more productive.
+
+Next [How to Find Out Information](03-How to Find Out Information.md)

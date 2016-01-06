@@ -16,3 +16,5 @@ This does not make it easier on the responsible programmer. How does one write s
 - Sacrificing small optimizations that obfuscate the code;
 - Thinking about the reader and spending some of your precious time to make it easier on her; and
 - Not ever using a function name like `foo`,`bar`, or `doIt`!
+
+Next [How to Work with Poor Code](06-How to Work with Poor Code.md)

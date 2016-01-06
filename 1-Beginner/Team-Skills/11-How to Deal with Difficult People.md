@@ -11,3 +11,5 @@ Don't let a bully force you to do something you don't agree with. If you are the
 Difficult people do change and improve. I've seen it with my own eyes, but it is very rare. However, everyone has transitory ups and downs.
 
 One of the challenges that every programmer but especially leaders face is keeping the difficult person fully engaged. They are more prone to duck work and resist passively than others.
+
+Next [Intermediate skills](../../2-Intermediate)
