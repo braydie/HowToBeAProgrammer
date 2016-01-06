@@ -73,26 +73,26 @@ Welcome to the tribe.
 		- [How to Know When to Apply Fancy Computer Science](2-Intermediate/Judgement/07-How to Know When to Apply Fancy Computer Science.md)
 		- [How to Talk to Non-Engineers](2-Intermediate/Judgement/08-How to Talk to Non-Engineers.md)
 3. [Advanced](3-Advanced)
-	- Technological Judgment
-		- How to Tell the Hard From the Impossible
-		- How to Utilize Embedded Languages
-		- Choosing Languages
-	- Compromising Wisely
-		- How to Fight Schedule Pressure
-		- How to Understand the User
-		- How to Get a Promotion
-	- Serving Your Team
-		- How to Develop Talent
-		- How to Choose What to Work On
-		- How to Get the Most From Your Teammates
-		- How to Divide Problems Up
-		- How to Handle Boring Tasks
-		- How to Gather Support for a Project
-		- How to Grow a System
-		- How to Communicate Well
-		- How to Tell People Things They Don't Want to Hear
-		- How to Deal with Managerial Myths
-		- How to Deal with Organizational Chaos
+	- Technological Judgement
+        - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgement/01-How to Tell the Hard From the Impossible.md)
+        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgement/02-How to Utilize Embedded Lanuages.md)
+        - [Choosing Languages](3-Advanced/Technical-Judgement/03-Choosing Languages.md)
+    - Compromising Wisely
+        - [How to Fight Schedule Pressure](3-Advanced/Compromising Wisely/01-How to Fight Schedule Pressure.md)
+        - [How to Understand the User](3-Advanced/Compromising Wisely/02-How to Understand the User.md)
+        - [How to Get a Promotion](3-Advanced/Compromising Wisely/03-How to Get a Promotion.md)
+    - Serving Your Team
+        - [How to Develop Talent](3-Advanced/Serving-Your-Team/01-How to Develop Talent.md)
+        - [How to Choose What to Work On](3-Advanced/Serving-Your-Team/02-How to Choose What to Work On.md)
+        - [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How to Get the Most From Your Team-mates.md)
+        - [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How to Divide Problems Up.md)
+        - [How to Handle Boring Tasks](3-Advanced/Serving-Your-Team/05-How to Handle Boring Tasks.md)
+        - [How to Gather Support for a Project](3-Advanced/Serving-Your-Team/06-How to Gather Support for a Project.md)
+        - [How to Grow a System](3-Advanced/Serving-Your-Team/07-How to Grow a System.md)
+        - [How to Communicate Well](3-Advanced/Serving-Your-Team/08-How to Communicate Well.md)
+        - [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
+        - [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How to Deal with Managerial Myths.md)
+        - [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
 4. [Glossary](4-Glossary.md)
 5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
 6. [Appendix B - History (As of February 2003)](6-History.md)
