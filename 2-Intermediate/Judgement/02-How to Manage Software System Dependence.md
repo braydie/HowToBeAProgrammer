@@ -10,4 +10,4 @@ It is always best to encapsulate the component in some way so that it is isolate
 
 Having the source code for a component decreases the risk by a factor of four. With source code, you can evaluate it easier, debug it easier, find workarounds easier, and make fixes easier. If you make fixes, you should give them to the owner of the component and get the fixes incorporated into an official release; otherwise you will uncomfortably have to maintain an unofficial version.
 
-Next [How to Device if Software is Too Immature](03-How to Decide if Software is Too Immature.md)
+Next [How to Decide if Software is Too Immature](03-How to Decide if Software is Too Immature.md)
