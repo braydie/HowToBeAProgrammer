@@ -11,7 +11,7 @@
 - Serving Your Team
 	- [How to Develop Talent](Serving-Your-Team/01-How to Develop Talent.md)
 	- [How to Choose What to Work On](Serving-Your-Team/02-How to Choose What to Work On.md)
-	- [How to Get the Most From Your Team-mates](Serving-Your-Team/03-How to Get the Most From Your Team-mates.md)
+	- [How to Get the Most From Your Team-mates](Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
 	- [How to Divide Problems Up](Serving-Your-Team/04-How to Divide Problems Up.md)
 	- [How to Handle Boring Tasks](Serving-Your-Team/05-How to Handle Boring Tasks.md)
 	- [How to Gather Support for a Project](Serving-Your-Team/06-How to Gather Support for a Project.md)
