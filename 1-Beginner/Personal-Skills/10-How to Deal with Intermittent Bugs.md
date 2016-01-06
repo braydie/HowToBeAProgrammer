@@ -13,3 +13,5 @@ At work we recently had an intermittent bug that took us several weeks to find. 
 This illustrates some risk associated with third-party software. We were using a licensed piece of code that removed HTML tags from text. Due to its place of origin we affectionately referred to this as ‘the French stripper. Although we had the source code (thank goodness!) we had not studied it carefully until by turning up the logging on our servers we finally realized that the email threads were getting stuck in the French stripper.
 
 The stripper performed well except on some long and unusual kinds of texts. On these texts, the code was quadratic or worse. This means that the processing time was proportional to the square of the length of the text. Had these texts occurred commonly, we would have found the bug right away. If they had never occurred at all, we would never have had a problem. As it happens, it took us weeks to finally understand and resolve the problem.
+
+Next [How to Learn Design Skills](11-How to Learn Design Skills.md)

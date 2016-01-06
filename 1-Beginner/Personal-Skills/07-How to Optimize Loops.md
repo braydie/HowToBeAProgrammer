@@ -11,3 +11,5 @@ Sometimes you'll encounter loops, or recursive functions, that take a long time 
 - Move a pointer rather than recomputing indices.
 
 The cost of each of these operations depends on your specific system. On some systems compilers and hardware do these things for you. Clear, efficient code is better than code that requires an understanding of a particular platform.
+
+Next [How to Deal with I/O Expense](08-How to Deal with IO Expense.md)
