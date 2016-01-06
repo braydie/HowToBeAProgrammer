@@ -44,7 +44,7 @@ Welcome to the tribe.
 		- [Take Breaks when Stumped](1-Beginner/Team-Skills/09-Take Breaks when Stumped.md)
 		- [How to Recognize When to Go Home](1-Beginner/Team-Skills/10-How to Recognize When to Go Home.md)
 		- [How to Deal with Difficult People](1-Beginner/Team-Skills/11-How to Deal with Difficult People.md)
-2. Intermediate
+2. [Intermediate](2-Intermediate)
 	- Personal Skills
 		- [How to Stay Motivated](2-Intermediate/Personal-Skills/01-How to Stay Motivated.md)
 		- [How to be Widely Trusted](2-Intermediate/Personal-Skills/02-How to be Widely Trusted.md)
@@ -72,7 +72,7 @@ Welcome to the tribe.
 		- [How to Evaluate Interviewees](2-Intermediate/Judgement/06-How to Evaluate Interviewees.md)
 		- [How to Know When to Apply Fancy Computer Science](2-Intermediate/Judgement/07-How to Know When to Apply Fancy Computer Science.md)
 		- [How to Talk to Non-Engineers](2-Intermediate/Judgement/08-How to Talk to Non-Engineers.md)
-3. Advanced
+3. [Advanced](3-Advanced)
 	- Technological Judgment
 		- How to Tell the Hard From the Impossible
 		- How to Utilize Embedded Languages
@@ -93,7 +93,7 @@ Welcome to the tribe.
 		- How to Tell People Things They Don't Want to Hear
 		- How to Deal with Managerial Myths
 		- How to Deal with Organizational Chaos
-4. Glossary
-5. Appendix A - Bibliography/Websiteography
-6. Appendix B - History (As of February 2003)
-7. Appendix C - GNNU Free Documentation Licence
+4. [Glossary](4-Glossary.md)
+5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
+6. [Appendix B - History (As of February 2003)](6-History.md)
+7. [Appendix C - GNU Free Documentation License](LICENSE)
