@@ -23,7 +23,7 @@ Welcome to the tribe.
 		- [Learn to Debug](1-Beginner/Personal-Skills/01-Learn To Debug.md)
 		- [How to Debug by Splitting the Problem Space](1-Beginner/Personal-Skills/02-How to Debug by Splitting the Problem Space.md)
 		- [How to Remove an Error](1-Beginner/Personal-Skills/03-How to Remove an Error.md)
-		- [How to Debug Using a Log](1-Beginner/Personal-Skills/04-How to Debug.md)
+		- [How to Debug Using a Log](1-Beginner/Personal-Skills/04-How to Debug Using a Log.md)
 		- [How to Understand Performance Problems](1-Beginner/Personal-Skills/05-How to Understand Performance Problems.md)
 		- [How to Fix Performance Problems](1-Beginner/Personal-Skills/06-How to Fix Performance Problems.md)
 		- [How to Optimize Loops](1-Beginner/Personal-Skills/07-How to Optimize Loops.md)
