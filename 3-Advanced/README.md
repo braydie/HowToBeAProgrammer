@@ -1,0 +1,22 @@
+# 3. Advanced
+
+- Technological Judgement
+	- How to Tell the Hard From the Impossible	
+	- How to Utilize Embedded Languages
+	- Choosing Languages
+- Compromising Wisely
+	- How to Fight Schedule Pressure
+	- How to Understand the User
+	- How to Get a Promotion
+- Serving Your Team
+	- How to Develop Talent
+	- How to Choose What to Work On
+	- How to Get the Most From Your Team-mates
+	- How to Divide Problems Up
+	- How to Handle Boring Tasks
+	- How to Gather Support for a Project
+	- How to Grow a System
+	- How to Communicate Well
+	- How to Tell People Things They Don't Want to Hear
+	- How to Deal with Managerial Myths
+	- How to Deal with Organizational Chaos
