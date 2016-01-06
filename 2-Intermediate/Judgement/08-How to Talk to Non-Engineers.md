@@ -15,3 +15,5 @@ With your team, the basic assumptions and goals do not need to be restated often
 I love working with non-engineers. It provides great opportunities to learn and to teach. You can often lead by example, in terms of the clarity of your communication. Engineers are trained to bring order out of chaos, to bring clarity out of confusion, and non-engineers like this about us. Because we have technical judgement and can usually understand business issues, we can often find a simple solution to a problem.
 
 Often non-engineers propose solutions that they think will make it easier on us out of kindness and a desire to do the right thing, when in fact a much better overall solution exists which can only be seen by synergizing the outsiders view with your technical judgement. I personally like Extreme Programming because it addresses this inefficiency; by marrying the estimation quickly to the idea, it makes it easier to find the idea that is the best combination of cost and benefit.
+
+Next [Advanced skills](../../3-Advanced)

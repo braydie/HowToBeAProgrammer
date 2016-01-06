@@ -11,3 +11,5 @@ Obviously, there are entire industries organized around motivational techniques 
 - Try to either learn or teach something, however small, in each project.
 
 Finally, if possible, measure the impact of your work in terms of something that will be personally motivating. For example, when fixing bugs, counting the number of bugs that I have fixed is not at all motivational to me, because it is independent of the number that may still exist, and is also affects the total value I'm adding to my company's customers in only the smallest possible way. Relating each bug to a happy customer, however, *is* personally motivating to me.
+
+Next [How to be Widely Trusted](02-How to be Widely Trusted.md)

@@ -7,3 +7,5 @@ Sometimes a decision that you disagree with will be made when the decision maker
 Usually, this is not a problem. In some stressful circumstances and with some personality types this can lead to things being taken personally. For instance, some very good programmers lack the confidence needed to challenge a decision even when they have good reason to believe it is wrong. In the worst of circumstances the decision maker is insecure and takes it as a personal challenge to their authority. It is best to remember that in such circumstances people react with the reptilian part of their brains. You should present your argument in private, and try to show how new knowledge changes the basis on which the decision was made.
 
 Whether the decision is reversed or not, you must remember that you will never be able to say ‘I told you so!’ since the alternate decision was fully explored.
+
+Next [Judgement - How to Tradeoff Quality Against Development Time](../Judgement/01-How to Tradeoff Quality Against Development Time.md)

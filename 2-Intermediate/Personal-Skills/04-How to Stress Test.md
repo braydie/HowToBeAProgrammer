@@ -13,3 +13,5 @@ Knowing where the wall is is essential not only to moving the wall, but also to 
 ---
 
 <sup>[1]</sup> "to hit" 
+
+Next [How to Balance Brevity and Abstraction](05-How to Balance Brevity and Abstraction.md)

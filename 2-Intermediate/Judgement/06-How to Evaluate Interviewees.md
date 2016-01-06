@@ -11,3 +11,5 @@ In doing this, you should also evaluate their ability to learn, which is far mor
 A reader has had good luck using a ‘take-home’ test for interviewees. This has the advantage that can uncover the interviewee that can present themselves well but can't really code - and there are many such people. I personally have not tried this technique, but it sounds sensible.
 
 Finally, interviewing is also a process of selling. You should be selling your company or project to the candidate. However, you are talking to a programmer, so don't try to colour the truth. Start off with the bad stuff, then finish strong with the good stuff.
+
+Next [How to Know When to Apply Fancy Computer Science](07-How to Know When to Apply Fancy Computer Science.md)

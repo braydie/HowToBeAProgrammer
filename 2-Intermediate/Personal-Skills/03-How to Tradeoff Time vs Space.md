@@ -11,3 +11,5 @@ Time (processor cycles) and space (memory) can be traded off against each other.
 Improving the space/time trade-off can often change one or the other dramatically. However, before you work on this you should ask yourself if what you are improving is really the thing that needs the most improvement. It's fun to work on an algorithm, but you can't let that blind you to the cold hard fact that improving something that is not a problem will not make any noticeable difference and will create a test burden.
 
 Memory on modern computers appears cheap, because unlike processor time, you can't see it being used until you hit the wall; but then failure is catastrophic. There are also other hidden costs to using memory, such as your effect on other programs that must be resident, and the time to allocate and deallocate it. Consider this carefully before you trade away space to gain speed.
+
+Next [How to Stress Test](04-How to Stress Test.md)

@@ -7,3 +7,5 @@ If you want to become a team leader, instigate the formation of consensus. If yo
 Evaluate yourself. If you want to become a better programmer, ask someone you admire how you can become like them. You can also ask your boss, who will know less but have a greater impact on your career.
 
 Plan ways to learn new skills, both the trivial technical kind, like learning a new software system, and the hard social kind, like writing well, by integrating them into your work.
+
+Next [How to Evaluate Interviewees](06-How to Evaluate Interviewees.md)

@@ -7,3 +7,5 @@ UML is a rich formal system for making drawings that describe designs. It's beau
 XML is a standard for defining new standards. It is not a solution to data interchange problems, though you sometimes see it presented as if it was. Rather, it is a welcome automation of the most boring part of data interchange, namely, structuring the representation into a linear sequence and parsing back into a structure. It provides some nice type- and correctness-checking, though again only a fraction of what you are likely to need in practice.
 
 SQL is a very powerful and rich data query and manipulation language that is not quite a programming language. It has many variations, typically quite product-dependent, which are less important than the standardized core. SQL is the *lingua franca* of relational databases. You may or may not work in any field that can benefit from an understanding of relational databases, but you should have a basic understanding of them and they syntax and meaning of SQL.
+
+Next [Heavy Tools](10-Heavy Tools.md)

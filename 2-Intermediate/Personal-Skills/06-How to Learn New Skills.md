@@ -9,3 +9,5 @@ A good mentor is no replacement for doing things yourself, but is a lot better t
 Try to get your boss to let you have formal training, but understand that it often not much better than the same amount of time spent simply playing with the new skill you want to learn. It is, however, easier to ask for training than playtime in our imperfect world, even though a lot of formal training is just sleeping through lectures waiting for the dinner party.
 
 If you lead people, understand how they learn and assist them by assigning them projects that are the right size and that exercise skills they are interested in. Don't forget that the most important skills for a programmer are not the technical ones. Give your people a chance to play and practice courage, honesty, and communication.
+
+Next [Learn to Type](07-Learn to Type.md)
