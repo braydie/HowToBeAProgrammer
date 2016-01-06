@@ -11,3 +11,5 @@ Programming languages should really be called notations in that learning one is 
 - Its possible that some of the modules are actually up-to-date.
 
 Some of these effects may only be psychological; but psychology matters. In the end the costs of language tyranny outweigh any advantage that it provides.
+
+Next [Compromising Wisely - How to Fight a Schedule Pressure](../Compromising-Wisely/01-How to Fight Schedule Pressure.md)

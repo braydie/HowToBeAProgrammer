@@ -19,3 +19,5 @@ A reader, Rob Hafernik, sent in this comment on this section that I can do no be
 > I think you under-emphasize the importance here. It's not just systems, but algorithms, user interfaces, data models, and so on. It's absolutely *vital* as you work on a large system to have measurable progress toward intermediate goals. Nothing is as bad as the special horror of getting down to the end and discovering that the whole thing just isn't going to work (look at the recent debacle of the Voter News System). I would even go further and state it as a law of nature: no large, complex system can be implemented from scratch, it can only be evolved from a simple system to a complex system in a series of intentional steps.
 
 To which one can only reply *Fiat lux*!
+
+Next [How to Communiate Well](08-How to Communicate Well.md)

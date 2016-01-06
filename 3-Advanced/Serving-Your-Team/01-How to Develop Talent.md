@@ -19,3 +19,5 @@ The strong members of the team will naturally have more difficult tasks than the
 It is an odd fact that is not reflected in salaries that a good programmer is more productive than 10 bad programmers. This creates a strange situation. It will often be true that you could move faster if your weak programmers would just get out of the way. If you did this you would in fact make more progress in the short term. However, your tribe would lose some important benefits, namely the training of the weaker members, the spreading of tribal knowledge, and the ability to recover from the loss of the strong members. The strong must be gentle in this regard and consider the issue from all angles.
 
 You can often give the stronger team members challenging, but carefully delineated, tasks.
+
+Next [How to Choose What to Work On](02-How to Choose What to Work On.md)

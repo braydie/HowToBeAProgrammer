@@ -43,3 +43,5 @@ Finally I would like to thank Christina Vallery, whose editing and proofreading 
 Robert L. Read lives in Austin, Texas, with his wife and two children. He is currently a Principal Engineer at Hire.com, where he has worked for four years. Prior to that he founded 4R Technology, which made a scanner-based image analysis quality control tool for the paper industry.
 
 Rob received a PhD from the University of Texas at Austin in 1995 in Computer Science related to database theory. In 1987 he received a BA in Computer Science from Rice University. He has been a paid programmer since the age of 16.
+
+Next [License](LICENSE)
