@@ -78,9 +78,9 @@ Welcome to the tribe.
         - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgement/02-How to Utilize Embedded Languages.md)
         - [Choosing Languages](3-Advanced/Technical-Judgement/03-Choosing Languages.md)
     - Compromising Wisely
-        - [How to Fight Schedule Pressure](3-Advanced/Compromising Wisely/01-How to Fight Schedule Pressure.md)
-        - [How to Understand the User](3-Advanced/Compromising Wisely/02-How to Understand the User.md)
-        - [How to Get a Promotion](3-Advanced/Compromising Wisely/03-How to Get a Promotion.md)
+        - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+        - [How to Understand the User](3-Advanced/Compromising-Wisely/02-How to Understand the User.md)
+        - [How to Get a Promotion](3-Advanced/Compromising-Wisely/03-How to Get a Promotion.md)
     - Serving Your Team
         - [How to Develop Talent](3-Advanced/Serving-Your-Team/01-How to Develop Talent.md)
         - [How to Choose What to Work On](3-Advanced/Serving-Your-Team/02-How to Choose What to Work On.md)

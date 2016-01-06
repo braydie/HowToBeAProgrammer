@@ -5,9 +5,9 @@
 	- [How to Utilize Embedded Languages](Technical-Judgement/02-How to Utilize Embedded Languages.md)
 	- [Choosing Languages](Technical-Judgement/03-Choosing Languages.md)
 - Compromising Wisely
-	- [How to Fight Schedule Pressure](Compromising Wisely/01-How to Fight Schedule Pressure.md)
-	- [How to Understand the User](Compromising Wisely/02-How to Understand the User.md)
-	- [How to Get a Promotion](Compromising Wisely/03-How to Get a Promotion.md)
+	- [How to Fight Schedule Pressure](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+	- [How to Understand the User](Compromising-Wisely/02-How to Understand the User.md)
+	- [How to Get a Promotion](Compromising-Wisely/03-How to Get a Promotion.md)
 - Serving Your Team
 	- [How to Develop Talent](Serving-Your-Team/01-How to Develop Talent.md)
 	- [How to Choose What to Work On](Serving-Your-Team/02-How to Choose What to Work On.md)
