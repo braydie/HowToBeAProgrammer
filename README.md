@@ -63,20 +63,20 @@ Welcome to the tribe.
 		- [How to Manage Consultants](2-Intermediate/Team-Skills/03-How to Manage Consultants.md)
 		- [How to Communicate the Right Amount](2-Intermediate/Team-Skills/04-How to Communicate the Right Amount.md)
 		- [How to Disagree Honestly and Get Away with It](2-Intermediate/Team-Skills/05-How to Disagree Honestly and Get Away with It.md)
-	- Judgement
-		- [How to Tradeoff Quality Against Development Time](2-Intermediate/Judgement/01-How to Tradeoff Quality Against Development Time.md)
-		- [How to Manage Software System Dependence](2-Intermediate/Judgement/02-How to Manage Software System Dependence.md)
-		- [How to Decide if Software is Too Immature](2-Intermediate/Judgement/03-How to Decide if Software is Too Immature.md)
-		- [How to Make a Buy vs. Build Decision](2-Intermediate/Judgement/04-How to Make a Buy vs Build Decision.md)
-		- [How to Grow Professionally](2-Intermediate/Judgement/05-How to Grow Professionally.md)
-		- [How to Evaluate Interviewees](2-Intermediate/Judgement/06-How to Evaluate Interviewees.md)
-		- [How to Know When to Apply Fancy Computer Science](2-Intermediate/Judgement/07-How to Know When to Apply Fancy Computer Science.md)
-		- [How to Talk to Non-Engineers](2-Intermediate/Judgement/08-How to Talk to Non-Engineers.md)
+	- Judgment
+		- [How to Tradeoff Quality Against Development Time](2-Intermediate/Judgment/01-How to Tradeoff Quality Against Development Time.md)
+		- [How to Manage Software System Dependence](2-Intermediate/Judgment/02-How to Manage Software System Dependence.md)
+		- [How to Decide if Software is Too Immature](2-Intermediate/Judgment/03-How to Decide if Software is Too Immature.md)
+		- [How to Make a Buy vs. Build Decision](2-Intermediate/Judgment/04-How to Make a Buy vs Build Decision.md)
+		- [How to Grow Professionally](2-Intermediate/Judgment/05-How to Grow Professionally.md)
+		- [How to Evaluate Interviewees](2-Intermediate/Judgment/06-How to Evaluate Interviewees.md)
+		- [How to Know When to Apply Fancy Computer Science](2-Intermediate/Judgment/07-How to Know When to Apply Fancy Computer Science.md)
+		- [How to Talk to Non-Engineers](2-Intermediate/Judgment/08-How to Talk to Non-Engineers.md)
 3. [Advanced](3-Advanced)
-	- Technological Judgement
-        - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgement/01-How to Tell the Hard From the Impossible.md)
-        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgement/02-How to Utilize Embedded Languages.md)
-        - [Choosing Languages](3-Advanced/Technical-Judgement/03-Choosing Languages.md)
+	- Technological Judgment
+        - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
+        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgment/02-How to Utilize Embedded Languages.md)
+        - [Choosing Languages](3-Advanced/Technical-Judgment/03-Choosing Languages.md)
     - Compromising Wisely
         - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How to Fight Schedule Pressure.md)
         - [How to Understand the User](3-Advanced/Compromising-Wisely/02-How to Understand the User.md)

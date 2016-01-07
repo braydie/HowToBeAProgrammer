@@ -8,4 +8,4 @@ Usually, this is not a problem. In some stressful circumstances and with some pe
 
 Whether the decision is reversed or not, you must remember that you will never be able to say ‘I told you so!’ since the alternate decision was fully explored.
 
-Next [Judgement - How to Tradeoff Quality Against Development Time](../Judgement/01-How to Tradeoff Quality Against Development Time.md)
+Next [Judgment - How to Tradeoff Quality Against Development Time](../Judgment/01-How to Tradeoff Quality Against Development Time.md)

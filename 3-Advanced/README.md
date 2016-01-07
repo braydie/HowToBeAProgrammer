@@ -1,9 +1,9 @@
 # 3. Advanced
 
-- Technological Judgement
-	- [How to Tell the Hard From the Impossible](Technical-Judgement/01-How to Tell the Hard From the Impossible.md)
-	- [How to Utilize Embedded Languages](Technical-Judgement/02-How to Utilize Embedded Languages.md)
-	- [Choosing Languages](Technical-Judgement/03-Choosing Languages.md)
+- Technological Judgment
+	- [How to Tell the Hard From the Impossible](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
+	- [How to Utilize Embedded Languages](Technical-Judgment/02-How to Utilize Embedded Languages.md)
+	- [Choosing Languages](Technical-Judgment/03-Choosing Languages.md)
 - Compromising Wisely
 	- [How to Fight Schedule Pressure](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
 	- [How to Understand the User](Compromising-Wisely/02-How to Understand the User.md)
