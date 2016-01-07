@@ -56,7 +56,7 @@ Welcome to the tribe.
 		- [How to Do Integration Testing](2-Intermediate/Personal-Skills/08-How to Do Integration Testing.md)
 		- [Communication Languages](2-Intermediate/Personal-Skills/09-Communication Languages.md)
 		- [Heavy Tools](2-Intermediate/Personal-Skills/10-Heavy Tools.md)
-		- [How to analyze data](2-Intermediate/Personal-Skills/11-How to analyze data.md)
+		- [How to analyze data](2-Intermediate/Personal-Skills/11-How to analyse data.md)
 	- Team Skills
 		- [How to Manage Development Time](2-Intermediate/Team-Skills/01-How to Manage Development Time.md)
 		- [How to Manage Third-Party Software Risks](2-Intermediate/Team-Skills/02-How to Manage Third-Party Software Risks.md)
