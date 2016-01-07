@@ -2,7 +2,7 @@
 
 Debugging is fun, because it begins with a mystery. You think it should do something, but instead it does something else. It is not always quite so simple---any examples I can give will be contrived compared to what sometimes happens in practice. Debugging requires creativity and ingenuity. If there is a single key to debugging is to use the divide and conquer technique on the mystery.
 
-Suppose, for example, you created a program that should do ten things in a sequence. When you run it, it crashes. Since you didn't program it to crash, you now have a mystery. When out look at the output, you see that the first seven things in the sequence were run successfully. The last three are not visible from the output, so now your mystery is smaller: ‘It crashed on thing #8, #9, or #10.’
+Suppose, for example, you created a program that should do ten things in a sequence. When you run it, it crashes. Since you didn't program it to crash, you now have a mystery. When you look at the output, you see that the first seven things in the sequence were run successfully. The last three are not visible from the output, so now your mystery is smaller: ‘It crashed on thing #8, #9, or #10.’
 
 Can you design an experiment to see which thing it crashed on? Sure. You can use a debugger or we can add printline statements (or the equivalent in whatever language you are working in) after #8 and #9. When we run it again, our mystery will be smaller, such as ‘It crashed on thing #9.’ I find that bearing in mind exactly what the mystery is at any point in time helps keep one focused. When several people are working together under pressure on a problem it is easy to forget what the most important mystery is.
 
