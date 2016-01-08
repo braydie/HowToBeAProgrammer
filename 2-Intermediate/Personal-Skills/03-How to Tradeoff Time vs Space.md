@@ -1,6 +1,6 @@
 # How to Tradeoff Time vs. Space
 
-You can be a good programmer without going to college, but you can't be a good intermediate programmer without knowing basic computational complexity theory. You don't need to know 'big O'' notation, but I personally think you should be able to understand the difference between 'constant-time','n log n' and 'n squared'. You might be able to intuit how to trade-off time against space without this knowledge, but in its absence you will not have a firm basis for communicating with your colleagues.
+You can be a good programmer without going to college, but you can't be a good intermediate programmer without knowing basic computational complexity theory. You don't need to know 'big O' notation, but I personally think you should be able to understand the difference between 'constant-time','n log n' and 'n squared'. You might be able to intuit how to trade-off time against space without this knowledge, but in its absence you will not have a firm basis for communicating with your colleagues.
 
 In designing or understanding an algorithm, the amount of time it takes to run is sometimes a function of the size of the input. When that is true, we can say an algorithm's worst/expected/best-case running time is 'n log n' if it is proportional to the size ($n$) times the logarithm of the size. The notation and way of speaking can be also be applied to the space taken up by a data structure.
 
