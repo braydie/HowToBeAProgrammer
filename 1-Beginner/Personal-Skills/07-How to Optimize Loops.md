@@ -1,6 +1,6 @@
 # How to Optimize Loops
 
-Sometimes you'll encounter loops, or recursive functions, that take a long time to execute and are bottlenecks in your product. Before you try to make the loop a little faster, but spend a few minutes considering if there is a way to remove it entirely. Would a different algorithm do? Could you compute that while computing something else? If you can't find away around it, then you can optimize the loop. This is simple; move stuff out. In the end, this will require not only ingenuity but also an understanding of the expense of each kind of statement and expression. Here are some suggestions:
+Sometimes you'll encounter loops, or recursive functions, that take a long time to execute and are bottlenecks in your product. Before you try to make the loop a little faster, spend a few minutes considering if there is a way to remove it entirely. Would a different algorithm do? Could you compute that while computing something else? If you can't find a way around it, then you can optimize the loop. This is simple; move stuff out. In the end, this will require not only ingenuity but also an understanding of the expense of each kind of statement and expression. Here are some suggestions:
 
 - Remove floating point operations.
 - Don't allocate new memory blocks unnecessarily.
