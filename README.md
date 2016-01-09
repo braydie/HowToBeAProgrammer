@@ -1,5 +1,5 @@
 # How to be a Programmer: Community Version
-Robert L. Read
+Robert L. Read with Community
 
 Copyright 2002, 2003, 2016 Robert L. Read
 
@@ -95,8 +95,8 @@ Welcome to the tribe.
         - [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
 4. [Glossary](4-Glossary.md)
 5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
-6. [Appendix B - History (As of February 2003)](6-History.md)
-7. [Appendix C - GNU Free Documentation License](LICENSE)
+6. [Appendix B - History (As of January 2016)](6-History.md)
+6. [Appendix C - Contributions (As of January 2016)](7-Contributions.md)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
