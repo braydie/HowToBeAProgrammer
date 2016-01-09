@@ -1,9 +1,9 @@
-# How to be a Programmer: A Short, Comprehensive, and Personal Summary
-Robert L Read
+# How to be a Programmer: Community Version
+Robert L. Read
 
-Copyright 2002, 2003 Robert L Read
+Copyright 2002, 2003, 2016 Robert L. Read
 
-Copyright by Robert L. Read. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with one Invariant Section being ‘History (As of February, 2003)’, no Front-Cover Texts, and one Back-Cover Text: ‘The original version of this document was written by Robert L. Read without renumeration and dedicated to the programmers of Hire.com.’ A copy of the license is included in the section entitled ‘GNU Free Documentation License’.
+Copyright by Robert L. Read. 
 
 ## Introduction
 To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
@@ -97,3 +97,6 @@ Welcome to the tribe.
 5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
 6. [Appendix B - History (As of February 2003)](6-History.md)
 7. [Appendix C - GNU Free Documentation License](LICENSE)
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
