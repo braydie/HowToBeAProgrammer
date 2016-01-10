@@ -3,7 +3,7 @@ Robert L. Read with Community
 
 Copyright 2002, 2003, 2016 Robert L. Read
 
-Copyright by Robert L. Read. 
+Licensed under (Creative Commons Attribution-ShareAlike 4.0 International License)[http://creativecommons.org/licenses/by-sa/4.0/].
 
 ## Introduction
 To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
