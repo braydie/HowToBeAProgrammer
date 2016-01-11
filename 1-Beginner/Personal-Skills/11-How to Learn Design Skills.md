@@ -6,4 +6,13 @@ Then you must do it yourself. Start with a small project. When you are finally d
 
 It is natural and helpful to develop your own style, but remember that design is an art, not a science. People who write books on the subject have a vested interest in making it seem scientific. Don't become dogmatic about particular design styles.
 
+## Resources
+
+- [Design Patterns](https://sourcemaking.com/design_patterns) - Easy to read guide to design patterns - includes examples
+- [Clean Code: A Handbook of Agile Software Craftmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Book - Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
+- [Book - Beautiful Code](http://shop.oreilly.com/product/9780596510046.do)
+
+---
+
 Next [How to Conduct Experiments](12-How to Conduct Experiments.md)

@@ -6,4 +6,12 @@ I was late to appreciate the benefits of source code control systems but now I w
 
 A good technique for using a source code control system is to stay within a few days of being up-to-date at all time. Code that can't be finished in a few days is checked in, but in a way that it is inactive and will not be called, and therefore not create any problems for anybody else. Committing a mistake that slows down your team-mates is a serious error; it is often taboo.
 
+## Resources
+
+- [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
+- [git](https://git-scm.com/) - A free and open source distributed version control system
+- [Team Foundation Server](https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx) - Source control from Microsoft. Includes requirement management, project management, automated builds and release managemet in addition to source code management.
+
+---
+
 Next [How to Unit Test](08-How to Unit Test.md)
