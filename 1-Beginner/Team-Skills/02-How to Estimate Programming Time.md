@@ -18,4 +18,17 @@ If there are big risks that cannot be evaluated, it is your duty to state so for
 
 If you can convince your company to use *Extreme Programming*, you will only have to estimate relatively small things, and this is both more fun and more productive.
 
+## Resources
+According "[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)" (2001):
+> **What so Say When Asked for an Estimate**
+>
+> You say "I'll get back to you."
+> 
+> You almost always get better  results if you slow the process down and spend some time going through the steps we describe in this section. Estimates given at the coffee machine will (like the coffee) come back to haunt you.
+
+- [Chapter 1 of "Software Estimation: Demystifying the Black Art"](http://www.stevemcconnell.com/estimation-01.pdf) (2006)
+- [Interesting discussion on Stack Exchange](http://programmers.stackexchange.com/questions/648/how-to-respond-when-you-are-asked-for-an-estimate)
+
+---
+
 Next [How to Find Out Information](03-How to Find Out Information.md)
