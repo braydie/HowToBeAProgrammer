@@ -44,4 +44,4 @@ Robert L. Read lives in Austin, Texas, with his wife and two children. He is cur
 
 Rob received a PhD from the University of Texas at Austin in 1995 in Computer Science related to database theory. In 1987 he received a BA in Computer Science from Rice University. He has been a paid programmer since the age of 16.
 
-Next [License](LICENSE)
+Next [License](LICENSE.md)
