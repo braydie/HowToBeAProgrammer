@@ -16,6 +16,11 @@
 
 [Stronger] Friedrich Nietzsche. 1889. Twilight of the Idols, "Maxims and Arrows", section 8..
 
+## E-Books
+[Clean Code - A Handbook of Agile Software Craftsmanship] https://www.ebooks-it.net/ebook/clean-code
+
+[The Robert C.Martin Clean Code Collection] http://ptgmedia.pearsoncmg.com/images/9780132928472/samplepages/0132928477.pdf
+
 ## Web Sites
 
 [PGSite] Paul Graham. 2002. Articles on his website: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). All of them, but especially "Beating the Averages".
