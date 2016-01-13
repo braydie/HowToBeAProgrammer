@@ -31,7 +31,7 @@ Welcome to the tribe.
 		- [How to Manage Memory](1-Beginner/Personal-Skills/09-How to Manage Memory.md)
 		- [How to Deal with Intermittent Bugs](1-Beginner/Personal-Skills/10-How to Deal with Intermittent Bugs.md)
 		- [How to Learn Design Skills](1-Beginner/Personal-Skills/11-How to Learn Design Skills.md)
-		- [How to Conduct Experiments](1-Beginner/Personal-Skills/12-How to Conduct Experiments.md) 
+		- [How to Conduct Experiments](1-Beginner/Personal-Skills/12-How to Conduct Experiments.md)
 	- Team Skills
 		- [Why Estimation is Important](1-Beginner/Team-Skills/01-Why Estimation is Important.md)
 		- [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How to Estimate Programming Time.md)
@@ -93,7 +93,7 @@ Welcome to the tribe.
         - [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
         - [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How to Deal with Managerial Myths.md)
         - [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
-4. [Glossary](4-Glossary.md)
+4. [Glossary](GLOSSARY.md)
 5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
 6. [Appendix B - History (As of January 2016)](6-History.md)
 6. [Appendix C - Contributions (As of January 2016)](7-Contributions.md)

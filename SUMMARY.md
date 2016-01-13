@@ -75,7 +75,6 @@
         * [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
         * [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How to Deal with Managerial Myths.md)
         * [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
-* [Glossary](4-Glossary.md)
 * [Appendix A * Bibliography/Websiteography](5-Bibliography.md)
 * [Appendix B * History (As of January 2016)](6-History.md)
 * [Appendix C * Contributions (As of January 2016)](7-Contributions.md)
