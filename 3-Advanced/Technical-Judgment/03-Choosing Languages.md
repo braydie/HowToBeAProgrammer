@@ -8,7 +8,7 @@ Programming languages should really be called notations in that learning one is 
 
 - There is necessarily loose coupling between the components that are written in different notations (though maybe not clean interfaces),
 - You can evolve to a new language/platform easily by rewriting each component individually,
-- Its possible that some of the modules are actually up-to-date.
+- One language may not be a good fit for the overall system - having multiple languages for your modules allows you to pick the right tool for the job.
 
 Some of these effects may only be psychological; but psychology matters. In the end the costs of language tyranny outweigh any advantage that it provides.
 
