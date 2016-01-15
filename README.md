@@ -1,4 +1,5 @@
 # How to be a Programmer: Community Version
+
 Robert L. Read with Community
 
 Copyright 2002, 2003, 2016 Robert L. Read
