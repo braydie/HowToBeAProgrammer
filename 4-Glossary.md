@@ -81,7 +81,7 @@ This is a glossary of terms as used in this essay. These do not necessarily have
 : A design principle that seeks to keep things independent and decoupled by using interfaces that expose as little information as possible.
 
 **object-oriented programming**
-: An programming style emphasizing the the management of state inside objects.
+: An programming style emphasizing the management of state inside objects.
 
 **communication languages**
 : A language designed primarily for standardization rather than execution.
@@ -93,7 +93,7 @@ This is a glossary of terms as used in this essay. These do not necessarily have
 : A language so popular as to be a de facto standard for its field, as French was for international diplomacy at one time.
 
 **buy vs. build**
-: An adjective describing a choice between spending money for software or writing it your self.
+: An adjective describing a choice between spending money for software or writing it yourself.
 
 **mere work**
 : Work that requires little creativity and entails little risk. Mere work can be estimated easily.
