@@ -39,6 +39,7 @@ The people with whom you share loyalty to a common goal.
 Big improvements that cost little.
 
 ### Entrepreneur
+
 The initiator of projects.
 
 ### garbage
