@@ -39,7 +39,11 @@ The people with whom you share loyalty to a common goal.
 Big improvements that cost little.
 
 ### Entrepreneur
+<<<<<<< HEAD
 :The initiator of projects.
+=======
+The initiator of projects.
+>>>>>>> refs/remotes/origin/master
 
 ### garbage
 
@@ -139,5 +143,9 @@ A document meant to be the starting point of a technical discussion. A strawman 
 
 ### white-paper
 
+<<<<<<< HEAD
 An informative document that is often meant to explain or sell a product or idea to an audience different than the programmers of that product or idea.
 
+=======
+An informative document that is often meant to explain or sell a product or idea to an audience different than the programmers of that product or idea.
+>>>>>>> refs/remotes/origin/master
