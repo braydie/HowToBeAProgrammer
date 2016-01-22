@@ -8,4 +8,4 @@ Non-engineers can order people around but, in a typical software company, can cr
 
 If you are a leader, tell your people to do the same thing and tell them to ignore what anybody else tells them. This course of action is the best for you personally, and is the best for your company or project.
 
-Next [Glossary](../../4-Glossary.md)
+Next [Glossary](../../GLOSSARY.md)
