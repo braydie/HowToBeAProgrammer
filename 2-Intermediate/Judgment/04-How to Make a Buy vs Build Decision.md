@@ -6,7 +6,6 @@ An entrepreneurial company or project that is trying to accomplish something wit
 - What portion of what you buy will you need?
 - What is the cost of evaluating the integration?
 - What is the cost of integration?
-- What is the cost of evaluating the integration?
 - Will buying increase or decrease long term maintenance costs?
 - Will building it put you in a business position you don't want to be in?
 
