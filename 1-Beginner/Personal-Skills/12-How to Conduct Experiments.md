@@ -10,7 +10,7 @@ The kinds of experiments you will have to perform include:
 
 - Testing systems with small examples to verify that they conform to the documentation or to understand their response when there is no documentation,
 - Testing small code changes to see if they actually fix a bug,
-- Measuring the performance of a system under two different conditions due to imperfect knowledge of there performance characteristics,
+- Measuring the performance of a system under two different conditions due to imperfect knowledge of their performance characteristics,
 - Checking the integrity of data, and
 - Collecting statistics that may hint at the solution to difficult or hard-to-repeat bugs.
 
