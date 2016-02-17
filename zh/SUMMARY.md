@@ -4,7 +4,7 @@
 
 ## 目录
 
-1. [入门](1-Beginner)
+1. [入门](1-Beginner/README.md)
 	- 个人技能
 		- [学会Debug](1-Beginner/Personal-Skills/01-Learn To Debug.md)
 		- [如何分离问题debug](1-Beginner/Personal-Skills/02-How to Debug by Splitting the Problem Space.md)
@@ -30,7 +30,7 @@
 		- [没有思路的时候，休息一下](1-Beginner/Team-Skills/09-Take Breaks when Stumped.md)
 		- [如何决定下班时间](1-Beginner/Team-Skills/10-How to Recognize When to Go Home.md)
 		- [如何与不好相处的人相处](1-Beginner/Team-Skills/11-How to Deal with Difficult People.md)
-2. [进阶](2-Intermediate)
+2. [进阶](2-Intermediate/README.md)
 	- 个人技能
 		- [如何保持充满动力](2-Intermediate/Personal-Skills/01-How to Stay Motivated.md)
 		- [如何才能被广泛信任](2-Intermediate/Personal-Skills/02-How to be Widely Trusted.md)
@@ -58,7 +58,7 @@
 		- [如何评估面试](2-Intermediate/Judgment/06-How to Evaluate Interviewees.md)
 		- [如何知道何时实施昂贵的计算机科学](2-Intermediate/Judgment/07-How to Know When to Apply Fancy Computer Science.md)
 		- [如何与非工程师交谈](2-Intermediate/Judgment/08-How to Talk to Non-Engineers.md)
-3. [高级](3-Advanced)
+3. [高级](3-Advanced/README.md)
 	- 技术评判
         - [如何从不可能的事情中找到困难的地方](3-Advanced/Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
         - [如何使用嵌入型语言](3-Advanced/Technical-Judgment/02-How to Utilize Embedded Languages.md)
