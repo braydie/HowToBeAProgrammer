@@ -5,7 +5,7 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Translate by [ahangchen](https://github.com/ahangchen)
+Translated by [ahangchen](https://github.com/ahangchen)
 
 文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
 
