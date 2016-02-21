@@ -1,5 +1,11 @@
 # How to be a Programmer 中文版
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Robert L. Read with Community
+
+Copyright 2002, 2003, 2016 Robert L. Read
+
+Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+Translated by [ahangchen](https://github.com/ahangchen)
 
 文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
 
@@ -8,7 +14,7 @@
 
 　　这是非常主观的，所以，这篇文章注定是个人的并且一定程度上有点武断。我尽量写一些一个程序员在ta的工作中非常可能会遇到的事情。大部分这些问题以及它们的解决方案在人们的环境中是如此的普遍以至于我(说的)可能看起来有点唠叨。尽管如此，我还是希望这篇文章是有用的。
 
-　　编程是在课程上教授的。 那些了不起的书: The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96], 以及 Extreme Programming Explained [XP99] 都传授编程（知识）以及做一个好的程序员这个大话题。 在读这篇文章之前，或者此时，你当然也应该读一读Paul Graham [PGSite] 和 Eric Raymond [Hacker] 的文章。 但与那些著作不同，这篇文章强调社交问题并且总结了整套我所知的必须的技能。
+　　编程是在课程上教授的。 那些著作: The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96], 以及 Extreme Programming Explained [XP99] 都传授编程（知识）以及做一个好的程序员这个大话题。 在读这篇文章之前，或者此时，你当然也应该读一读Paul Graham [PGSite] 和 Eric Raymond [Hacker] 的文章。 但与那些著作不同，这篇文章强调社交问题并且总结了整套我所知的必须的技能。
 
 　　在这篇文章里，boss这个词指的是任何一个交给你工程去做的人。 我会同义地使用交易，公司，集体这些词，除了一些语境，比如，交易意味着赚钱，公司意味着现代的工作空间，集体一般是那些你一起工作的人。
 
