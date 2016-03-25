@@ -21,6 +21,8 @@ Welcome to the tribe.
 
 **[Also available in Chinese](zh/README.md)**
 
+**[Juga tersedia dalam Bahasa Indonesian](id/README.md)**
+
 1. [Beginner](en/1-Beginner)
 	- Personal Skills
 		- [Learn to Debug](en/1-Beginner/Personal-Skills/01-Learn To Debug.md)
