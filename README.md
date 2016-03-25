@@ -20,7 +20,8 @@ Welcome to the tribe.
 ## Contents
 
 **[Also available in Chinese](zh/README.md)**
-**[Juga tersedia dalam Bahasa Indonesian](id/BACASAYA.md)**
+
+**[Juga tersedia dalam Bahasa Indonesian](id/README.md)**
 
 1. [Beginner](en/1-Beginner)
 	- Personal Skills
