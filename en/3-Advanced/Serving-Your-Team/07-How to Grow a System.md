@@ -20,4 +20,4 @@ A reader, Rob Hafernik, sent in this comment on this section that I can do no be
 
 To which one can only reply *Fiat lux*!
 
-Next [How to Communiate Well](08-How to Communicate Well.md)
+Next [How to Communicate Well](08-How to Communicate Well.md)
