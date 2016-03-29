@@ -9,6 +9,8 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 
 原文：[HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
+如果您希望改进这份中文翻译，请向这个[分支](https://github.com/ahangchen/HowToBeAProgrammer)提交Pull request.
+
 文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
 
 ## 引言
