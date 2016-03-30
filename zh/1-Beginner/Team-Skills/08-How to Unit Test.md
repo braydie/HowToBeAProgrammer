@@ -1,9 +1,9 @@
-# 如何进行单元测试
+# How to Unit Test
 
-单元测试，对独立的代码功能片段，由编写代码的团队进行测试，也是一种编码，而非与之不同的一些事情。设计代码的一部分就是设计它该被如何测试。你应该写一个测试计划，即使它只是一句话。有时候测试很简单：“这个按钮看起来好吗？”,有时候它很复杂：“这个匹配算法可以精确地返回正确的匹配结果？”。
+Unit testing, the testing of an individual piece of coded functionality by the team that wrote it, is a part of coding, not something different from it. Part of designing the code is designing how it will be tested. You should write down a test plan, even if it is only one sentence. Sometimes the test will be simple: 'Does the button look good?' Sometimes it will be complex: 'Did this matching algorithm return precisely the correct matches?'
 
-无论任何可能的时候，使用断言检查以及测试驱动。这不仅能尽早发现bug，而且在之后也很有用，让你在其他方面担心的谜题得到解决。
+Use assertion checking and test drivers whenever possible. This not only catches bugs early, but is very useful later on and lets you eliminate mysteries that you would otherwise have to worry about.
 
-极限编程开发者广泛高效地编写单元测试，除了推荐他们的作品，我不能做更好的事情了。
+The Extreme Programming developers are writing extensively on unit testing effectively; I can do no better than to recommend their writings.
 
-Next [没有思路时休息一下](09-Take Breaks when Stumped.md)
+Next [Take Breaks when Stumped](09-Take Breaks when Stumped.md)

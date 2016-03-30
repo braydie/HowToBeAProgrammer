@@ -1,19 +1,19 @@
-# 如何发现信息
+# How to Find Out Information
 
-你所搜寻的事情的本质决定了你应该如何去寻找它。
+The nature of what you need to know determines how you should find it.
 
-如果你需要客观的而且容易辨认的*关于具体事物*的信息，例如一个软件的最新补丁版本，可以在Internet搜索，礼貌的询问很多的人，或者发起一个讨论组。不要在网上搜索任何带有观点或主观解释的东西：能够抵达真相的概率太低了。
+If you need information *about concrete things* that are objective and easy to verify, for example the latest patch level of a software product, ask a large number of people politely by searching the internet for it or by posting on a discussion group. Don't search on the internet for anything that smacks of either opinion or subjective interpretation: the ratio of drivel to truth is too high.
 
-如果你需要“一些主观的普遍知识”，人们对这些东西已有的思考历史，那就去图书馆吧。例如，学习数学或蘑菇或神秘的东西，去图书馆吧。
+If you need *general knowledge about something subjective* the history of what people have thought about it, go to the library (the physical building in which books are stored). For example, to learn about math or mushrooms or mysticism, go to the library.
 
-如果你需要知道*如何做一些琐碎的事情*,找两三本关于这个主题的书，仔细阅读。你可以从网络上学到如何做好这些琐碎的事情，比如安装一个软件包。你甚至可以学到一些重要的东西，例如好的编程技术，但相比读一本纸质书的相关部分，你很容易花更多时间在搜索和对结果排序，以及评估结果的权威性。
+If you need to know *how to do something that is not trivial* get two or three books on the subject and read them. You might learn how to do something trivial, like install a software package, from the Internet. You can even learn important things, like good programming technique, but you can easily spend more time searching and sorting the results and attempting to divine the authority of the results than it would take to read the pertinent part of a solid book.
 
-如果你需要*可能没有人知道的信息*，例如，“这个新品牌的软件在海量数据的情况下能工作吗”，你仍然必须在网络和图书馆里搜索。在这些选项都完全竭尽后，你可能需要设计一个实验来搞清楚这个问题。
+If you need *information that no one else could be expected to know* for example, ‘does this software that is brand new work on gigantic data sets?’, you must still search the internet and the library. After those options are completely exhausted, you may design an experiment to ascertain it.
 
-如果你需要一些考虑了某些特殊环境的观点或估值，和一个专家聊聊。例如，如果你想要知道用Lisp构建一个现代数据库管理系统是否是一个好主意，你应该和一个Lisp专家和一个数据库专家聊一聊。
+If you want an opinion or a value judgement that takes into account some unique circumstance, talk to an expert. For instance, if you want to know whether or not it is a good idea to build a modern database management system in LISP, you should talk to a LISP expert and a database expert.
 
-如果你想要知道*它具体是怎样的*，比如一个还未发布的在一个特定程序上更快的算法，跟一些在这个领域工作的人聊聊。
+If you want to know *how likely it is* that a faster algorithm for a particular application exists that has not yet been published, talk to someone working in that field.
 
-如果你想要做一个*只有你自己能做的个人决定*，比如你是否应该开始某个事业，尝试把一些对这个想法有益和有害的点列出来。如果这没有什么用，做一些预测。假设你已经从各个角度研究了这个想法，并且已经完成了你的任务，在心里列举所有的后果，赞同的意见，反对的意见，但可能仍然有迟疑。你现在应该遵循你自己内心的想法，然后让你的大脑停止思考。大多数可用的预测技术都对决定你内心一半的欲望有作用，因为它们在体现你自己完全多义和随机模式的潜意识都很有用。
+If you want to make a *personal decision that only you can make* like whether or not you should start a business, try putting into writing a list of arguments for and against the idea. If that fails, consider divination. Suppose you have studied the idea from all angles, have done all your homework, and worked out all the consequences and pros and cons in your mind, and yet still remain indecisive. You now must follow your heart and tell your brain to shut up. The multitude of available divination techniques are very useful for determining your own semi-conscious desires, as they each present a complete ambiguous and random pattern that your own subconscious will assign meaning to.
 
-Next [如何将人们作为信息源](04-How to Utilize People as Information Sources.md)
+Next [How to Utilize People as Information Sources](04-How to Utilize People as Information Sources.md)

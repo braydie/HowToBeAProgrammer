@@ -1,5 +1,5 @@
-# 没有思路时，休息一下
+# Take Breaks when Stumped
 
-没有思路时，休息一下。我有时候没有思路时会冥思15分钟，当我回来看问题时，它就神奇地解开了。更大尺度上，一个晚上的睡眠能做到一样的事情，临时切换到其他活动上可能会生效。
+When stumped, take a break. I sometimes meditate for 15 minutes when stumped and the problem magically unravels when I come back to it. A night's sleep sometimes does the same thing on a larger scale. It's possible that temporarily switching to any other activity may work.
 
-Next [如何决定下班时间](10-How to Recognize When to Go Home.md)
+Next [How to Recognize When to Go Home](10-How to Recognize When to Go Home.md)

@@ -1,11 +1,11 @@
-# 如何有效地沟通
+# How to Communicate Well
 
-为了良好地沟通，你必须认识到它的困难。它本身就是一种技能。与你交流的人本身是有瑕疵的,这一事实使得沟通变得更加困难。他们不会努力去理解你。他们不善言辞。他们经常过度工作或者无聊，至少，有时候只关注他们自己的工作而非你要发表的长篇大论。上课，练习写作，公共演讲，聆听，这些东西的一个好处是，如果你擅长它们，你可以更容易看到问题所在以及解决方法。
+To communicate well, you have to recognize how hard it is. It is a skill unto itself. It is made harder by the fact that the persons with whom you have to communicate are flawed. They do not work hard at understanding you. They speak poorly and write poorly. They are often overworked or bored, and, at a minimum, somewhat focused on their own work rather than the larger issues you may be addressing. One of the advantages of taking classes and practising writing, public speaking, and listening is that if you become good at it you can more readily see where problems lie and how to correct them.
 
-程序员是一种社会动物，他们的生存依赖于与团队的交流。高级程序员是一种社会动物，他们的满意依赖于与团队外的人的交流。
+The programmer is a social animal whose survival depends on communication with her team. The advanced programmer is a social animal whose satisfaction depends on communication with people outside her team.
 
-程序员从混沌中带来秩序，一种实现这一目标的有趣方法是从外部的一个提议开始。这能用*稻草人*或*白纸*模式或者口头的方式来完成。这种领导对于让团队置身于辩论中有极大的好处。这也把你暴露到批评，或者，拒绝与否定中。高级程序员必须准备好接受这些，因为他有特殊的能力，也因此有特殊的责任。非程序员出身的企业家需要程序员在某些方面提供领导。程序员是思想与现实之间的一部分桥梁。
+The programmer brings order out of chaos. One interesting way to do this is to initiate a proposal of some kind outside the team. This can be done in a *strawman* or *white-paper* format or just verbally. This leadership has the tremendous advantage of setting the terms of the debate. It also exposes you to criticism, and worse, rejection and neglect. The advanced programmer must be prepared to accept this, because she has a unique power and therefore a unique responsibility. Entrepreneurs who are not programmers need programmers to provide leadership in some ways. Programmers are the part of the bridge between ideas and reality that rests on reality.
 
-我没有很好地掌握沟通的技巧，但我正在尝试的是一种四叉路径：在我有了一些有序的主意并且充分准备好后，我试着口头表达，交给人们一张白纸（可能是真实的纸，也可能是电子的）来给他们展示一个demo，然后耐心地重复这个过程。很多次我想过，我们在这种困难的沟通里还是不够耐心。如果你的想法没有马上被接受，你不应该丧气。如果你在准备中投入了能量，没有人因此会看低你。
+I haven't mastered communicating well, but what I'm currently trying is what I think of a four-pronged approach: After I have my ideas in order and am fully prepared, I try to speak verbally, hand people a white-paper (on real paper, as well as electronically) show them a demo, and then patiently repeat this process. I think a lot of times we are not patient enough in this kind of difficult communication. You should not be disheartened if your ideas are not immediately accepted. If you have invested energy in their preparation, no one will think poorly of you for it.
 
-Next [如何告诉人们他们不想听的东西](09-How to Tell People Things They Don't Want to Hear.md)
+Next [How to Tell People Things They Don't Want to Hear](09-How to Tell People Things They Don't Want to Hear.md)

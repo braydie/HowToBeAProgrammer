@@ -1,15 +1,16 @@
-# 如何识别下班时间
+# How to Recognize When to Go Home
 
-计算机编程是一种活动也是一种文化。不幸的事实是它不是一种看重身心健康的文化。从文化/历史缘由看（例如，在机器空载的晚上工作的需要），还有因为超过市场时间的压力和程序员的缺乏，计算机程序员传统上总是过度工作。我不认为你可以相信你听到的所有故事，但我认为一周工作60小时是常见的，50小时更多的像一个最小值。这意味着实际总是比需要的时间花费得更多。这对一个好的，不仅为他们自己负责而且为他们的同事负责的程序员来说是一个严重的问题。你需要识别什么时候下班，有时候还要建议其他人回家的时间。解决这个问题的固定规则不存在，抚养一个孩子的固定规则也是，出于同样的原因---每个人都是不同的。
+Computer programming is an activity that is also a culture. The unfortunate fact is that it is not a culture that values mental or physical health very much. For both cultural/historical reasons (the need to work at night on unloaded computers, for example) and because of overwhelming time-to-market pressure and the scarcity of programmers, computer programmers are traditionally overworked. I don't think you can trust all the stories you hear, but I think 60 hours a week is common, and 50 is pretty much a minimum. This means that often much more than that is required. This is serious problem for a good programmer, who is responsible not only for themselves but their team-mates as well. You have to recognize when to go home, and sometimes when to suggest that other people go home. There can't be any fixed rules for solving this problem, anymore than there can be fixed rules for raising a child, for the same reason---every human being is different.
 
-一周超过60个小时工作对我来说是非常辛苦的，我可以申请挺短的一段时间（大概是一周），有时候在我的预料中。我不知道对一个人来说一周工作超过60小时是否公平，我甚至不知道40小时是否是公平的。然而，我确定，如果你努力工作，却在你额外工作的时间里获得了很少东西，这是很愚蠢的。对我个人来说，我认为做一个懦夫不是一个程序员该做的事。遗憾的是，事实上，程序员经常*被*要求做一个懦夫来为一些人表演，例如一个经理想要给总经理留下深刻印象。程序员经常对此屈服，因为他们希望开心，并且不善拒绝，与此相反的有四道防护墙：
-- 尽可能与公司里的任何人交流，这样没人可以误导总经理正在发生的事情；
-- 学习明确而防御性地评估和规划，让每个人看到时间表的内容以及它的立场；
-- 学会拒绝，在必要时作为一个团队拒绝，并且
-- 如果必须的话，退出团队
+Beyond 60 hours a week is an extraordinary effort for me, which I can apply for short periods of time (about one week), and that is sometimes expected of me. I don't know if it is fair to expect 60 hours of work from a person; I don't even know if 40 is fair. I am sure, however, that it is stupid to work so much that you are getting little out of that extra hour you work. For me personally, that's any more than 60 hours a week. I personally think a programmer should exercise noblesse oblige and shoulder a heavy burden. However, it is not a programmer's duty to be a patsy. The sad fact is programmers *are* often asked to be patsies in order to put on a show for somebody, for example a manager trying to impress an executive. Programmers often succumb to this because they are eager to please and not very good at saying no. There are four defences against this:
 
-大多数程序员是好的程序员，好的程序员想要做很多东西。为了做到这点，他们需要高效管理他们的时间。从一个问题中兴奋和深陷其中都有一定量的心理惯性。许多程序员发现他们在长久不被打扰的一段时间兴奋和集中注意力后工作得最好。然而，人们必须睡觉，并且有其他的责任。每个人需要找到一种方式去满足他们的生物节奏和工作节奏。每个程序员需要做任何必须的事情来提供高效的工作周期，比如只参加的某些最关键的会议，以此保留一定的时间。
+- Communicate as much as possible with everyone in the company so that no one can mislead the executives about what is going on,
+- Learn to estimate and schedule defensively and explicitly and give everyone visibility into what the schedule is and where it stands,
+- Learn to say no, and say no as a team when necessary, and
+- Quit if you have to.
 
-因为我有孩子，我尝试和他们在晚上相处。我自己最好的工作节奏是工作很长的一天，在办公室或办公室附近睡觉（从家到工作我需要很长的转换时间）然后足够早地回家，在我的孩子们睡觉前与他们相处。我觉得这并不舒服，但这是我可以工作的最好的妥协。如果你得了传染病，回家。如果你有自杀的想法，回家。如果你有超过几秒的凶杀的想法，回家。如果有人有严重的心理障碍或者超出心情低落的心理疾病的标志，把他送回家。如果你由于疲劳变得与平时不同地在某种程度上趋于不诚实或失望，休息一下。不要使用药物缓解疲劳。不要滥用咖啡因。
+Most programmers are good programmers, and good programmers want to get a lot done. To do that, they have to manage their time effectively. There is a certain amount of mental inertia associated with getting warmed-up to a problem and deeply involved in it. Many programmers find they work best when they have long, uninterrupted blocks of time in which to get warmed-up and concentrate. However, people must sleep and perform other duties. Each person needs to find a way to satisfy both their human rhythm and their work rhythm. Each programmer needs to do whatever it takes to procure efficient work periods, such as reserving certain days in which you will attend only the most critical meetings.
 
-Next [如何与不好相处的人相处](11-How to Deal with Difficult People.md)
+Since I have children, I try to spend evenings with them sometimes. The rhythm that works best for me is to work a very long day, sleep in the office or near the office (I have a long commute from home to work) then go home early enough the next day to spend time with my children before they go to bed. I am not comfortable with this, but it is the best compromise I have been able to work out. Go home if you have a contagious disease. You should go home if you are thinking suicidal thoughts. You should take a break or go home if you think homicidal thoughts for more than a few seconds. You should send someone home if they show serious mental malfunctioning or signs of mental illness beyond mild depression. If you are tempted to be dishonest or deceptive in a way that you normally are not due to fatigue, you should take a break. Don't use cocaine or amphetamines to combat fatigue. Don't abuse caffeine.
+
+Next [How to Deal with Difficult People](11-How to Deal with Difficult People.md)

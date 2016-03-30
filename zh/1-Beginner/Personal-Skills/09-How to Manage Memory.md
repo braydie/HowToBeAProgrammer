@@ -1,14 +1,15 @@
-# 如何管理内存
+# How to Manage Memory
 
-内存是一种你不可以耗尽的珍贵资源。在一段时期里，你可以无视它，但最终你必须决定如何管理内存。
+Memory is a precious resource that you can't afford to run out of. You can ignore it for a while but eventually you will have to decide how to manage memory.
 
-堆内存是在单一子程序范围外，需要持续（保留）的空间。一大块内存，在没有东西指向它的时候，是无用的，因此被称为*垃圾*。根据你所使用的系统的不同，你可能需要自己显式释放将要变成垃圾的内存。更多时候你可能使用一个有*垃圾回收器*的系统。一个垃圾回收器会自己注意到垃圾的存在并且在不需要程序员做任何事情的情况下释放它的内存空间。垃圾回收器是奇妙的：它减小了错误，然后增加了代码的简洁性。如果可以的话，使用垃圾回收器。
-但是即使有了垃圾回收机制，你还是可能把所有的内存填满垃圾。一个典型的错误是把哈希表作为一个缓存，但是忘了删除对哈希表的引用。因为引用仍然存在，被引用者是不可回收但却无用的。这就叫做*内存泄露*。你应该尽早发现并且修复内存泄露。如果你会长时间运行系统，内存可能在测试中不会被耗尽，但可能在用户那里被耗尽。
+Space that needs to persist beyond the scope of a single subroutine is often called *heap allocated*. A chunk of memory is useless, hence *garbage*, when nothing refers to it. Depending on the system you use, you may have to explicitly deallocate memory yourself when it is about to become garbage. More often you may be able to use a system that provides a *garbage collector*. A garbage collector notices garbage and frees its space without any action required by the programmer. Garbage collection is wonderful: it lessens errors and increases code brevity and concision cheaply. Use it when you can.
 
-创建新对象在任何系统里都是有点昂贵的。然而，在子程序里直接为局部变量分配内存通常很便宜，因为释放它的策略很简单。你应该避免不必要的对象创建。
+But even with garbage collection, you can fill up all memory with garbage. A classic mistake is to use a hash table as a cache and forget to remove the references in the hash table. Since the reference remains, the referent is non-collectable but useless. This is called a *memory leak*. You should look for and fix memory leaks early. If you have long running systems memory may never be exhausted in testing but will be exhausted by the user.
 
-当你可以定义你一次需要的数量的上界的时候，一个重要的情况出现了：如果这些对象都占用相同大小的内存，你可以使用单独的一块内存，或缓存，来持有所有的这些对象。你需要的对象可以在这个缓存里以循环的方式分配和释放，所以它有时候被称为环缓存。这通常比堆内存分配更快。（译者注：这也被称为对象池。）
+The creation of new objects is moderately expensive on any system. Memory allocated directly in the local variables of a subroutine, however, is usually cheap because the policy for freeing it can be very simple. You should avoid unnecessary object creation.
 
-有时候你需要显式释放已分配的内存，所以它可以被重新分配而非依赖于垃圾回收机制。然后你必须在每块内存上使用谨慎的智慧，并且为它设计一种在合适的时候重新分配的方式。这种销毁的方式可能随着你创建的对象的不同而不同。你必须确定每个内存分配方法的执行与最终都匹配一个内存释放操作。（译者注：在C里面，no malloc no free，在C++里面，no new no free）。这通常是很困难的，所以程序员通常会实现一种简单的方式或者垃圾回收机制，比如引用计数，来为它们做这件事情。
+An important case occurs when you can define an upper bound on the number of objects you will need at one time. If these objects all take up the same amount of memory, you may be able to allocate a single block of memory, or a buffer, to hold them all. The objects you need can be allocated and released inside this buffer in a set rotation pattern, so it is sometimes called a ring buffer. This is usually faster than heap allocation.
 
-Next [如何处理偶现的Bug](10-How to Deal with Intermittent Bugs.md)
+Sometimes you have to explicitly free allocated space so it can be reallocated rather than rely on garbage collection. Then you must apply careful intelligence to each chunk of allocated memory and design a way for it to be deallocated at the appropriate time. The method may differ for each kind of object you create. You must make sure that every execution of a memory allocating operation is matched by a memory deallocating operation eventually. This is so difficult that programmers often simply implement a rudimentary form or garbage collection, such as reference counting, to do this for them.
+
+Next [How to Deal with Intermittent Bugs](10-How to Deal with Intermittent Bugs.md)

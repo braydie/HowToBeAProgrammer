@@ -1,9 +1,9 @@
-# 如何告诉人们他们不想听的东西
+# How to Tell People Things They Don't Want to Hear
 
-你会经常需要告诉人们一些让他们不舒服的事情。记住，你必须为某种原因才这样做。即使没有什么可以用来解决这个问题，你也该尽早告诉他们，这样他们才能充分警觉。
+You will often have to tell people things that will make them uncomfortable. Remember that you are doing this for a reason. Even if nothing can be done about the problem, you are telling them as early as possible so they will be well-informed.
 
-向别人指出一个问题的最好方法是同时提供一个解决方案。其次的方法是呼吁他们寻求帮助。如果你可能会不被信任，你应该为你的主张寻求支持。
+The best way to tell someone about a problem is to offer a solution at the same time. The second best way is to appeal to them for help with the problem. If there is a danger that you won't be believed, you should gather some support for your assertion.
 
-一种你必须说的最不舒服且普遍的事情是“时间不够”。尽责的程序员讨厌这样说，但必须尽早说。没有什么比deadline抵达，不得不推迟进度更加糟糕，即使唯一的行动是通知每个人。更好的做法是，作为一个团队整体来做这件事，如果物理上做不到，至少是精神上这样做。你会想要得到你的团队对你的观点以及你为之所做的事情的支持，团队必须与你共同面对这样的后果。
+One of the most unpleasant and common things you will have to say is, ‘The schedule will have to slip.’ The conscientious programmer hates to say this, but must say it as early as possible. There is nothing worse than postponing action when a milestone slips, even if the only action is to inform everyone. In doing this, it is better to do it as a team, at least in spirit, if not physically. You will want your team's input on both where you stand and what can be done about it, and the team will have to face the consequences with you.
 
-Next [如何处理管理神话](10-How to Deal with Managerial Myths.md)
+Next [How to Deal with Managerial Myths](10-How to Deal with Managerial Myths.md)

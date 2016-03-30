@@ -1,13 +1,13 @@
-# 如何获得晋升
+# How to Get a Promotion
 
-想要被提升为某种角色，先做那个角色该做的事情。
+To be promoted to a role, act out that role first.
 
-为了提升到某个位置，找到那个位置期望做的事情，然后去做。
+To get promoted to a title, find out what is expected of that title and do that.
 
-想要得到薪酬的提升，带着信息去协商。
+To get a pay raise, negotiate armed with information.
 
-如果你觉得你值得得到提升，与你的boss聊一聊。清楚地问他们你需要做什么才能获得提升，然后努力去做。这听起来很老套，但大多数时候你对你需要做的事情的追求与你boss的想法是不同的。这可能会让你的boss在某些程度上有些失落。
+If you feel like you are past due for a promotion, talk to your boss about it. Ask them explicitly what you need to do to get promoted, and try to do it. This sounds trite, but often times your perception of what you need to do will differ considerably from your boss's. Also this will pin your boss down in some ways.
 
-大多数程序员可能在某些形式上对他们的相对能力有夸张的感觉 --- 毕竟，我们不可能都在前10%里！然而，我也见过一些非常不得志的人。人不能期望每个人的评价在什么时候都完美与现实相同，但我认为人们通常在一定程度上是公平的，有这样一个警告：如果别人看不到你的工作，你就得不到欣赏。有时候，因为偶然或个人习惯，有些人可能得不到太多关注。在家努力工作或者与你的团队和boss地理隔离的话，这会变得特别困难。
+Most programmers probably have an exaggerated sense of their relative abilities in some ways---after all, we can't all be in the top 10%! However, I have seen some people who were seriously unappreciated. One cannot expect everyone's evaluation to perfectly match reality at all times, but I think people are generally moderately fair, with one caveat: you cannot be appreciated without visibility into your work. Sometimes, due to happenstance or personal habits, someone will not be noticed much. Working from home a lot or being geographically separated from your team and boss makes this especially difficult.
 
-Next [服务你的团队 - 如何发展才能](../Serving-Your-Team/01-How to Develop Talent.md)
+Next [Serving Your Team - How to Develop Talent](../Serving-Your-Team/01-How to Develop Talent.md)

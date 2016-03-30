@@ -1,15 +1,15 @@
-# 如何优化循环
+# How to Optimize Loops
 
-有时候你会遇到循环，或者递归函数，它们会花费很长的执行时间，可能是你的产品的瓶颈。在你尝试使循环变得快一点之前，花几分钟考虑是否有可能把它整个移除掉，有没有一个不同的算法？你可以在计算时做一些其他的事情吗？如果你不能找到一个方法去绕开它，你可以优化这个循环了。这是很简单的，move stuff out。最后，这不仅需要独创性而且需要理解每一种语句和表达式的开销。这里是一些建议：
+Sometimes you'll encounter loops, or recursive functions, that take a long time to execute and are bottlenecks in your product. Before you try to make the loop a little faster, spend a few minutes considering if there is a way to remove it entirely. Would a different algorithm do? Could you compute that while computing something else? If you can't find a way around it, then you can optimize the loop. This is simple; move stuff out. In the end, this will require not only ingenuity but also an understanding of the expense of each kind of statement and expression. Here are some suggestions:
 
-- 删除浮点运算操作。
-- 非必要时不要分配新的内存。
-- 把常量都放在一起声明。
-- 把I/O放在缓冲里做。
-- 尽量不使用除法。
-- 尽量不适用昂贵的类型转换。
-- 移动指针而非重新计算索引。
+- Remove floating point operations.
+- Don't allocate new memory blocks unnecessarily.
+- Fold constants together.
+- Move I/O into a buffer.
+- Try not to divide.
+- Try not to do expensive typecasts.
+- Move a pointer rather than recomputing indices.
 
-这些操作的具体代价取决于你的具体系统。在一些系统中，编译器和硬件会为你做一些事情。但必须清楚，有效的代码比需要在特殊平台下理解的代码要好。
+The cost of each of these operations depends on your specific system. On some systems compilers and hardware do these things for you. Clear, efficient code is better than code that requires an understanding of a particular platform.
 
-Next [如何处理I/O开销](08-How to Deal with IO Expense.md)
+Next [How to Deal with I/O Expense](08-How to Deal with IO Expense.md)
