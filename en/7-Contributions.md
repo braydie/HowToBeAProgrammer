@@ -18,6 +18,8 @@ Currently this guide has been translated from English into the following languag
 
 - Chinese by [ahangchen](https://github.com/ahangchen)
 
+**If you provide the initial translation of the guide into another language, you become legible to become a contributor on this project to help maintain and review changes made to the translation.**
+
 ## Contributors
 
 Github holds a list of all [contributors](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors) to this project.
