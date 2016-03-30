@@ -1,13 +1,12 @@
-# How to Deal with Managerial Myths
+# 如何处理管理神话
 
-The word *myth* sometimes means fiction. But it has a deeper connotation. It also means a story of religious significance that explains the universe and mankind's relationship to it. Managers tend to forget what they learned as programmers and believe in certain myths. It would be as rude and unsuccessful to try to convince them these myths are false as to try to disillusion a devoutly religious person of their beliefs. For that reason, you should recognize these beliefs as myths:
+*神话*这个词有时候意味着虚构。但这有着更深层的内涵。它也意味着一些宗教内容来解释宇宙和人类与之的关系。管理者倾向于忘记他们作为一个程序员时学到的东西，并且相信某种传说。试着让他们相信这种传说是错的,正如让一个虔诚的宗教信徒从他们的信仰中醒悟过来一样粗鲁而失败。因此，你应该认可这些信仰：
 
-- More documentation is always better. (They want it, but they don't want you to spend any time on it.)
-- Programmers can be equated. (Programmers vary by an order of magnitude.)
-- Resources can be added to a late project to speed it. (The cost of communication with the new persons is almost always more taxing than helpful.)
-- It is possible to estimate software development reliably. (It is not even theoretically possible.)
-- Programmers' productivity can be measured in terms of some simple metric, like lines of code. (If succinctness is power, lines of code are bad, not good.)
+- 文档越多越好。（他们需要文档，但他们不会想要你在这些东西上花时间。）
+- 程序员是平等的。（程序员可以按重要程度分类。）
+- 分配更多资源给迟来的项目可以让它加速。（与新人的交流的代价大多数时候很繁重并且无用。）
+- 程序员的效率可以用一些简单的标准尺度来度量，比如代码行数（如果简洁才是力量，那么代码行数是坏的，而非好的。）
 
-If you have an opportunity, you can try to explain these things, but don't feel bad if you have no success and don't damage your reputation by confronting these myths belligerently. Each of these myths reinforces the manager's idea that they have some actual control over what is going on. The truth is that managers facilitate if they are good, and impede if they are bad.
+如果有机会，你可以试着解释这些东西，但如果你没有成功，不要觉得悲伤，不要好斗地反对这些神话以致损害了你的声望。每个这样的神话增强了管理者关于他们有一些对正在进行的事情的实际控制的想法。真相是，如果管理者是好的，他们会帮助你，如果他们是坏的，他们会妨碍你。
 
-Next [How to Deal with Organizational Chaos](11-How to Deal with Organizational Chaos.md)
+Next [如何处理组织混乱](11-How to Deal with Organizational Chaos.md)

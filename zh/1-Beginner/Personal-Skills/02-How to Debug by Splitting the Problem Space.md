@@ -1,15 +1,15 @@
-# How to Debug by Splitting the Problem Space
+# 如何通过分割问题 Debug
 
-Debugging is fun, because it begins with a mystery. You think it should do something, but instead it does something else. It is not always quite so simple---any examples I can give will be contrived compared to what sometimes happens in practice. Debugging requires creativity and ingenuity. If there is a single key to debugging it is to use the divide and conquer technique on the mystery.
+调试是有趣的，因为它一开始是个迷。你认为它应该这样做，但实际上它却那样做。很多时候并不仅是这么简单---我给出的任何例子都会被设计来与一些偶尔在现实中会发生的情况相比较。调试需要创造力与智谋。如果说调试有简单之道，那就是在这个谜题上使用分治法。
 
-Suppose, for example, you created a program that should do ten things in a sequence. When you run it, it crashes. Since you didn't program it to crash, you now have a mystery. When you look at the output, you see that the first seven things in the sequence were run successfully. The last three are not visible from the output, so now your mystery is smaller: ‘It crashed on thing #8, #9, or #10.’
+假如，你创建了一个程序，它会依次执行十件事情。当你运行它的时候，它却崩溃了。但你本来的目的并不是想让它崩溃，所以现在一个谜题扔给你了。当你查看输出时，你可以看到序列里前七件事情运行成功了。最后三件事情在输出里却看不到，所以你的谜题变小了：“它是在执行第8、9、10件事的时候崩溃的”。
 
-Can you design an experiment to see which thing it crashed on? Sure. You can use a debugger or we can add printline statements (or the equivalent in whatever language you are working in) after #8 and #9. When we run it again, our mystery will be smaller, such as ‘It crashed on thing #9.’ I find that bearing in mind exactly what the mystery is at any point in time helps keep one focused. When several people are working together under pressure on a problem it is easy to forget what the most important mystery is.
+你是否可以设计一个实验来观察它是在哪件事情上崩溃呢？当然，你可以用一个调试器或者我们可以在第8第9件事后面加一些[printlining](../../4-Glossary.md)的语句（或者你正在使用的任何语言里的等价的事情），当我们重新运行它的时候，我们的谜题会变得更小，比如“它是在做第九件事的时候崩溃的”。我发现，把谜题是怎样的一直清楚地记在心里能让我们保持注意力。当几个人在一个问题的压力下一起工作时，很容易忘记最重要的谜题是什么。
 
-The key to divide and conquer as a debugging technique is the same as it is for algorithm design: as long as you do a good job splitting the mystery in the middle, you won't have to split it too many times, and you will be debugging quickly. But what is the middle of a mystery? There is where true creativity and experience comes in.
+调试技术中分治的关键和算法设计里的分治是一样的。你只要从中间开始划分，就不用划分太多次，并且能快速地调试。但问题的中点在哪里？这就是真正需要创造力和经验的地方了。
 
-To a true beginner, the space of all possible errors looks like every line in the source code. You don't have the vision you will later develop to see the other dimensions of the program, such as the space of executed lines, the data structure, the memory management, the interaction with foreign code, the code that is risky, and the code that is simple. For the experienced programmer, these other dimensions form an imperfect but very useful mental model of all the things that can go wrong. Having that mental model is what helps one find the middle of the mystery effectively.
+对于一个真正的初学者来说，可能发生错误的地方好像在代码的每一行里都有。一开始，你看不到一些你稍后开发的时候才会看到的其它纬度，比如执行过的代码段，数据结构，内存管理，与外部代码的交互，一些有风险的代码，一些简单的代码。对于一个有经验的程序员，这些其他的维度为整个可能出错的事情展示了一个不完美但是有用的思维模型。拥有这样的思维模型能让一个人更高效地找到谜题的中点。
 
-Once you have evenly subdivided the space of all that can go wrong, you must try to decide in which space the error lies. In the simple case where the mystery is: ‘Which single unknown line makes my program crash?’, you can ask yourself: ‘Is the unknown line executed before or after this line that I judge to be executed in the middle of the running program?’ Usually you will not be so lucky as to know that the error exists in a single line, or even a single block. Often the mystery will be more like: ‘Either there is a pointer in that graph that points to the wrong node, or my algorithm that adds up the variables in that graph doesn't work.’ In that case you may have to write a small program to check that the pointers in the graph are all correct in order to decide which part of the subdivided mystery can be eliminated.
+一旦你最终划分出了所有可能出错的地方，你必须试着判断错误躲在哪个地方。比如：这样一个谜题，哪一行未知的代码让我的程序崩溃了？你可以这样问自己，出错的代码是在我刚才执行的程序中间的那行代码的前面还是后面？通常你不会那么幸运就能知道错误在哪行代码甚至是哪个代码块。通常谜题更像这个样子的：“图中的一个指针指向了错误的结点还是我的算法里变量自增的代码没有生效？”，在这种情况下你需要写一个小程序去确认图中的指针是否都是对的，来决定分治后的哪个部分可以被排除。
 
-Next [How to Remove an Error](03-How to Remove an Error.md)
+Next [如何移除错误](03-How to Remove an Error.md)

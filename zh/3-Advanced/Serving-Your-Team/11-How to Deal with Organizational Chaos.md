@@ -1,11 +1,11 @@
-# How to Deal with Organizational Chaos
+# 如何处理组织混乱
 
-There are often brief periods of great organizational chaos, such as lay-offs, buyouts, ipos, firings, new hirings, and so on. These are unsettling to everyone, but perhaps a little less unsettling to the programmer whose personal self-esteem is founded in capacity rather than in position. Organizational chaos is a great opportunity for programmers to exercise their magic power. I've saved this for last because it is a deep tribal secret. If you are not a programmer, please stop reading now.
+经常会有短暂的组织混乱，比如解雇，收购,IPO，新雇佣，等等。对每个人来说这都是令人不安的，但可能对于那些将自尊建立在能力而非位置上的程序员来讲，这种不安不会那么严重。组织混乱对程序员来讲是锻炼他们的魔力的好机会。因为这是一个集体秘密，在最后我会有所保留。如果你不是一个程序员，就不要再读下去了。
 
-> Engineers have the power to create and sustain.
+> 工程师有能力创造与维持。
 
-Non-engineers can order people around but, in a typical software company, can create and sustain nothing without engineers, just as engineers typically cannot sell a product or manage a business effectively. This power is proof against almost all of the problems associated with temporary organizational mayhem. When you have it you should ignore the chaos completely and carry on as if nothing is happening. You may, of course, get fired, but if that happens you can probably get a new job because of the magic power. More commonly, some stressed-out person who does not have the magic power will come into your cube and tell you to do something stupid. If you are really sure that it is stupid, it is best to smile and nod until they go away and then carry on doing what you know is best for the company.
+非工程师可以安排人们，但，在典型的软件公司，如果没有程序员的话，他们不能创造与维持任何东西，正如工程师通常不能有效地销售产品或者管理商业。这种力量对于大多数与临时组织混乱相关的问题是一种抵抗。如果你有这种力量，你应当完全忽视这种混乱并当做什么都没发生那样坚持下去。你可能，当然，被解雇，但如果这发生了，你可能因为这种力量得到新的工作。更普遍的，一些紧张的没有这种魔力的人会进入你的空间并告诉你做一些蠢事。如果你真的确信这是一件蠢事，最好的做法是微笑，点头，直到他们走开，然后继续做你认为对公司最好的事情。
 
-If you are a leader, tell your people to do the same thing and tell them to ignore what anybody else tells them. This course of action is the best for you personally, and is the best for your company or project.
+如果你是一个领导者，告诉你的员工做一样的事情，告诉他们忽视其他任何人告诉他们的东西。这种行为的过程对你个人是最好的，对你的公司或工程也是最好的。
 
-Next [Glossary](../../GLOSSARY.md)
+Next [词汇表](../../4-Glossary.md)

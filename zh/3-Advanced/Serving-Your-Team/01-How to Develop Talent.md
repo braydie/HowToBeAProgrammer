@@ -1,23 +1,23 @@
-# How to Develop Talent
+# 如何发展才能
 
-Nietschze exaggerated when he said [Stronger]:
+Nietschze夸大了他所说的：
 
-> What does not destroy me, makes me stronger.
+>杀不死我们的，只会让我们更强大。
 
-Your greatest responsibility is to your team. You should know each of them well. You should stretch your team, but not overburden them. You should usually talk to them about the way they are being stretched. If they buy in to it, they will be well motivated. On each project, or every other project, try to stretch them in both a way that they suggest and a way that you think will be good for them. Stretch them not by giving them more work, but by giving them a new skill or better yet a new role to play on the team.
+你最大的责任是对你的团队负责。你应该非常了解他们中的每个人。你应该激励你的团队，但不要让他们过劳。你通常应该告诉他们他们被激励的方式。如果他们觉得划算，他们会被很好的激励。每个工程中，或者在每个其他的工程里，试着同时用他们建议的以及你认为对他们好的方式去激励他们。激励他们的方法不是给他们更多工作，而是给他们一个新的技能或在团队里扮演一个新的角色。
 
-You should allow people (including yourself) to fail occasionally and should plan for some failure in your schedule. If there is never any failure, there can be no sense of adventure. If there are not occasional failures, you are not trying hard enough. When someone fails, you should be as gentle as you can with them while not treating them as though they had succeeded.
+你应该允许人们（包括你自己）偶尔失败，并且应该为一些失败预留一些时间。如果从未有失败，冒险也就没有意义。如果没有偶然的失败，说明其实你没有足够努力。当一个人失败了，你应该尽可能温柔地对待他，不该把他们当做成功了那样子。
 
-Try to get each team member to buy in and be well motivated. Ask each of them explicitly what they need to be well-motivated if they are not. You may have to leave them dissatisfied, but you should know what everybody desires.
+为了让每个团队成员被充分激励，问清楚他们中的每个人，如果他们没有动力的话，他们需要什么才能被充分激励。你可能需要让他们保持不满意的状态，但你需要知道每个人需要的是什么。
 
-You can't give up on someone who is intentionally not carrying their share of the load because of low morale or dissatisfaction and just let them be slack. You must try to get them well-motivated and productive. As long as you have the patience, keep this up. When your patience is exhausted, fire them. You cannot allow someone who is intentionally working below their level to remain on the team, since it is not fair to the team.
+你不该因为这样的原因放弃，或者让一些人松懈：他们士气低落或者不满因此故意没有承担分担到的责任。你必须试着让他们充分被激励并且有效率。只要你有耐心，坚持这样做。当你的耐心耗尽时，就解雇他们吧。你不能允许故意不司其职的员工留在团队里，因为这对团队不公平。
 
-Make it clear to the strong members of your team that you think they are strong by saying so in public. Praise should be public and criticism private.
+通过在公众场合这样说，让你团队中的强大成员清楚地知道他们是强大的。表扬应当公开，批评应当私密。
 
-The strong members of the team will naturally have more difficult tasks than the weak members of the team. This is perfectly natural and nobody will be bothered by it as long as everyone works hard.
+团队中的强大成员会自然地比弱的成员有更多困难的任务。这是完美而自然的，没人为因此困扰，因为每个人都努力工作。
 
-It is an odd fact that is not reflected in salaries that a good programmer is more productive than 10 bad programmers. This creates a strange situation. It will often be true that you could move faster if your weak programmers would just get out of the way. If you did this you would in fact make more progress in the short term. However, your tribe would lose some important benefits, namely the training of the weaker members, the spreading of tribal knowledge, and the ability to recover from the loss of the strong members. The strong must be gentle in this regard and consider the issue from all angles.
+一个在工资中没有反馈出来的奇怪的事实是，好的程序员比十个糟糕的程序员要有效率得多。这导致了一种奇怪的现象。通常，如果你们的弱程序员不挡道的话，你能跑的更快。如果你这样做了，事实上你在短期能取得更多进度。然而， 你的交易会失去一些重要的好处，叫做对弱小成员的训练，对集体知识的传递，失去强大程序员后的恢复能力。强大的程序员对这种现象应该温和些，并且从各种角度去考虑这个问题。
 
-You can often give the stronger team members challenging, but carefully delineated, tasks.
+你经常能够给强大的团队成员有挑战的，但细致描绘的任务。
 
-Next [How to Choose What to Work On](02-How to Choose What to Work On.md)
+Next [如何选择工作的内容](02-How to Choose What to Work On.md)

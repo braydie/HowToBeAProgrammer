@@ -1,5 +1,5 @@
-# How to Choose What to Work On
+# 如何选择工作的内容
 
-You balance your personal needs against the needs of the team in choosing what aspect of a project to work on. You should do what you are best at, but try to find a way to stretch yourself not by taking on more work but by exercising a new skill. Leadership and communication skills are more important than technical skills. If you are very strong, take on the hardest or riskiest task, and do it as early as possible in the project to decrease risk.
+你需要在你个人的需要和团队的需要间权衡，选择需要做工程中的哪个部分。你应该做你最擅长的东西，但是也要试着去找一种方式来激励自己，不是通过承担更多的工作而是通过练习新的技能。领导才能和交流能力比技术能力更重要。如果你非常强大，承担最困难或最有风险的任务，在工程中尽可能早地完成这部分，以此减少风险。
 
-Next [How to Get the Most From Your Team-mates](03-How to Get the Most From Your Teammates.md)
+Next [如何最大化利用你的队友](03-How to Get the Most From Your Teammates.md)

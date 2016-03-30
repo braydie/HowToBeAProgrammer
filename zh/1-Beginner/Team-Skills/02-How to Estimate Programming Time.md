@@ -1,21 +1,21 @@
-# How to Estimate Programming Time
+# 如何评估编程时间
 
-Estimation takes practice. It also takes labour. It takes so much labour it may be a good idea to estimate the time it will take to make the estimate, especially if you are asked to estimate something big.
+评估需要实践，也需要劳动。因为它需要花如此长的时间，以至于评估评估本身的时间可能是一个好主意，尤其是你被要求去评估一些巨大的事情。
 
-When asked to provide an estimate of something big, the most honest thing to do is to stall. Most engineers are enthusiastic and eager to please, and stalling certainly will displease the stalled. But an on-the-spot estimate probably won't be accurate and honest.
+当被要求评估一些比较大的事情的时候，该做的最可靠的事情是先停下来。大多数工程师是充满热情并且是渴望愉悦的，而停下来当然会让他们不开心。但对一个进行中的事情做评估一般是不准确且不可靠的。
 
-While stalling, it may be possible to consider doing or prototyping the task. If political pressure permits, this is the most accurate way of producing the estimate, and it makes real progress.
+停下来，使得考虑一些事情或者为任务重新定型成为可能。如果政策压力允许，这是执行评估的最准确的方式，并且它会产生确实的进度。
 
-When not possible to take the time for some investigation, you should first establish the meaning of the estimate very clearly. Restate that meaning as the first and last part of your written estimate. Prepare a written estimate by de-constructing the task into progressively smaller subtasks until each small task is no more than a day; ideally at most in length. The most important thing is not to leave anything out. For instance, documentation, testing, time for planning, time for communicating with other groups, and vacation time are all very important. If you spend part of each day dealing with knuckleheads, put a line item for that in the estimate. This gives your boss visibility into what is using up your time at a minimum, and might get you more time.
+在没有时间做调查的时候，你首先应该非常清晰地建立评估的含义。首先重新阐述要评估的内容和你编写的评估的最后部分。在你准备编写评估的时候应该把这项任务分解为一个个更小的循序渐进的任务，并且使每个小任务需要的时间不超过一天（理想情况是每个任务的长度最多为一天）。最重要的事情是不要漏掉任何事情。例如，文档，测试，规划的时间，与其他小组交流的时间，还有度假时间，这些都是很重要的。如果你每天都要花时间和一些傻逼交流，在评估里为这件事情划一个明确的时间界限。这能让你的boss对于你将要花费的最少时间有了一个认识，并且可能给你更多的时间。
 
-I know good engineers who pad estimates implicitly, but I recommend that you do not. One of the results of padding is trust in you may be depleted. For instance, an engineer might estimate three days for a task that she truly thinks will take one day. The engineer may plan to spend two days documenting it, or two days working on some other useful project. But it will be detectable that the task was done in only one day (if it turns out that way), and the appearance of slacking or overestimating is born. It's far better to give proper visibility into what you are actually doing. If documentation takes twice as long as coding and the estimate says so, tremendous advantage is gained by making this visible to the manager.
+我认识一些会隐式地填充评估时间的好的程序员，但我推荐你不要这样做。填充的一个结果是你可能会耗尽别人对你的信任。例如，一个工程师可能为一个将要花费一天的工作评估为三天。这个工程师可能计划花两天去为代码写文档，或者花两天去做一些其他有用的工程。但当任务在一天内完成时，如果它在那天暴露出来的话，这是可以察觉的，并且松懈或高估的表现会出现。为你确实要做的事情做合适的剖析要好得多。如果写文档需要花两倍于编程的时间，并且评估的结果就是这样的，让这对管理者可见就能得到巨大的好处。
 
-Pad explicitly instead. If a task will probably take one day - but might take ten days if your approach doesn't work - note this somehow in the estimate if you can; if not, at least do an average weighted by your estimates of the probabilities. Any risk factor that you can identify and assign an estimate to should go into the schedule. One person is unlikely to be sick in any given week. But a large project with many engineers will have some sick time; likewise vacation time. And what is the probability of a mandatory company-wide training seminar? If it can be estimated, stick it in. There are of course, unknown unknowns, or *unk-unks*. Unk-unks by definition cannot be estimated individually. You can try to create a global line item for all unk-unks, or handle them in some other way that you communicate to your boss. You cannot, however, let your boss forget that they exist, and it is devilishly easy for an estimate to become a schedule without the unk-unks considered.
+相反，显式填充。如果一个任务可能花一天，但如果你的方法没有生效，可能花十天 - 用某种方式在你的评估里记下这个情况，否则，至少为这个可能性，评估一个权重计算可能的时间。任何你可以识别和进行评估的风险因素应该在时间表里被体现。一个人不太可能在给定的任何星期都生病。但一个有很多工程师的大项目可能会有一些疾病时间，还有休假时间。或者，是否会有公司内部的强制培训研讨会的可能性呢？如果这可以预估，也把它算进来。当然，还有一些未知的未知，或者 [unk-unk](../../4-Glossary.md) 。Unk-unk 在定义上是不能被独立评估的。你可以尝试为所有 unk-unk 创建一个全局的界线，或者用你与你的 boss 交流好的其他方式去处理它们。然而，你不能让你的 boss 忘记它们的存在。在把评估变成时间表的过程中，把它们遗忘是超级容易的。
 
-In a team environment, you should try to have the people who will do the work do the estimate, and you should try to have team-wide consensus on estimates. People vary widely in skill, experience, preparedness, and confidence. Calamity strikes when a strong programmer estimates for herself and then weak programmers are held to this estimate. The act of having the whole team agree on a line-by-line basis to the estimate clarifies the team understanding, as well as allowing the opportunity for tactical reassignment of resources (for instance, shifting burden away from weaker team members to stronger).
+在一个团队环境里，你应该让任务的执行者去做这种评估，而且你们应该在团队范围内对评估的结果达成一致。人与人在技术，经验，准备和信心上都有很多的不同。当一个牛逼的程序员为他自己评估了时间，然后一些弱一点的程序员被这种评估约束时，灾难就会降临。整个团队在一个一行一行的细致的评估计划上取得的一致，阐述了团队的理解，以及允许在策略上对资源的重新分配的机会（比如，把负担从弱一点的团队成员那里移到强一点的成员那里）。
 
-If there are big risks that cannot be evaluated, it is your duty to state so forcefully enough that your manager does not commit to them and then become embarrassed when the risk occurs. Hopefully in such a case whatever is needed will be done to decrease the risk.
+如果有不能评估的大风险，你应该无论如何都要提出来，这是你的责任，这让才能让管理者不会在这个问题上做承诺，以免在风险发生时让管理者难堪。这种情况下，任何需要的事情都有希望被执行来减小这个风险。
 
-If you can convince your company to use *Extreme Programming*, you will only have to estimate relatively small things, and this is both more fun and more productive.
+如果你可以说服你的公司去使用*极限编程*,你只需要评估相当小的事情，这也是更加有趣和有效率的。
 
-Next [How to Find Out Information](03-How to Find Out Information.md)
+Next [如何发现信息](03-How to Find Out Information.md)

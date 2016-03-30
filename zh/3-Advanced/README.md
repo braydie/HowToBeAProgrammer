@@ -1,22 +1,21 @@
-# 3. Advanced
-
-- Technological Judgment
-	- [How to Tell the Hard From the Impossible](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
-	- [How to Utilize Embedded Languages](Technical-Judgment/02-How to Utilize Embedded Languages.md)
-	- [Choosing Languages](Technical-Judgment/03-Choosing Languages.md)
-- Compromising Wisely
-	- [How to Fight Schedule Pressure](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
-	- [How to Understand the User](Compromising-Wisely/02-How to Understand the User.md)
-	- [How to Get a Promotion](Compromising-Wisely/03-How to Get a Promotion.md)
-- Serving Your Team
-	- [How to Develop Talent](Serving-Your-Team/01-How to Develop Talent.md)
-	- [How to Choose What to Work On](Serving-Your-Team/02-How to Choose What to Work On.md)
-	- [How to Get the Most From Your Team-mates](Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
-	- [How to Divide Problems Up](Serving-Your-Team/04-How to Divide Problems Up.md)
-	- [How to Handle Boring Tasks](Serving-Your-Team/05-How to Handle Boring Tasks.md)
-	- [How to Gather Support for a Project](Serving-Your-Team/06-How to Gather Support for a Project.md)
-	- [How to Grow a System](Serving-Your-Team/07-How to Grow a System.md)
-	- [How to Communicate Well](Serving-Your-Team/08-How to Communicate Well.md)
-	- [How to Tell People Things They Don't Want to Hear](Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
-	- [How to Deal with Managerial Myths](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
-	- [How to Deal with Organizational Chaos](Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
+# 3. 高级
+- 技术评审
+	- [如何从不可能中找到困难的地方](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
+	- [如何使用嵌入式语言](Technical-Judgment/02-How to Utilize Embedded Languages.md)
+	- [选择语言](Technical-Judgment/03-Choosing Languages.md)
+- 明智地妥协
+	- [如何与时间压力斗争](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+	- [如何理解用户](Compromising-Wisely/02-How to Understand the User.md)
+	- [如何得到晋升](Compromising-Wisely/03-How to Get a Promotion.md)
+- 服务你们的团队
+	- [如何发展你们的才能](Serving-Your-Team/01-How to Develop Talent.md)
+	- [如何选择工作的内容](Serving-Your-Team/02-How to Choose What to Work On.md)
+	- [如何从你的队友学到最多东西](Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
+	- [如何划分问题](Serving-Your-Team/04-How to Divide Problems Up.md)
+	- [如何处理无聊的任务](Serving-Your-Team/05-How to Handle Boring Tasks.md)
+	- [如何获得对工程的支持](Serving-Your-Team/06-How to Gather Support for a Project.md)
+	- [如何发展一个系统](Serving-Your-Team/07-How to Grow a System.md)
+	- [如何有效地交流](Serving-Your-Team/08-How to Communicate Well.md)
+	- [如何告诉别人他们不像知道的东西](Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
+	- [如何处理管理神话](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
+	- [如何处理组织混乱](Serving-Your-Team/11-How to Deal with Organizational Chaos.md)

@@ -1,9 +1,9 @@
-# How to Learn Design Skills
+# 如何学习设计技能
 
-To learn how to design software, study the action of a mentor by being physically present when they are designing. Then study well-written pieces of software. After that, you can read some books on the latest design techniques.
+为了学习如何设计软件，你可以在导师做设计的时候，在他身边学习他的行为。然后学习精心编写过的软件片段（译者注：比如 android 系统中的谷歌官方应用源码）。在这之后，你可以读一些关于最新设计技术的书。
 
-Then you must do it yourself. Start with a small project. When you are finally done, consider how the design failed or succeeded and how you diverged from your original conception. Then move on to larger projects, hopefully in conjunction with other people. Design is a matter of judgement that takes years to acquire. A smart programmer can learn the basics adequately in two months and can improve from there.
+然后你必须自己动手了。从一个小的工程开始，当你最后完成时，考虑为什么这个设计失败了或成功了，你是怎样偏离你最初的设想的。然后继续去着手大一点的工程，在与其他人合作时会更有希望。设计是一种需要花很多年去学习的关于评判的事情。一个聪明的程序员可以在两个月内充分打好这种基础，然后从这里开始进步。
 
-It is natural and helpful to develop your own style, but remember that design is an art, not a science. People who write books on the subject have a vested interest in making it seem scientific. Don't become dogmatic about particular design styles.
+发展出你自己的风格是自然而有用的，但记住，设计是一种艺术，而不是一种技术。人们写的关于这个主题的书都有一种使得它好像是技术的既定的兴趣。不要武断对待特定的设计风格。
 
-Next [How to Conduct Experiments](12-How to Conduct Experiments.md)
+Next [如何进行实验](12-How to Conduct Experiments.md)

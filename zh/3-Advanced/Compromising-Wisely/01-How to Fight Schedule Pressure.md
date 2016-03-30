@@ -1,11 +1,11 @@
-# How to Fight Schedule Pressure
+# 如何与时间压力做斗争
 
-Time-to-market pressure is the pressure to deliver a good product quickly. It is good because it reflects a financial reality, and is healthy up to a point. Schedule pressure is the pressure to deliver something faster than it can be delivered and it is wasteful, unhealthy, and all too common.
+发布压力是快速推出好产品的压力。这是好的，因为它反映了市场事实，并且在某个意义上是健康的。时间压力是迫使一个产品更快地推出的压力，这是浪费的，不健康的，并且太普遍了。
 
-Schedule pressure exists for several reasons. The people who task programmers do not fully appreciate what a strong work ethic we have and how much fun it is to be a programmer. Perhaps because they project their own behaviour onto us, they believe that asking for it sooner will make us work harder to get it there sooner. This is probably actually true, but the effect is very small, and the damage is very great. Additionally, they have no visibility into what it really takes to produce software. Not being able to see it, and not be able to create it themselves, the only thing they can do is see time-to-market pressure and fuss at programmers about it.
+时间压力的存在是有原因的。给程序员任务的人们没有完全尊重我们的强烈的工作道德以及作为一个程序员的乐趣。可能是因为他们对我们所做的事情，他们相信，要求更快会让我们更加努力工作，使得工程更快完成。这可能确实是对的，但效果很小，损害很大。另外，他们看不到生产软件真实需要的东西。看不到到，也不能够自己创造，他们能做的唯一的事情是看着发布的压力，然后烦程序员。
 
-The key to fighting schedule pressure is simply to turn it into time-to-market pressure. The way to do this to give visibility into the relationship between the available labour and the product. Producing an honest, detailed, and most of all, understandable estimate of all the labour involved is the best way to do this. It has the added advantage of allowing good management decisions to be made about possible functionality trade-offs.
+与时间压力斗争的方法是简单地把它当做发布压力，实现的方法是让可用劳力与产品间的关系变得透明。提供一个诚实，细致，大部分可理解的对所有相关劳力的估计，是一种最好的实现方式。允许做出好的管理决定以权衡可能的功能也是一个附加的好处。
 
-The key insight that the estimate must make plain is that labour is an almost incompressible fluid. You can't pack more into a span of time anymore than you can pack more water into a container over and above that container's volume. In a sense, a programmer should never say ‘no’, but rather to say ‘What will you give up to get that thing you want?’ The effect of producing clear estimates will be to increase the respect for programmers. This is how other professionals behave. Programmers' hard work will be visible. Setting an unrealistic schedule will also be painfully obvious to everyone. Programmers cannot be hoodwinked. It is disrespectful and demoralizing to ask them to do something unrealistic. Extreme Programming amplifies this and builds a process around it; I hope that every reader will be lucky enough to use it.
+必须清楚解释的关键是，预算是一种几乎不可压缩的液体。就像你不能把水放进充满的瓶子里，你不能往充满的时间中填入更多任务。某种意义上，程序员永远不会拒绝，但更喜欢说“得到你想要的东西，你会失去什么？”，做出清晰的预算的效果将会是增加对程序员的尊敬。这也是其他职业任意所表现的。程序员的努力工作会被看到。很明显，设置一个不现实的时间表对每个人都是痛苦的。程序员不能被欺骗。要求他们做一些不现实的东西是对他们的不尊重和不道德。极限编程放大了这个问题，并且围绕它构造了一个过程，我希望每个读者能足够幸运去使用它。
 
-Next [How to Understand the User](02-How to Understand the User.md)
+Next [如何理解用户](02-How to Understand the User.md)

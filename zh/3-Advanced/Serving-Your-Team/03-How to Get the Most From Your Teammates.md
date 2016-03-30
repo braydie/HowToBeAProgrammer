@@ -1,15 +1,15 @@
-# How to Get the Most From Your Team-mates
+# 如何让你的队友的价值最大化
 
-To get the most from your team-mates, develop a good team spirit and try to keep every individual both personally challenged and personally engaged.
+为了让你的队友的价值最大化，发展好的团队精神，试着保持每个人的个人挑战与渴望。
 
-To develop team spirit, corny stuff like logoized clothing and parties are good, but not as good as personal respect. If everyone respects everyone else, nobody will want to let anybody down. Team spirit is created when people make sacrifices for the team and think in terms of the good of the team before their own personal good. As a leader, you can't ask for more than you give yourself in this respect.
+为了发展团队精神，文化衫与聚会是有益的，但不如对个人的尊重。如果每个人尊重其他的每个人，没有会想要让其他任何人失望。团队精神产生于人们为团队做出牺牲，优先思考团队的利益而非自己利益的时候。作为一个领导者，在这个方面，没有付出就没有收获。
 
-One of the keys to team leadership is to facilitate consensus so that everyone has buy in. This occasionally means allowing your team-mates to be wrong. That is, if it does not harm the project too much, you must let some of your team do things their own way, based on consensus, even if you believe with great confidence it is the wrong thing to do. When this happens, don't agree, simply disagree openly and accept the consensus. Don't sound hurt, or like you're being forced into it, simply state that you disagree but think the consensus of the team is more important. This will often cause them to backtrack. Don't insist that they go through with their initial plan if they do backtrack.
+团队领导力的一个关键是促进团结，这样每个人都会听你的。有时候这意味着允许你的队友犯错。也就是，基于这种团结，如果对项目没有太大的损害，你必须允许你团队的一部分成员用他们自己的方式做事，即使你有很大的信心认为这是一件错事。当这种情况确实发生时，不要同意他们的观点，简单公开地反对之，然后接受这种团结。不要让人觉得你受伤了，或者认为你是被迫的，简单地陈述你不同意，但认为团队的团结是更加重要的。这经常会导致他们反悔。如果他们真的反悔了，不要坚持他们一开始的计划。
 
-If there is an individual who will not consent after you have discussed the issues from all appropriate sides, simply assert that you have to make a decision and that is what your decision is. If there is a way to judge if your decision will be wrong or if it is later shown to be wrong, switch as quickly as you can and recognize the persons who were right.
+如果在你们从所有合适的角度讨论了这个话题后，有个人会反对，简单地告诉他们，你必须做一个决定，并且这就是你的决定。如果有方法去评估你的决定是否是错的，或者它稍后是否是错的，尽可能快速切换，并感激那个对的人。
 
-Ask your team, both as a group and individually, what they think would create team spirit and make for an effective team.
+询问你的团队，包括集体与个人，这样一个问题：他们认为什么能创造团队精神以及创造一个高效的团队。
 
-Praise frequently rather than lavishly. Especially praise those who disagree with you when they are praiseworthy. Praise in public and criticize in private; with one exception: sometimes growth or the correction of a fault can't be praised without drawing embarrassing attention to the original fault, so that growth should be praised in private.
+经常表扬，但不要浪费。尤其是表扬那些反对你且确实值得表扬的人。公开表扬，私下批评。但有这样一种例外：有时候进步或者纠正一个错误但却没有注意到错误的根源，是不能被表扬的，这种进步应该私下表扬。
 
-Next [How to Divide Problems Up](04-How to Divide Problems Up.md)
+Next [如何划分问题](04-How to Divide Problems Up.md)

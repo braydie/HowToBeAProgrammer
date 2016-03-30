@@ -1,13 +1,13 @@
-# How to Debug Using a Log
+# 如何使用日志调试
 
-*Logging* is the practice of writing a system so that it produces a sequence of informative records, called a log. *Printlining* is just producing a simple, usually temporary, log. Absolute beginners must understand and use logs because their knowledge of the programming is limited; system architects must understand and use logs because of the complexity of the system. The amount of information that is provided by the log should be configurable, ideally while the program is running. In general, logs offer three basic advantages:
+*Logging*（日志）是一种编写系统的方式，可以产生一系列信息记录，被称为 log。*Printlining* 只是输出简单的，通常是临时的日志。初学者一定要理解并且使用日志，因为他们对编程的理解是局限的。因为系统的复杂性,系统架构必须理解与使用日志。在理想的状态下，程序运行时产生的日志信息数量需要是可配置的。通常，日志提供了下面三个基本的优点：
 
-- Logs can provide useful information about bugs that are hard to reproduce (such as those that occur in the production environment but that cannot be reproduced in the test environment).
-- Logs can provide statistics and data relevant to performance, such as the time passing between statements.
-- When configurable, logs allow general information to be captured in order to debug unanticipated specific problems without having to modify and/or redeploy the code just to deal with those specific problems.
+- 日志可以提供一些难以重现的 bug 的有效信息，比如在产品环境中发生的、不能在测试环境重现的 bug。
+- 日志可以提供统计和与性能相关的数据，比如语句间流逝过的时间。
+- 可配置的情况下，日志允许我们获取普通的信息，使得我们可以在不修改或重新部署代码的情况下调试以处理具体的问题。
 
-The amount to output into the log is always a compromise between information and brevity. Too much information makes the log expensive and produces *scroll blindness*, making it hard to find the information you need. Too little information and it may not contain what you need. For this reason, making what is output configurable is very useful. Typically, each record in the log will identify its position in the source code, the thread that executed it if applicable, the precise time of execution, and, commonly, an additional useful piece of information, such as the value of some variable, the amount of free memory, the number of data objects, etc. These log statements are sprinkled throughout the source code but are particularly at major functionality points and around risky code. Each statement can be assigned a level and will only output a record if the system is currently configured to output that level. You should design the log statements to address problems that you anticipate. Anticipate the need to measure performance.
+需要输出的日志数量总是一个简约与信息量的权衡。太多的信息会使得日志变得昂贵，并且造成[*滚动目盲*](../../4-Glossary.md)，使得发现你想要的信息变得很困难。但信息太少的话，日志可能不包含你需要的信息。出于这个原因，让日志的输出可配置是非常有用的。通常，日志中的每个记录会标记它在源代码里的位置，执行它的线程（如果可用的话），时间精度，并且通常还有一些额外的有效信息，比如一些变量的值，剩余内存大小，数据对象的数量，等等。这些日志语句撒遍源码，但只出现在主要的功能点和一些可能出现危机的代码里。每个语句可以被赋予一个等级，并且只有在系统被配置成输出相应等级的记录的时候才输出这个等级的记录。你应该设计好日志语句来标记你预期的问题。预估测量程序表现的必要性。
 
-If you have a permanent log, printlining can now be done in terms of the log records, and some of the debugging statements will probably be permanently added to the logging system.
+如果你有一个永久的日志，printling 现在可以用日志的形式来完成，并且一些调试语句可能会永久地加入日志系统。
 
-Next [How to Understand Performance Problems](05-How to Understand Performance Problems.md)
+Next [如何理解性能问题](05-How to Understand Performance Problems.md)

@@ -1,15 +1,15 @@
-# How to Deal with Difficult People
+# 如何与不好相处的人相处
 
-You will probably have to deal with difficult people. You may even be a difficult person yourself. If you are the kind of person who has a lot of conflicts with co-workers and authority figures, you should cherish the independence this implies, but work on your interpersonal skills without sacrificing your intelligence or principles.
+你可能必须和不好相处的人相处。甚至可能你本身就是一个不好相处的人。如果你是那种与同事和权威人物有许多矛盾的人，你应该珍惜这种独立所暗示的东西，但需要在不牺牲你的智力或原则的前提下提高你的人际交往能力。
 
-This can be very disturbing to some programmers who have no experience in this sort of thing and whose previous life experience has taught them patterns of behaviour that are not useful in the workplace. Difficult people are often inured to disagreement and they are less affected by social pressure to compromise than others. The key is to respect them appropriately, which is more than you will want to but not as much as they might want.
+在这方面没有什么经验,或者先前生活的行为模式在工作场合的经验不能适用的一些程序员,对这种事情会非常困扰。不好相处的人经常习惯于拒绝，并且与他人相比，他们更不容易受社交压力所影响。关键是合适地尊重他们，而非你可能想做的事，但不要充分地满足他们想要的(译者注：他们想要的往往是过分的)。
 
-Programmers have to work together as a team. When disagreement arises, it must be resolved somehow, it cannot be ducked for long. Difficult people are often extremely intelligent and have something very useful to say. It is critical that you listen and understand the difficult person without prejudice caused by the person. A failure to communicate is often the basis of disagreement but it can sometimes be removed with great patience. Try to keep this communication cool and cordial, and don't accept any baits for greater conflict that may be offered. After a reasonable period of trying to understand, make a decision.
+程序员必须作为一个团队一起工作。当分歧出现时，它必须用某种方式解决，它不能被长时间挂起。不好相处的人通常是极度聪明的，并且有一些很有用的意见可以发表。不带对这个人的偏见，倾听并理解不好相处的人是至关重要的。失败的交流通常是分歧的基础，但它有时候可以被巨大的耐心移除。尝试冷静诚恳地保持交流，并且不接受任何可能产生更大矛盾的引诱。在一个合理的尝试理解的周期后，再做决定。
 
-Don't let a bully force you to do something you don't agree with. If you are the leader, do what you think is best. Don't make a decision for any personal reasons, and be prepared to explain the reasons for your decision. If you are a team-mate with a difficult person, don't let the leader's decision have any personal impact. If it doesn't go your way, do it the other way whole-heartedly.
+不要让一个恶霸强迫你做你所不同意的事情。如果你是老大，做你认为最好的事情。不要为任何个人因素做出决定，并时刻准备好为你的决定做出解释。如果你是一个有着不好相处的同事的团队成员，不要让老大的决定有任何个人影响。如果没有按你的想法发展，全身心地按（已成事实的）另一种方法去做。
 
-Difficult people do change and improve. I've seen it with my own eyes, but it is very rare. However, everyone has transitory ups and downs.
+不好相处的人能够改变与进步。我曾亲眼目睹这种情况，但这很稀少。然而，每个人都有暂时的高兴与失落情绪。
 
-One of the challenges that every programmer but especially leaders face is keeping the difficult person fully engaged. They are more prone to duck work and resist passively than others.
+每个程序员但尤其是领导都会面临这样一个挑战：让不好相处的人保持完全的忙碌。他们比别人更倾向于枯燥的工作，并且更能被动地忍受。
 
-Next [Intermediate skills](../../2-Intermediate)
+Next [进阶技能](../../2-Intermediate)

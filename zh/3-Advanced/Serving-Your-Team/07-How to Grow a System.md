@@ -1,23 +1,23 @@
-# How to Grow a System
+# 如何发展一个系统
 
-The seed of a tree contains the idea of the adult but does not fully realize the form and potency of the adult. The embryo grows. It becomes larger. It looks more like the adult and has more of the uses. Eventually it bears fruit. Later, it dies and its body feeds other organisms.
+树的种子包含了成长的思想，但不完全实现成长体的形式与力量。胚胎会成长。它会变大。它看起来更像成长体，并越来越有用。最终它孕育果实。最后，它死亡并且它的躯体喂养了其他的有机体。
 
-We have the luxury of treating software like that. A bridge is not like that; there is never a baby bridge, but merely an unfinished bridge. Bridges are a lot simpler than software.
+对待软件我们也应当有这样的荣耀。一架桥不是这样的，永远不会有一架婴儿桥，但只是有一座未完成的桥。桥比软件要简单得多。
 
-It is good to think of software as growing, because it allows us to make useful progress before we have a perfect mental image. We can get feedback from users and use that to correct the growth. Pruning off weak limbs is healthful.
+认识到软件的成长是有益的，因为这允许我们在有一个完美的思维图景前取得有用的进步。我们可以从用户那里获得反馈，并用之纠正这种成长。修剪掉疲软的四肢才能健康。
 
-The programmer must design a finished system that can be delivered and used. But the advanced programmer must do more. You must design a growth path that ends in the finished system. It is your job to take a germ of an idea and build a path that takes it as smoothly as possible into a useful artefact.
+程序员必须设计一个完成的可分发可使用的系统。但高级程序员需要做的更多。你必须设计一个终于完结系统的成长路线。你的工作是，得到一个想法的萌芽，然后把它尽可能顺利地变成一个有用的人工制品。
 
-To do this, you must visualize the end result and communicate it in a way that the engineering team can get excited about. But you must also communicate to them a path that goes from wherever they are now to where they want to be with no large leaps. The tree must stay alive the whole time; it cannot be dead at one point and resurrected later.
+因此，你必须模拟最终的结果，用一种工程团队可以为之雀跃的方式去交流。但你也必须和他们交流一条非跳跃式的路径，从他们所知到他们想要成为的地方去。在整个过程中，这棵树必须活着，它不能在什么时候死去，然后又复活过来。
 
-This approach is captured in spiral development. Milestones that are never too far apart are used to mark progress along the path. In the ultra-competitive environment of business, it is best if the milestones can be released and make money as early as possible, even if they are far away from a well-designed endpoint. One of the programmer's jobs is to balance the immediate pay-off against future pay-off by wisely choosing a growth path expressed in milestones.
+这条路径会是螺旋发展的。里程碑之间永远不会太远，这对于在路上取得进步是有用的。在极端的商业环境里，如果里程碑可以实现并尽早赚钱是最好的。，即使他们离良好设计的端点还有很远。程序员的一个工作就是通过理智的选择用里程碑表示的成长路径来平衡即时的报酬与将来的报酬。
 
-The advanced programmer has the triple responsibility of growing software, teams, and persons.
+高级程序员对软件，团队，个人的成长有集体责任。
 
-A reader, Rob Hafernik, sent in this comment on this section that I can do no better than to quote in full:
+一个读者，Rob Hafernik，在这一节中写下了这样的评论：
 
-> I think you under-emphasize the importance here. It's not just systems, but algorithms, user interfaces, data models, and so on. It's absolutely *vital* as you work on a large system to have measurable progress toward intermediate goals. Nothing is as bad as the special horror of getting down to the end and discovering that the whole thing just isn't going to work (look at the recent debacle of the Voter News System). I would even go further and state it as a law of nature: no large, complex system can be implemented from scratch, it can only be evolved from a simple system to a complex system in a series of intentional steps.
+> 我认为你过低强调了这里的重要性。不仅是系统，还有算法，用户界面，数据模型，等等。当你工作在一个大的系统中，必须有即时目标相关的可测量的进步时，这些也是*至关重要的*。没有什么比抵达终点却发现一切都不能工作更加恐怖（看看最近的投票新闻系统的崩溃吧）。我甚至想进一步把这当做自然的法则：没有庞大，复杂的系统可以由碎片实现，这只能由一个简单的系统循序渐进成长为一个复杂的系统。
 
-To which one can only reply *Fiat lux*!
+对此，我们只能回答，*要有光*！
 
-Next [How to Communicate Well](08-How to Communicate Well.md)
+Next [如何良好地交流](08-How to Communicate Well.md)

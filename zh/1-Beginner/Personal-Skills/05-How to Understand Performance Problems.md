@@ -1,11 +1,11 @@
-# How to Understand Performance Problems
+# 如何理解性能问题
 
-Learning to understand the performance of a running system is unavoidable for the same reason that learning debugging is. Even if you understand perfectly precisely the cost of the code you write, your code will make calls into other software systems that you have little control over or visibility into. However, in practice performance problems are a little different and a little easier than debugging in general.
+学习理解运行的程序的性能问题与学习 debug 是一样不可避免的。即使你完美、精确地理解了你的代码运行时所产生的开销，你的代码也会调用其他你几乎不能控制的或者几乎不可看透的软件系统。然而，实际上，通常性能问题和调试有点不一样，而且往往要更简单些。
 
-Suppose that you or your customers consider a system or a subsystem to be too slow. Before you try to make it faster, you must build a mental model of why it is slow. To do this you can use a profiling tool or a good log to figure out where the time or other resources are really being spent. There is a famous dictum that 90% of the time will be spent in 10% of the code. I would add to that the importance of input/output expense (I/O) to performance issues. Often most of the time is spent in I/O in one way or another. Finding the expensive I/O and the expensive 10% of the code is a good first step to building your mental model.
+假如你或你的客户认为你的一个系统或子系统运行太慢了。在你把它变快之前，你必须构建一个它为什么慢的思维模型。为了做到这个，你可以使用一个图表工具或者一个好的日志，去发现时间或资源真正被花费在什么地方。有一句很有名的格言：90%的时间会花费在10%的代码上。在性能这个话题上，我想补充的是输入输出开销的重要性。通常大部分时间是以某种形式花费在 I/O 上。发现昂贵的 I/O 和昂贵的10%代码是构建思维模型的一个好的开始。
 
-There are many dimensions to the performance of a computer system, and many resources consumed. The first resource to measure is *wall-clock time*, the total time that passes for the computation. Logging *wall-clock time* is particularly valuable because it can inform about unpredictable circumstances that arise in situations where other profiling is impractical. However, this may not always represent the whole picture. Sometimes something that takes a little longer but doesn't burn up so many processor seconds will be much better in the computing environment you actually have to deal with. Similarly, memory, network bandwidth, database or other server accesses may, in the end, be far more expensive than processor seconds.
+计算机系统的性能有很多个维度，很多资源会被消耗。第一种资源是“挂钟时间”，即执行程序的所有时间。记录“挂钟时间”是一件特别有价值的事情，因为它可以告诉我们一些图表工具表现不了的不可预知的情况。然而，这并不总是描绘了整幅图景。有时候有些东西只是稍微多花费了一点点时间，并且不会引爆什么问题，所以在你真实要处理的计算机环境中，多一些处理器时间可能会是更好的选择。相似的，内存，网络带宽，数据库或其他服务器访问，可能最后都比处理器时间要更加昂贵。
 
-Contention for shared resources that are synchronized can cause deadlock and starvation. Deadlock is the inability to proceed because of improper synchronization or resource demands. Starvation is the failure to schedule a component properly. If it can be at all anticipated, it is best to have a way of measuring this contention from the start of your project. Even if this contention does not occur, it is very helpful to be able to assert that with confidence.
+竞争共享的资源被同步使用，可能导致死锁和互斥。死锁是由于不恰当的同步和请求资源导致线程执行能力的丧失。互斥是对于资源访问的不恰当安排。如果这是可以预料到的，最好在你的项目开始前就采取措施来地衡量线程争抢。即使线程争抢不会发生，对于有效维护它们也是很有帮助的。
 
-Next [How to Fix Performance Problems](06-How to Fix Performance Problems.md)
+Next [如何修复性能问题](06-How to Fix Performance Problems.md)

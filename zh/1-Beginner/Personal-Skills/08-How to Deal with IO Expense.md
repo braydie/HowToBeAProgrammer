@@ -1,13 +1,13 @@
-# How to Deal with I/O Expense
+# 如何处理I/O代价
 
-For a lot of problems, processors are fast compared to the cost of communicating with a hardware device. This cost is usually abbreviated I/O, and can include network cost, disk I/O, database queries, file I/O, and other use of some hardware not very close to the processor. Therefore building a fast system is often more a question of improving I/O than improving the code in some tight loop, or even improving an algorithm.
+在很多问题上，处理器的速度比硬件交流要快得多。这种代价通常是小的 I/O，可能包括网络消耗，磁盘 I/O，数据库查询，文件 I/O，还有其他与处理器不太接近的硬件使用。所以构建一个快速的系统通常是一个提高 I/O，而非在紧凑的循环里优化代码或者甚至优化算法的问题。
 
-There are two very fundamental techniques to improving I/O: caching and representation. Caching is avoiding I/O (generally avoiding the reading of some abstract value) by storing a copy of that value locally so no I/O is performed to get the value. The first key to caching is to make it crystal clear which data is the master and which are copies. There is only one master - period. Caching brings with it the danger that the copy sometimes can't reflect changes to the master instantaneously.
+有两种基本的技术来优化 I/O：缓存和代表（译者注：比如用短的字符代表长的字符）。缓存是通过本地存储数据的副本,再次获取数据时就不需要再执行 I/O,以此来避免 I/O（通常避免读取一些抽象的值）。缓存的关键在于要让哪些数据是主干的，哪些数据是副本变得显而易见。主干的数据只有一份（在一个更新周期里）。缓存有这样一种危险：副本有时候不能立刻反映主干的修改。
 
-Representation is the approach of making I/O cheaper by representing data more efficiently. This is often in tension with other demands, like human readability and portability.
+代表是通过更高效地表示数据来让 I/O 更廉价。这通常会限制其他的要求，比如可读性和可移植性。
 
-Representations can often be improved by a factor of two or three from their first implementation. Techniques for doing this include using a binary representation instead of one that is human readable, transmitting a dictionary of symbols along with the data so that long symbols don't have to be encoded, and, at the extreme, things like Huffman encoding.
+代表通常可以用他们第一实现中的两到三个因子来做优化。实现这点的技术包括使用二进制表示而非人类可识别的方式,传递数据的同时也传递一个符号表，这样长的符号就不需要被编码，一个极端的例子是哈弗曼编码。
 
-A third technique that is sometimes possible is to improve the locality of reference by pushing the computation closer to the data. For instance, if you are reading some data from a database and computing something simple from it, such as a summation, try to get the database server to do it for you. This is highly dependent on the kind of system you're working with, but you should explore it.
+另一种有时能够用来优化本地引用的技术是让计算更接近数据。例如，如果你正在从数据库读取一些数据并且在它上面执行一些简单的计算，比如求和，试着让数据库服务器去做这件事，这高度依赖于你正在工作的系统的类型，但这个方面你必须自己探索。
 
-Next [How to Manage Memory](09-How to Manage Memory.md)
+Next [如何管理内存](09-How to Manage Memory.md)

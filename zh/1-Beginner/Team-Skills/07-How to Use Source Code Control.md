@@ -1,9 +1,9 @@
-# How to Use Source Code Control
+# 如何使用源代码控制
 
-Source code control systems (also known as Version Control Systems) let you manage projects effectively. They're very useful for one person and essential for a group. They track all changes in different versions so that no code is ever lost and meaning can be assigned to changes. One can create throw-away and debugging code with confidence with a source code control system, since the code you modify is kept carefully separate from committed, official code that will be shared with the team or released.
+源代码控制系统（又称版本控制系统）让你高效地管理工程。他们对一个人是很有用的，对一个团队是至关重要的。它们追踪不同版本里的所有改变，以至于所有代码都未曾丢失，其含义可以归属于改变。有了源代码控制系统，一个人可以自信地写一些而半途而废的代码和调试的代码，因为你修改的代码被仔细地与提交的、官方的即将与团队共享或发布的代码分割开。
 
-I was late to appreciate the benefits of source code control systems but now I wouldn't live without one even on a one-person project. Generally they are necessary when you have team working on the same code base. However, they have another great advantage: they encourage thinking about the code as a growing, organic system. Since each change is marked as a new revision with a new name or number, one begins to think of the software as a visibly progressive series of improvements. I think this is especially useful for beginners.
+我挺晚才开始意识到源代码控制系统的好处，但现在即使是一个人的工程，我也不能离开源代码控制系统。当你们团队在同样的代码基础上工作时，通常它们是必要的。然而，它们有另一个巨大的优点：它们鼓励我们把代码当做一个成长的有机系统。因为每个改变都会被标记为带有名字或数字的修正，一个人会开始认为软件是一种可见的一系列渐进的提升。我认为这对初学者是尤其有用的。
 
-A good technique for using a source code control system is to stay within a few days of being up-to-date at all time. Code that can't be finished in a few days is checked in, but in a way that it is inactive and will not be called, and therefore not create any problems for anybody else. Committing a mistake that slows down your team-mates is a serious error; it is often taboo.
+使用源代码控制系统的一个好的技术是一直保持在几天后提交更新。在提交后，一定程度上不活跃，不被调用的代码在几天内都不会完成，因此也不会对其他任何人产生任何问题。因提交错误的代码而降低你队友的开发速度是一个严重的错误，这往往是一种禁忌。
 
-Next [How to Unit Test](08-How to Unit Test.md)
+Next [如何进行单元测试](08-How to Unit Test.md)

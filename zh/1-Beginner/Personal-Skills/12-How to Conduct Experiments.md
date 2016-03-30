@@ -1,23 +1,22 @@
-# How to Conduct Experiments
+# 如何进行实验
 
-The late, great Edsger Dijkstra has eloquently explained that Computer Science is not an experimental science[ExpCS] and doesn't depend on electronic computers. As he puts it referring to the 1960s [Knife],
+已故的伟大的 Edsger Dijkstra 曾经充分解释过：计算机科学不是一门实验科学[ExpCS],并且不依赖于电子计算机。当他提出这个观点时，他指的是19世纪60年代。[Knife]
 
-> ...the harm was done: the topic became known as “computer science” - which, actually, is like referring to surgery as “knife science” - and it was firmly implanted in people's minds that computing science is about machines and their peripheral equipment.
+> ...危害已经出现：主题现在已经变成了“计算机科学” - 这实际上，像是把外科手术引用为“手术刀科学” - 这在人们心中深深植入了这样一个概念：计算机科学是关于机器和它们的外围设备的。
 
-Programming ought not to be an experimental science, but most working programmers do not have the luxury of engaging in what Dijkstra means by computing science. We must work in the realm of experimentation, just as some, but not all, physicists do. If thirty years from now programming can be performed without experimentation, it will be a great accomplishment of Computer Science.
+编程不应该是一门实验科学，但大多数职业程序员并没有保卫 Dijkstra 对于计算机科学的解释的荣耀。我们必须在实验的领域里工作，正如一部分，但非所有的物理学家做的那样。如果三十年后，编程可以在不进行任何实验的前提下进行，这将是计算机科学的一个巨大成就。
 
-The kinds of experiments you will have to perform include:
+你需要进行的实验包括：
+- 用小的例子测试系统以验证它们遵循文档，或者在没有文档时，理解它们的反应；
+- 测试一些小的代码修改去验证它们是否确实修复了一个 bug；
+- 由于对一个系统不完全的理解，需要在两种不同情况下测量它们的性能表现；
+- 检查数据的完整性；
+- 对困难的或者难以重现的 bug，收集解决方案中可能提示的统计数据。
 
-- Testing systems with small examples to verify that they conform to the documentation or to understand their response when there is no documentation,
-- Testing small code changes to see if they actually fix a bug,
-- Measuring the performance of a system under two different conditions due to imperfect knowledge of their performance characteristics,
-- Checking the integrity of data, and
-- Collecting statistics that may hint at the solution to difficult or hard-to-repeat bugs.
+我不认为在这篇文章里我可以讲述实验的设计，你会在实践中学习到这方面的知识。然而，我可以提供两点建议：
 
-I don't think in this essay I can explain the design of experiments; you will have to study and practice. However, I can offer two bits of advice.
+第一，对你的假设或者你要测试的断言要非常清楚。把假设写下来也是很有用的，尤其是如果你有点迷惑或者与其他人合作时。
 
-First, try to be very clear about your hypothesis, or the assertion that you are trying to test. It also helps to write the hypothesis down, especially if you find yourself confused or are working with others.
+第二，你会经常发现你必须设计一系列的实验，它们中的每个都基于对最后一个实验的理解。所以，你应该设计你的实验尽量去提供最多的信息。但不幸的是，这会让实验保持简单变的困难 - 你必须通过经验来提升这种权衡的能力。
 
-You will often find yourself having to design a series of experiments, each of which is based on the knowledge gained from the last experiment. Therefore, you should design your experiments to provide the most information possible. Unfortunately, this is in tension with keeping each experiment simple - you will have to develop this judgement through experience.
-
-Next [Team Skills - Why Estimation is Important](../Team-Skills/01-Why Estimation is Important.md)
+Next [团队技能 - 为什么评估很重要](../Team-Skills/01-Why Estimation is Important.md)

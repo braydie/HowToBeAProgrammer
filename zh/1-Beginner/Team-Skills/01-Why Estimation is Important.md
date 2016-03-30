@@ -1,15 +1,14 @@
-# Why Estimation is Important
+# 为什么评估很重要
 
-To get a working software system in active use as quickly as possible requires not only planning the development, but also planning the documentation, deployment, and marketing. In a commercial project it also requires sales and finance. Without predictability of the development time, it is impossible to plan these effectively.
+为了尽快获得一个可以高效使用的工作软件系统，不仅需要为开发做计划，还需要为文档，部署，市场做计划。在一个商业工程里，这还需要销售和金融计划。没有对开发时间的预测能力，是不可能高效预测以上这些东西的。
 
-Good estimation provides predictability. Managers love it, as well they should. The fact that it is impossible, both theoretically and practically, to predict accurately how long it will take to develop software is often lost on managers. We are asked to do this impossible thing all the time, and we must face up to it honestly. However, it would be dishonest not to admit the impossibility of this task, and when necessary, explain it. There is a lot of room for miscommunication about estimates, as people have a startling tendency to think wishfully that the sentence:
+好的估计提供了预测能力。管理者喜欢，而且应该这么做。事实是这不可能，不论是理论上还是实践上，准确预测开发软件所消耗的时间总是被管理者所忽视。我们总是被要求做那些不可能的事情，而且我们必须诚实地面对它。不论如何，不承认这个任务的不可能性也是不诚实的，必要的时候，需要解释。对于评估来说，会产生很多沟通不畅的情况，因为人们有一种令人吃惊的趋势会这样希望满满地认为：
+> 我估计，如果我确实理解了这个问题，我们在5周内有50%的可能完成任务（如果在此期间没有人干扰我们的话）。
 
-> I estimate that, if I really understand the problem, it is about 50% likely that we will be done in five weeks (if no one bothers us during that time).
+的真实的含义是：
 
-really means:
+> 我保证从现在开始五个星期内完成任务。
 
-> I promise to have it all done five weeks from now.
+这个常见的解释问题需要你专门与你的 boss 和客户讨论（就好像把他们当做傻子那样）。重新阐述你的解释，不管对你来讲它们有多么显而易见。
 
-This common interpretation problem requires that you explicitly discuss what the estimate means with your boss or customer as if they were a simpleton. Restate your assumptions, no matter how obvious they seem to you.
-
-Next [How to Estimate Programming Time](02-How to Estimate Programming Time.md)
+Next [如何估计编程时间](02-How to Estimate Programming Time.md)

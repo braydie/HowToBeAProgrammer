@@ -1,9 +1,9 @@
-# How to Tell the Hard From the Impossible
+# 如何从不可能中找到困难的部分
 
-It is our job to do the hard and discern the impossible. From the point of view of most working programmers, something is impossible if either it cannot be grown from a simple system or it cannot be estimated. By this definition what is called research is impossible. A large volume of mere work is hard, but not necessarily impossible.
+解决困难，识别不可能是我们的工作。大多数职业程序员认为，如果有些问题不能从一个简单系统发展而来，或者不能评估，那它就是不可能实现的。然而，根据这个定义，研究本身就是不可能的。大量的工作是困难的，但不必然是不可能的。
 
-The distinction is not facetious because you may very well be asked to do what is practically impossible, either from a scientific point of view or a software engineering point of view. It then becomes your job to help the entrepreneur find a reasonable solution which is merely hard and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.
+这种区别是滑稽的，因为你可能经常被要求做一些事实上不可能的事情，不论是从科学观点还是从软件工程观点。然后你的工作就变成了帮助老板找到一个合理的，仅仅是困难而非不可能的解决方案，去满足他们大部分的需要。当一个解决方案可以被自信地规划且风险可以预料时，它只是困难而已。
 
-It is impossible to satisfy a vague requirement, such as ‘Build a system that will compute the most attractive hair style and colour for any person.’ If the requirement can be made more crisp, it will often become merely hard, such as ‘Build a system to compute an attractive hair style and colour for a person, allow them to preview it and make changes, and have the customer satisfaction based on the original styling be so great that we make a lot of money.’ If there is not crisp definition of success, you will not succeed.
+砍掉模糊的需求是不可能的，比如“构建一个系统为任何人计算最受欢迎的发型和颜色”。如果需求可以做得更加细致，它就经常会变成仅仅是困难，比如“构建一个系统去计算某个人的发型和颜色，允许他们预览与做出改变，让顾客在原始风格的基础上满意度变大，这样我们就可以赚很多钱”。如果没有清晰的成功的定义，你就不会成功。
 
-Next [How to Utilize Embedded Languages](02-How to Utilize Embedded Languages.md)
+Next [如何使用嵌入型语言](02-How to Utilize Embedded Languages.md)

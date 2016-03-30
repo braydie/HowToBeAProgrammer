@@ -1,21 +1,22 @@
-# Learn to Debug
+# 学会 Debug
 
-Debugging is the cornerstone of being a programmer. The first meaning of the verb "debug" is to remove errors, but the meaning that really matters is to see into the execution of a program by examining it. A programmer that cannot debug effectively is blind.
+调试（Debug）是成为一个程序员的基石。调试这个词第一个含义即是移除错误，但真正有意义的含义是，通过检查来观察程序的运行。一个不会调试的程序员等同于瞎子。
 
-Idealists, those who think design, analysis, complexity theory, and the like are more fundamental than debugging, are not working programmers. The working programmer does not live in an ideal world. Even if you are perfect, you are surrounded by and must interact with code written by major software companies, organizations like GNU, and your colleagues. Most of this code is imperfect and imperfectly documented. Without the ability to gain visibility into the execution of this code, the slightest bump will throw you permanently. Often this visibility can be gained only by experimentation: that is, debugging.
+理想主义者认为设计、分析、复杂的理论或其他东西，是更基本的东西，他们不是现实的程序员。现实的程序员不会活在理想的世界里。即使你是完美的，你也需要与在你周围的主要软件公司或组织 (比如 GNU ) 的代码，和你同事写的代码打交道。这里面大部分的代码以及它们的文档是不完美的。如果不能看透代码的具体执行过程，最轻微的颠簸都会把你永远地抛出去。通常这种可见性只能从实验获得，也就是，调试。
 
-Debugging is about the running of programs, not programs themselves. If you buy something from a major software company, you usually don't get to see the program. But there will still arise places where the code does not conform to the documentation (crashing your entire machine is a common and spectacular example), or where the documentation is mute. More commonly, you create an error, examine the code you wrote, and have no clue how the error can be occurring. Inevitably, this means some assumption you are making is not quite correct or some condition arises that you did not anticipate. Sometimes, the magic trick of staring into the source code works. When it doesn't, you must debug.
+调试是一件与程序运行相关的事情，而非与程序本身相关。你从主要的软件公司购买一些产品，你通常不会看到（产品背后的）程序本身。但代码不遵循文档的情况（让你整台机器崩掉是一个常见又特殊的例子）或者文档没有说明的情况仍然会出现。更常见的是，你的程序出现了一个错误，当你检查你写的代码的时候，却不知道这个错误是怎么发生的。不可避免的，这意味着你做的一些假设并不对，或者一些你没有预料到的情况发生了。有时候，神奇的修改源代码的技巧可能会生效。当它无效时，你必须调试了。
 
-To get visibility into the execution of a program you must be able to execute the code and observe something about it. Sometimes this is visible, like what is being displayed on a screen, or the delay between two events. In many other cases, it involves things that are not meant to be visible, like the state of some variables inside the code, which lines of code are actually being executed, or whether certain assertions hold across a complicated data structure. These hidden things must be revealed.
+为了获得一个程序执行过程的可见性，你必须能够执行代码并且从这个过程中观察到什么。有时候这是显而易见的，比如一些正在呈现在屏幕上的东西，或者两个事件之间的延迟。在许多其他的案例中，调试与一些不一定可见的东西相关，比如代码中一些变量的状态，哪一行代码正在被执行，或者一些断言是否持有了一个复杂的数据结构。这些隐藏的细节必须被显露出来。
 
-The common ways of looking into the ‘innards’ of an executing program can be categorized as:
 
-- Using a debugging tool,
-- Printlining - Making a temporary modification to the program, typically adding lines that print information out, and
-- Logging - Creating a permanent window into the programs execution in the form of a log.
+观察一个正在执行程序的内部的方法通常可按如下分类：
 
-Debugging tools are wonderful when they are stable and available, but the printlining and logging are even more important. Debugging tools often lag behind language development, so at any point in time they may not be available. In addition, because the debugging tool may subtly change the way the program executes it may not always be practical. Finally, there are some kinds of debugging, such as checking an assertion against a large data structure, that require writing code and changing the execution of the program. It is good to know how to use debugging tools when they are stable, but it is critical to be able to employ the other two methods.
+- 使用一个调试工具；
+- Printlining[(戳这里看释义)](../../4-Glossary.md) - 对程序做一个临时的修改，通常是加一些行去打印一些信息;
+- 日志 - 用日志的形式为在程序的运行中创建一个永久的视窗。
 
-Some beginners fear debugging when it requires modifying code. This is understandable - it is a little like exploratory surgery. But you have to learn to poke at the code and make it jump; you have to learn to experiment on it and understand that nothing that you temporarily do to it will make it worse. If you feel this fear, seek out a mentor - we lose a lot of good programmers at the delicate onset of their learning to this fear.
+当调试工具稳定可用时，它们是非常美妙的，但 [Printlining](../../4-Glossary.md) 和写日志甚至是更加重要的。调试工具通常落后于编程语言的发展，所以在某些时候它们都可能是无效的。另外，调试工具可能轻微改变程序实际执行的方式。最后，调试有许多种，比如检查一个断言和一个巨大的数据结构，这需要写代码并改变程序的运行。当调试工具可用时，知道如何使用调试工具是一件好事，但学会使用其他两种方式也是至关重要的。
 
-Next [How to Debug by Splitting the Problem Space](02-How to Debug by Splitting the Problem Space.md)
+当调试需要修改代码的时候，一些初学者会感到害怕。这是可以理解的，这有点像探索型外科手术。但你需要学会打破代码，让它跳起来，你需要学会在它上面做实验，并且需要知道你临时对它做的任何事情都不会使它变得更糟。如果你感受到了这份恐惧，找一位导师 - 就是因为许多人在一开始面对这种恐惧的的时候表现的太脆弱，我们因此失去了很多本可以变成优秀程序员的人。
+
+Next [如何通过分离问题空间来 Debug](02-How to Debug by Splitting the Problem Space.md)

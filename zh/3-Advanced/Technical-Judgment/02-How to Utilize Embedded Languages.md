@@ -1,11 +1,11 @@
-# How to Utilize Embedded Languages
+# 如何使用嵌入型语言
 
-Embedding a programming language into a system has an almost erotic fascination to a programmer. It is one of the most creative acts that can be performed. It makes the system tremendously powerful. It allows you to exercise her most creative and Promethean skills. It makes the system into your friend.
+把一种编程语言嵌入到一个系统对程序员来讲有着几乎与性一样的魔力。这是一种最具有创造力的可以表现的行为。这使得系统惊人地强大。这也允许你锻炼大多数创造性和有生命力的能力，把系统变成你的朋友。
 
-The best text editors in the world all have embedded languages. This can be used to the extent that the intended audience can master the language. Of course, use of the language can be made optional, as it is in text editors, so that initiates can use it and no one else has to.
+世界上最好的文本编辑器都有嵌入性语言。这可以被用于预计的观众可以掌握的语言的范围，语言的使用可以变为可选的，正如文本编辑器里那样，这样在一开始可以使用它，而没有其他人必须使用它。
 
-I and many other programmers have fallen into the trap of creating special purpose embedded languages. I fell into it twice. There already exist many languages designed specifically to be embedded languages. You should think twice before creating a new one.
+我和许多其他的程序员曾坠入创造特殊目的的嵌入型语言的困境里。我曾经历过两次。已经存在了许多为嵌入型语言设计的语言，在创造一个新的语言前，你应该三思。
 
-The real question to ask oneself before embedding a language is: Does this work with or against the culture of my audience? If you intended audience is exclusively non-programmers, how will it help? If your intended audience is exclusively programmers, would they prefer an applications programmers interface (API)? And what language will it be? Programmers don't want to learn a new language that is narrowly used; but if it meshes with their culture they will not have to spend much time learning it. It is a joy to create a new language. But we should not let that blind us to the needs of the user. Unless you have some truly original needs and ideas, why not use an existing language so that you can leverage the familiarity users already have with it?
+使用嵌入型语言前，真实的需要自问的问题是：这种工作与我的观众的文化是一致还是相悖？如果你的目标观众都是非程序员，这会有帮助吗？如果你的目标观众都是非程序员，他们会更喜欢API吗？他会是什么语言？程序员不会想要学习一种新的使用范围很窄的语言，但如果这与他们的文化混在一起了，他们将不会花太多时间去学习它。创造一种新的语言是一种快乐。但我们不应该让这遮蔽了观察用户的双眼。除非你有一些真正原始的需求与想法，为什么不使用一个已存在的语言呢？这样你就可以利用好用户对它已有的这种熟悉了。
 
-Next [Choosing Languages](03-Choosing Languages.md)
+Next [选择语言](03-Choosing Languages.md)
