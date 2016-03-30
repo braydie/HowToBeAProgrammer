@@ -5,16 +5,18 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-翻译：[梦里风林](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
+翻译：[梦里风林](https://github.com/ahangchen)
 
 原文：[HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
-如果您希望改进这份中文翻译，请向这个[分支](https://github.com/ahangchen/HowToBeAProgrammer)提交Pull request.
+如果您希望改进这份中文翻译，请向这个[分支](https://github.com/ahangchen/HowToBeAProgrammer)提交Pull request。
+
+[可以在gitbook在线阅读或导出PDF。](https://braydie.gitbooks.io/how-to-be-a-programmer/content/zh/index.html)
 
 文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
 
 ## 引言
-　　做一个好的程序员,困难而高尚。将一个软件工程集体愿景变为现实，最困难的地方在于与你的同事和顾客相处。编程很重要，这需要强大的智力和技能。 但在好的程序员看来，相比构建一个让客户和各种各样的同事都满意的软件系统，（纯粹的）编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我21岁时，希望别人告诉我的事。
+　　做一个好的程序员，困难而高尚。将一个软件工程集体愿景变为现实，最困难的地方在于与你的同事和顾客相处。编程很重要，这需要强大的智力和技能。 但在好的程序员看来，相比构建一个让客户和各种各样的同事都满意的软件系统，（纯粹的）编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我21岁时，希望别人告诉我的事。
 
 　　这可能很主观的，所以，这篇文章注定不适用于所有人，并且有的内容有点武断。我尽量写一些程序员在ta的工作中，非常可能会遇到的事情。大部分这些问题以及它们的解决方案在人们的环境中如此普遍，以至于我(说的)可能有点唠叨。尽管如此，我还是希望这篇文章是有用的。
 
