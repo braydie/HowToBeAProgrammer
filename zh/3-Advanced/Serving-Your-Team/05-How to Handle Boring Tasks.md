@@ -1,7 +1,7 @@
-# 如何处理无聊的任务
+# How to Handle Boring Tasks
 
-有时候避免对公司或工程的成功至关重要却很无聊的任务是不可能的。这些任务可能真的会降低那些必须执行它们的人的斗志。最好的处理方法是使用或者发扬Larry Wall的程序员懒惰美德。试着找一些方法让计算机去做这个任务，或者帮助你的队友去做这个。用一个程序花一个星期去完成要手动去用一个星期完成的任务能让你懂得更多，并且有时候这是可重用的。
+Sometimes it is not possible to avoid boring tasks that are critical to the success of the company or the project. These tasks can really hurt the morale of those that have to do them. The best technique for dealing with this is to invoke or promote Larry Wall's programmer's virtue of Laziness. Try to find some way to get the computer to do the task for you or to help your team-mates do this. Working for a week on a program to do a task that will take a week to do by hand has the great advantage of being more educational and sometimes more repeatable.
 
-如果所有其他的途径都不能工作，为那些必须做这个无聊任务的人道歉，但无论什么情况，不要让他们去单独完成它。至少安排一个两人团队去做这个事情，并增强健康的团队协作来完成这个任务。
+If all else fails, apologize to those who have to do the boring task, but under no circumstances allow them to do it alone. At a minimum assign a team of two to do the work and promote healthy teamwork to get the task done.
 
-Next [如何为一个工程获取支持](06-How to Gather Support for a Project.md)
+Next [How to Gather Support for a Project](06-How to Gather Support for a Project.md)

@@ -1,9 +1,9 @@
-# 如何划分问题
+# How to Divide Problems Up
 
-接手一个软件工程并把它分为可以由个人实现的任务是很有趣的。这事应该及早进行。有时候经理可能会认为不考虑个人的项目能够起作用。这是不可能的，因为每个人的生产力是如此广泛地不同。对某个组件有特殊知识的人也经常改变，并且可以对工作效果有一个数量级的影响。
+It's fun to take a software project and divide it up into tasks that will be performed by individuals. This should be done early. Sometimes managers like to think that an estimate can be made without consideration of the individuals that will perform the work. This is impossible since the productivity of individuals varies so widely. Who has particular knowledge about a component also constantly changes and can have an order of magnitude effect on performance.
 
-正如一个作曲家认为乐器的音色会其重要作用，或者运动队教练对每个运动员的体能的考虑那样，有经验的团队领导，通常不能够把工程依据团队成员需要承担的角色那样划分成一个个的任务。这是好的团队不容易解散的一个原因。
+Just as a composer considers the timbre of the instrument that will play a part or the coach of an athletic team considers the strengths of each player, the experienced team leader will not usually be able to separate the division of the project into tasks from the team members to which they will be assigned. This is part of the reason that a high-performing team should not be broken up.
 
-因此有这样一种危险：人们在锻炼自己的能力时会感到无聊，并且不会提高他们的不擅长的方向或者学习新的技能。然而，如果不被过度使用的话，精通是一个非常有用的生产工具。
+There is a certain danger in this given that people will become bored as they build upon their strengths and never improve their weaknesses or learn new skills. However, specialization is a very useful productivity tool when not overused.
 
-Next [如何处理无聊的任务](05-How to Handle Boring Tasks.md)
+Next [How to Handle Boring Tasks](05-How to Handle Boring Tasks.md)

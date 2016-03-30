@@ -1,15 +1,15 @@
-# 选择语言
+# Choosing Languages
 
-喜欢程序员这份工作的独立的程序员可以为任务选择最好的语言。大多数职业程序员控制不了他们将要使用的语言。通常，这个话题会由执行行政决议而非技术决议的boss说出，他们缺少勇气去提升新型工具，即使他们知道，大多数时候使用最新的知识，最少被接受的工具是最好的。另一些情况下，这种团体中真实的好处，以及拓展一个更大的社区的好处，排除了个人的选择。通常管理者由能够雇用在给定的语言有些经验的程序员驱动。毫无疑问他们服务于他们所追求的，以成为工程或公司的最佳乐趣，而且他们会以此被尊敬。并且，我个人相信，这种最浪费而且错误的常见行为，你很有可能遇到。
+The solitary programmer that loves his work (a hacker) can choose the best language for the task. Most working programmers have very little control of the language they will use. Generally, this issue is dictated by pointy-haired bosses who are making a political decision, rather than a technological decision, and lack the courage to promote an unconventional tool even when they know, often with first-hand knowledge, that the less accepted tool is best. In other cases the very real benefit of unity among the team, and to some extent with a larger community, precludes choice on the part of the individual. Often managers are driven by the need to be able to hire programmers with experience in a given language. No doubt they are serving what they perceive to be the best interests of the project or company, and must be respected for that. However, I personally believe this is the most wasteful and erroneous common practice you are likely to encounter.
 
-但是，当然，事物永远不会是一维的。即使一种核心语言妥协了，超出了你的控制范围，通常的情况是，工具和其他程序可以且应该由另一种不同的语言来编写。如果一种语言需要作为嵌入型的（你通常都要考虑它！），语言的选择很大程度上会依赖于使用者的文化。一个人应该利用好这个问题来为你的公司或工程服务，为任务使用最好的语言，这样可以让工作变得有趣
+But of course, things are never one-dimensional. Even if a core language is mandated and beyond your control, it is often the case that tools and other programs can and should be written in a different language. If a language is to be embedded (and you should always consider it!) the choice of language will depend a lot on the culture of the users. One should take advantage of this to serve your company or project by using the best language for the job, and in so doing make work more interesting.
 
-一门编程语言，如果学习它比学习自然语言还要难，那它真的应该被称为符号。对初学者和一些门外汉来说“学习一门新语言”像是一个令人生畏的任务，但在你掌握了三种语言后，这只是一个熟悉可用的库的简单问题。一个程序员趋向于思考一个由三四门语言组成的一个大杂烩系统，但我认为这样一个系统在很多情况下要比单一语言系统要强大，理由有以下几个方面：
+Programming languages should really be called notations in that learning one is not at all as difficult as learning a natural language. To beginners and to some outsiders 'learning a new language' seems a daunting task; but after you have three under your belt it's really just a question of becoming familiar with the available libraries. One tends to think of a large system that has components in three or four languages as a messy hodgepodge; but I argue that such a system is in many cases stronger than a one-language system in several ways:
 
-- 不同符号编写的部分间，必要的松耦合存在（虽然可能没有干净的接口）
-- 通过独立重写每个组件，你可以轻松地写出一个新的语言平台
-- 只有一门语言可能对一个庞大的系统不太适合 - 你的多个模块由多种语言组成，能让你为任务找到正确的工具。
+- There is necessarily loose coupling between the components that are written in different notations (though maybe not clean interfaces),
+- You can evolve to a new language/platform easily by rewriting each component individually,
+- One language may not be a good fit for the overall system - having multiple languages for your modules allows you to pick the right tool for the job.
 
-这些效应可能有些只是心理上的，但心理上的东西也很重要。最后要说的是，语言暴政的代价超过了它能提供的所有好处。
+Some of these effects may only be psychological; but psychology matters. In the end the costs of language tyranny outweigh any advantage that it provides.
 
-Next [明智地妥协 - 如何与时间压力斗争](../Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+Next [Compromising Wisely - How to Fight a Schedule Pressure](../Compromising-Wisely/01-How to Fight Schedule Pressure.md)
