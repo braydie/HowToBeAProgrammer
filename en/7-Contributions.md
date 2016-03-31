@@ -10,6 +10,15 @@ There are a number of ways to contribute to "How to be a Programmer".
 - Identifying typos or other issues in sections
 - Contributing additional links to resources for sections
 - General suggestions for improving the project
+- Provide translations of the guide
+
+## Translations
+
+Currently this guide has been translated from English into the following languages:
+
+- Chinese by [ahangchen](https://github.com/ahangchen)
+
+**If you provide the initial translation of the guide into another language, you become legible to become a contributor on this project to help maintain and review changes made to the translation.**
 
 ## Contributors
 
