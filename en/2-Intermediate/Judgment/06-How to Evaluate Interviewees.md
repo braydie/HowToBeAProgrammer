@@ -8,7 +8,7 @@ You should, at a minimum, give the candidate the equivalent of an oral examinati
 
 In doing this, you should also evaluate their ability to learn, which is far more important than what they know. You should also watch for the whiff of brimstone that is given off by difficult people. You may be able to recognize it by comparing notes after the interview, but in the heat of the interview it is hard to recognize. How well people communicate and work with people is more important than being up on the latest programming language.
 
-A reader has had good luck using a ‘take-home’ test for interviewees. This has the advantage that can uncover the interviewee that can present themselves well but can't really code - and there are many such people. I personally have not tried this technique, but it sounds sensible.
+A reader has had good luck using a ‘take-home’ test for interviewees. This has the advantage that it can uncover the interviewee that can present themselves well but can't really code - and there are many such people. I personally have not tried this technique, but it sounds sensible.
 
 Finally, interviewing is also a process of selling. You should be selling your company or project to the candidate. However, you are talking to a programmer, so don't try to colour the truth. Start off with the bad stuff, then finish strong with the good stuff.
 
