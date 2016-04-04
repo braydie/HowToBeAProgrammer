@@ -4,4 +4,4 @@
 
 非正式交流值得做任何事情去鼓励。更多有用的沟通工作在同事间的午饭可以进行，而非其他的时间。许多公司没有意识到或者不支持这一点，这是一种遗憾。
 
-Next [如何直言异议以及避免](05-How to Disagree Honestly and Get Away with It.md)
+Next [如何直言异议以及如何避免](05-How to Disagree Honestly and Get Away with It.md)
