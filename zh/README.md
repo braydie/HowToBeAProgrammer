@@ -56,7 +56,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [如何与不好相处的人相处](1-Beginner/Team-Skills/11-How to Deal with Difficult People.md)
 2. [进阶](2-Intermediate)
 	- 个人技能
-		- [如何保持充满动力](2-Intermediate/Personal-Skills/01-How to Stay Motivated.md)
+		- [如何保持活力](2-Intermediate/Personal-Skills/01-How to Stay Motivated.md)
 		- [如何才能被广泛信任](2-Intermediate/Personal-Skills/02-How to be Widely Trusted.md)
 		- [在时间和空间之间该如何权衡](2-Intermediate/Personal-Skills/03-How to Tradeoff Time vs Space.md)
 		- [如何进行压力测试](2-Intermediate/Personal-Skills/04-How to Stress Test.md)
@@ -79,7 +79,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [如何评判软件是否太不成熟了](2-Intermediate/Judgment/03-How to Decide if Software is Too Immature.md)
 		- [如何决定购买还是构建](2-Intermediate/Judgment/04-How to Make a Buy vs Build Decision.md)
 		- [如何专业地成长](2-Intermediate/Judgment/05-How to Grow Professionally.md)
-		- [如何评估面试](2-Intermediate/Judgment/06-How to Evaluate Interviewees.md)
+		- [如何评估面试者](2-Intermediate/Judgment/06-How to Evaluate Interviewees.md)
 		- [如何决定什么时候使用奇妙的计算机科学](2-Intermediate/Judgment/07-How to Know When to Apply Fancy Computer Science.md)
 		- [如何与非工程师交谈](2-Intermediate/Judgment/08-How to Talk to Non-Engineers.md)
 3. [高级](3-Advanced)
