@@ -94,7 +94,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
     - 服务你的团队
         - [如何发展才能](3-Advanced/Serving-Your-Team/01-How to Develop Talent.md)
         - [如何选择工作内容](3-Advanced/Serving-Your-Team/02-How to Choose What to Work On.md)
-        - [如何让你的队友的价值最大化](3-Advanced/Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
+        - [如何让你队友的价值最大化](3-Advanced/Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
         - [如何划分问题](3-Advanced/Serving-Your-Team/04-How to Divide Problems Up.md)
         - [如何处理无聊的问题](3-Advanced/Serving-Your-Team/05-How to Handle Boring Tasks.md)
         - [如何为工程获取支持](3-Advanced/Serving-Your-Team/06-How to Gather Support for a Project.md)

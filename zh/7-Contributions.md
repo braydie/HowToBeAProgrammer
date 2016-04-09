@@ -4,7 +4,7 @@
 
 ## 我可以做什么贡献？
 
-有很多方式为"How to be a Programmer"做贡献
+有很多方式为 "How to be a Programmer" 做贡献
 
 - 新章节的思想
 - 提升已有的章节
@@ -19,15 +19,15 @@
 
 - 中文 by [ahangchen](https://github.com/ahangchen)
 
- **如果你第一个提供了其他语言的翻译，你就是这个工程的一个明确的贡献者，请帮忙维护和review对翻译版本的修改。**
+ **如果你第一个提供了其他语言的翻译，你就是这个工程的一个明确的贡献者，请帮忙维护和 review 对翻译版本的修改。**
 
 
 ## 贡献者
 
-Github在这里会维护一个所有贡献者的列表[contributors](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors)
+Github 在这里会维护一个所有贡献者的列表 [contributors](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors)
 
 ## 校正与迁移到GitHub
 
-[Braydie Grove](https://www.github.com/braydie)已经同意作为主编。
+[Braydie Grove](https://www.github.com/braydie) 已经同意作为主编。
 
-Braydie把原始的文档转成了Markdown的形式并创建了这个仓库。
+Braydie 把原始的文档转成了 Markdown 的形式并创建了这个仓库。
