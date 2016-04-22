@@ -6,10 +6,6 @@ This is a glossary of terms as used in this essay. These do not necessarily have
 
 Slang for unknown-unknown. Problems that cannot presently even be conceptualized that will steal time away from the project and wreck the schedule.
 
-### boss
-
-The person or entity that gives you tasks. In some cases this may be the public at large.
-
 ### printlining
 
 The insertion of statements into a program on a strictly temporary basis that output information about the execution of the program for the purpose of debugging.
@@ -41,10 +37,6 @@ Big improvements that cost little.
 ### Entrepreneur
 
 The initiator of projects.
-
-### garbage
-
-Objects that are no longer needed that hold memory.
 
 ### business
 
@@ -80,7 +72,7 @@ Memory can be said to be heap allocated whenever the mechanism for freeing it is
 
 ### garbage
 
-Allocated memory that no longer has any useful meaning.
+Memory which is being taken up by objects your application no longer needs.
 
 ### garbage collector
 
