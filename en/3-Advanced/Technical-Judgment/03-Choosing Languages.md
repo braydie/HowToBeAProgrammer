@@ -10,6 +10,6 @@ Programming languages should really be called notations in that learning one is 
 - You can evolve to a new language/platform easily by rewriting each component individually,
 - One language may not be a good fit for the overall system - having multiple languages for your modules allows you to pick the right tool for the job.
 
-Some of these effects may only be psychological; but psychology matters. In the end the costs of language tyranny outweigh any advantage that it provides.
+Some of these effects may only be psychological; but psychology matters. In the end, the costs of language tyranny outweigh any advantage that it provides.
 
 Next [Compromising Wisely - How to Fight a Schedule Pressure](../Compromising-Wisely/01-How to Fight Schedule Pressure.md)
