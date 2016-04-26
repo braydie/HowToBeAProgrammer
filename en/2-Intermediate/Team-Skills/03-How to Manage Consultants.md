@@ -11,12 +11,7 @@ Formally you are the “customer”, so you have the right to pretend what you p
 Remember that an annoyed consultant will perform very poorly, resulting in an economic damage for your company and a misstep for you as a leader.
 If consultants are going to write code, you must review it carefully as you go along. You cannot get to the end of the project with the risk of a large block of code that has not been reviewed. This is true of all team members, really, but you will usually have more knowledge of the team members closer to you.
 You should always take into account that writing readable and maintainable code is not the main priority of a consultant - its goal is to meet client expectation which are mostly expressed in terms of deadlines and functionalities that shall be implemented. 
-When deadlines are approaching, consultant are masters in rapidly patching software to make it work quickly – even if that means to embed into source code something like configuration parameters or fake data. Take a look at this example:
-
-// FIXME
-sendMail(request.getAccount().getAccountInternet().getUsr(),
-"Please confirm registration by clicking on the following link:<br/><br/><a href=\"http://www.ourdomain.com/abcard/confirmRegistration.html?userId="
-+ account.getUserId() + "\">Confirm</a>");
+When deadlines are approaching, consultant are masters in rapidly patching software to make it work quickly – even if that means to embed into source code something like configuration parameters or fake data.
 
 This is why you shall explicitly ask consultant to write good code, more than reviewing every single LOC – let pass the message that the extra effort spent for writing elegant and reusable code will be appreciated.
 Another good practice is to make every team member accountable in the same way for the work they produce – e.g. make mandatory for everyone to provide header comment blocks into programming code or editor/reviewers tables into delivered documents so that any file can be attributed to its author. Given the current emphasis about online professional reputation and personal branding, accountability will be a lever for consultants to avoid delivering something that they wouldn’t be proud of, encouraged by the fact that they could be already gone somewhere else when poor quality of their job is revealed.
