@@ -1,5 +1,5 @@
 # How to Fight Schedule Pressure
-
+[//]: # (Version:1.0.0)
 Time-to-market pressure is the pressure to deliver a good product quickly. It is good because it reflects a financial reality, and is healthy up to a point. Schedule pressure is the pressure to deliver something faster than it can be delivered and it is wasteful, unhealthy, and all too common.
 
 Schedule pressure exists for several reasons. The people who task programmers do not fully appreciate what a strong work ethic we have and how much fun it is to be a programmer. Perhaps because they project their own behaviour onto us, they believe that asking for it sooner will make us work harder to get it there sooner. This is probably actually true, but the effect is very small, and the damage is very great. Additionally, they have no visibility into what it really takes to produce software. Not being able to see it, and not be able to create it themselves, the only thing they can do is see time-to-market pressure and fuss at programmers about it.

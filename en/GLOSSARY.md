@@ -1,5 +1,5 @@
 # Glossary
-
+[//]: # (Version:1.0.0)
 This is a glossary of terms as used in this essay. These do not necessarily have a standardized meaning to other people. Eric S. Raymond has compiled a massive and informative glossary[HackerDict] that rather surprisingly can pleasurably be read cover-to-cover once you can appreciate a fraction of it.
 
 ### unk-unk

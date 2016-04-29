@@ -1,5 +1,5 @@
 # How to Talk to Non-Engineers
-
+[//]: # (Version:1.0.0)
 Engineers and programmers in particular are generally recognized by popular culture as being different from other people. This implies that other people are different from us. This is worth bearing in mind when communicating with non-engineers; you should always understand the audience.
 
 Non-engineers are smart, but not as grounded in creating technical things as we are. We make things. They sell things and handle things and count things and manage things, but they are not experts on making things. They are not as good at working together on teams as engineers are (there are no doubt exceptions.) Their social skills are generally as good as or better than engineers in non-team environments, but their work does not always demand that they practice the kind of intimate, precise communication and careful subdivisions of tasks that we do.

@@ -1,5 +1,5 @@
 # Appendix A - Bibliography/Websiteography
-
+[//]: # (Version:1.0.0)
 ## Books
 
 [Rules00] Guy Kawasaki, Michelle Moreno, and Gary Kawasaki. 2000. HarperBusiness. Rules for Revolutionaries: The Capitalist Manifesto for Creating and Marketing New Products and Services.

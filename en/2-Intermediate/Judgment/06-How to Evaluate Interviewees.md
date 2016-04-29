@@ -1,5 +1,5 @@
 # How to Evaluate Interviewees
-
+[//]: # (Version:1.0.0)
 Evaluating potential employees is not given the energy it deserves. A bad hire, like a bad marriage, is terrible. A significant portion of everyone's energy should be devoted to recruitment, though this is rarely done.
 
 There are different interviewing styles. Some are torturous, designed to put the candidate under a great deal of stress. This serves a very valuable purpose of possibly revealing character flaws and weaknesses under stress. Candidates are no more honest with interviewers than they are with themselves, and the human capacity for self-deception is astonishing.

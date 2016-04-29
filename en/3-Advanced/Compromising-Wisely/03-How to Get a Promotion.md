@@ -1,5 +1,5 @@
 # How to Get a Promotion
-
+[//]: # (Version:1.0.0)
 To be promoted to a role, act out that role first.
 
 To get promoted to a title, find out what is expected of that title and do that.

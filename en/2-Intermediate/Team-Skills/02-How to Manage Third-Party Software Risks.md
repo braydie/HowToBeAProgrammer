@@ -1,5 +1,5 @@
 # How to Manage Third-Party Software Risks
-
+[//]: # (Version:1.0.0)
 A project often depends on software produced by organizations that it does not control. There are great risks associated with third party software that must be recognized by everyone involved.
 
 Never, ever, rest any hopes on *vapour*. Vapour is any alleged software that has been promised but is not yet available. This is the surest way to go out of business. It is unwise to be merely sceptical of a software company's promise to release a certain product with a certain feature at a certain date; it is far wiser to ignore it completely and forget you ever heard it. Never let it be written down in any documents used by your company.
