@@ -1,5 +1,5 @@
 # 2. 进阶
-
+[//]: # (Version:1.0.0)
 - 个人技能
   - [如何保持活力](Personal-Skills/01-How to Stay Motivated.md)
   - [如何被广泛信任](Personal-Skills/02-How to be Widely Trusted.md)

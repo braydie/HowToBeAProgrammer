@@ -1,5 +1,5 @@
 # How to Understand Performance Problems
-
+[//]: # (Version:1.0.0)
 Learning to understand the performance of a running system is unavoidable for the same reason that learning debugging is. Even if you understand perfectly precisely the cost of the code you write, your code will make calls into other software systems that you have little control over or visibility into. However, in practice performance problems are a little different and a little easier than debugging in general.
 
 Suppose that you or your customers consider a system or a subsystem to be too slow. Before you try to make it faster, you must build a mental model of why it is slow. To do this you can use a profiling tool or a good log to figure out where the time or other resources are really being spent. There is a famous dictum that 90% of the time will be spent in 10% of the code. I would add to that the importance of input/output expense (I/O) to performance issues. Often most of the time is spent in I/O in one way or another. Finding the expensive I/O and the expensive 10% of the code is a good first step to building your mental model.

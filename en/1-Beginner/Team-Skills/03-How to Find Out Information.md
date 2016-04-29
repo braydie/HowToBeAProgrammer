@@ -1,5 +1,5 @@
 # How to Find Out Information
-
+[//]: # (Version:1.0.0)
 The nature of what you need to know determines how you should find it.
 
 If you need information *about concrete things* that are objective and easy to verify, for example the latest patch level of a software product, ask a large number of people politely by searching the internet for it or by posting on a discussion group. Don't search on the internet for anything that smacks of either opinion or subjective interpretation: the ratio of drivel to truth is too high.

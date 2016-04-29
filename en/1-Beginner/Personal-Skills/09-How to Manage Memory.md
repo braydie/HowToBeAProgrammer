@@ -1,5 +1,5 @@
 # How to Manage Memory
-
+[//]: # (Version:1.0.0)
 Memory is a precious resource that you can't afford to run out of. You can ignore it for a while but eventually you will have to decide how to manage memory.
 
 Space that needs to persist beyond the scope of a single subroutine is often called *heap allocated*. A chunk of memory is useless, hence *garbage*, when nothing refers to it. Depending on the system you use, you may have to explicitly deallocate memory yourself when it is about to become garbage. More often you may be able to use a system that provides a *garbage collector*. A garbage collector notices garbage and frees its space without any action required by the programmer. Garbage collection is wonderful: it lessens errors and increases code brevity and concision cheaply. Use it when you can.

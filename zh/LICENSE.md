@@ -1,6 +1,6 @@
 
 ## Creative Commons Attribution Share-Alike
-
+[//]: # (Version:1.0.0)
 "How To Be A Programmer: Community Version" by Robert L. Read with Community is licensed under Creative Commons Attribution Share-Alike Internal v 4.0.
 
 At present this work will be edited by Braydie Grove and Robert L. Read.
