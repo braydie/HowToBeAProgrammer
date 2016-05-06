@@ -1,5 +1,5 @@
 # How to Conduct Experiments
-
+[//]: # (Version:1.0.0)
 The late, great Edsger Dijkstra has eloquently explained that Computer Science is not an experimental science[ExpCS] and doesn't depend on electronic computers. As he puts it referring to the 1960s [Knife],
 
 > ...the harm was done: the topic became known as “computer science” - which, actually, is like referring to surgery as “knife science” - and it was firmly implanted in people's minds that computing science is about machines and their peripheral equipment.

@@ -1,5 +1,5 @@
 # 3. Advanced
-
+[//]: # (Version:1.0.0)
 - Technological Judgment
 	- [How to Tell the Hard From the Impossible](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
 	- [How to Utilize Embedded Languages](Technical-Judgment/02-How to Utilize Embedded Languages.md)

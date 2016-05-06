@@ -1,5 +1,5 @@
 # How to Estimate Programming Time
-
+[//]: # (Version:1.0.0)
 Estimation takes practice. It also takes labour. It takes so much labour it may be a good idea to estimate the time it will take to make the estimate, especially if you are asked to estimate something big.
 
 When asked to provide an estimate of something big, the most honest thing to do is to stall. Most engineers are enthusiastic and eager to please, and stalling certainly will displease the stalled. But an on-the-spot estimate probably won't be accurate and honest.

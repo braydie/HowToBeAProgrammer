@@ -1,5 +1,5 @@
 # Summary
-
+[//]: # (Version:1.0.0)
 * [Beginner](1-Beginner/README.md)
     * Personal Skills
         * [Learn to Debug](1-Beginner/Personal-Skills/01-Learn To Debug.md)

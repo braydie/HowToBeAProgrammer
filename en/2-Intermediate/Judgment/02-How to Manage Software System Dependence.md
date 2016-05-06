@@ -1,5 +1,5 @@
 # How to Manage Software System Dependence
-
+[//]: # (Version:1.0.0)
 Modern software systems tend to depend on a large number of components that may not be directly under your control. This increases productivity through synergy and reuse. However, each component brings with it some problems:
 
 - How will you fix bugs in the component?

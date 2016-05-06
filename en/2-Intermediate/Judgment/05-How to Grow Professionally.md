@@ -1,5 +1,5 @@
 # How to Grow Professionally
-
+[//]: # (Version:1.0.0)
 Assume responsibility in excess of your authority. Play the role that you desire. Express appreciation for people's contribution to the success of the larger organization, as well as things as that help you personally.
 
 If you want to become a team leader, instigate the formation of consensus. If you want to become a manager, take responsibility for the schedule. You can usually do this comfortably while working with a leader or a manager, since this frees them up to take greater responsibility. If that is too much to try, do it a little at a time.

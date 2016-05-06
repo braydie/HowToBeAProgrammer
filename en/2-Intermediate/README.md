@@ -1,5 +1,5 @@
 # 2. Intermediate
-
+[//]: # (Version:1.0.0)
 - Personal Skills
 	- [How to Stay Motivated](Personal-Skills/01-How to Stay Motivated.md)
 	- [How to be Widely Trusted](Personal-Skills/02-How to be Widely Trusted.md)

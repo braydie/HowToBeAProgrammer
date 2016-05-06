@@ -1,5 +1,5 @@
 # Appendix B - History
-
+[//]: # (Version:1.0.0)
 ## Move to Github
 
 This essay has been created as a repository on Github so that it can be easily shared, updated and improved. It was copied from [http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm](http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm) by [Braydie Grove](https://github.com/braydie). It was moved to Github in January 2016.

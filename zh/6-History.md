@@ -1,5 +1,5 @@
 # 附录 B - 历史
-
+[//]: # (Version:1.0.0)
 ## 迁移到 Github
 
 这篇文章已经在 github 上作为一个仓库创建了，这样它可以很容易地被分享、更新、提高。它是从这里复制过来的。[http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm](http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm) by [Braydie Grove](https://github.com/braydie)。 2016年1月迁移到 github。

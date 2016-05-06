@@ -1,6 +1,6 @@
 # How to be a Programmer 中文版
 Robert L. Read with Community
-
+[//]: # (Version:1.0.0)
 Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

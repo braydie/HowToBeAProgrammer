@@ -1,5 +1,5 @@
 # How to Debug by Splitting the Problem Space
-
+[//]: # (Version:1.0.0)
 Debugging is fun, because it begins with a mystery. You think it should do something, but instead it does something else. It is not always quite so simple---any examples I can give will be contrived compared to what sometimes happens in practice. Debugging requires creativity and ingenuity. If there is a single key to debugging it is to use the divide and conquer technique on the mystery.
 
 Suppose, for example, you created a program that should do ten things in a sequence. When you run it, it crashes. Since you didn't program it to crash, you now have a mystery. When you look at the output, you see that the first seven things in the sequence were run successfully. The last three are not visible from the output, so now your mystery is smaller: ‘It crashed on thing #8, #9, or #10.’

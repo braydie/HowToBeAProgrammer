@@ -1,14 +1,10 @@
 # Glossary
-
+[//]: # (Version:1.0.0)
 This is a glossary of terms as used in this essay. These do not necessarily have a standardized meaning to other people. Eric S. Raymond has compiled a massive and informative glossary[HackerDict] that rather surprisingly can pleasurably be read cover-to-cover once you can appreciate a fraction of it.
 
 ### unk-unk
 
 Slang for unknown-unknown. Problems that cannot presently even be conceptualized that will steal time away from the project and wreck the schedule.
-
-### boss
-
-The person or entity that gives you tasks. In some cases this may be the public at large.
 
 ### printlining
 
@@ -41,10 +37,6 @@ Big improvements that cost little.
 ### Entrepreneur
 
 The initiator of projects.
-
-### garbage
-
-Objects that are no longer needed that hold memory.
 
 ### business
 
@@ -80,7 +72,7 @@ Memory can be said to be heap allocated whenever the mechanism for freeing it is
 
 ### garbage
 
-Allocated memory that no longer has any useful meaning.
+Memory which is being taken up by objects your application no longer needs.
 
 ### garbage collector
 

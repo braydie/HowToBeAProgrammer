@@ -1,5 +1,5 @@
 # How to Document Wisely
-
+[//]: # (Version:1.0.0)
 Life is too short to write crap nobody will read; if you write crap, nobody will read it. Therefore a little good documentation is best. Managers often don't understand this, because even bad documentation gives them a false sense of security that they are not dependent on their programmers. If someone absolutely insists that you write truly useless documentation, say 'yes' and quietly begin looking for a better job.
 
 There's nothing quite as effective as putting an accurate estimate of the amount of time it will take to produce good documentation into an estimate to slacken the demand for documentation. The truth is cold and hard: documentation, like testing, can take many times longer than developing code.
