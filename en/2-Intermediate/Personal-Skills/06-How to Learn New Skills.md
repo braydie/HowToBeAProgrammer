@@ -1,5 +1,5 @@
 # How to Learn New Skills
-
+[//]: # (Version:1.0.0)
 Learning new skills, especially non-technical ones, is the greatest fun of all. Most companies would have better morale if they understood how much this motivates programmers.
 
 Humans learn by doing. Book-reading and class-taking are useful. But could you have any respect for a programmer who had never written a program? To learn any skill, you have to put yourself in a forgiving position where you can exercise that skill. When learning a new programming language, try to do a small project in it before you have to do a large project. When learning to manage a software project, try to manage a small one first.

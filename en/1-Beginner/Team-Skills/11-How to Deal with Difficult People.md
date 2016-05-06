@@ -1,5 +1,5 @@
 # How to Deal with Difficult People
-
+[//]: # (Version:1.0.0)
 You will probably have to deal with difficult people. You may even be a difficult person yourself. If you are the kind of person who has a lot of conflicts with co-workers and authority figures, you should cherish the independence this implies, but work on your interpersonal skills without sacrificing your intelligence or principles.
 
 This can be very disturbing to some programmers who have no experience in this sort of thing and whose previous life experience has taught them patterns of behaviour that are not useful in the workplace. Difficult people are often accustomed to disagreement and they are less affected by social pressure to compromise than others. The key is to respect them appropriately, which is more than you will want to but not as much as they might want.

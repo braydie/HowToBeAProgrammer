@@ -1,5 +1,5 @@
 # How to Understand the User
-
+[//]: # (Version:1.0.0)
 It is your duty to understand the user, and to help your boss understand the user. Because the user is not as intimately involved in the creation of your product as you are, they behave a little differently:
 
 - The user generally makes short pronouncements.

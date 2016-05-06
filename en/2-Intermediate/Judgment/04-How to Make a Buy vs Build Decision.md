@@ -1,5 +1,5 @@
 # How to Make a Buy vs. Build Decision
-
+[//]: # (Version:1.0.0)
 An entrepreneurial company or project that is trying to accomplish something with software has to constantly make so-called *buy vs. build* decisions. This turn of phrase is unfortunate in two ways: it seems to ignore open-source and free software which is not necessarily *bought*. Even more importantly, it should perhaps be called an *obtain and integrate vs. build here and integrate* decision because the cost of integration must be considered. This requires a great combination of business, management, and engineering savvy.
 
 - How well do your needs match those for which it was designed?

@@ -1,5 +1,5 @@
 # How to Utilize People as Information Sources
-
+[//]: # (Version:1.0.0)
 Respect every person's time and balance it against your own. Asking someone a question accomplishes far more than just receiving the answer. The person learns about you, both by enjoying your presence and hearing the particular question. You learn about the person in the same way, and you may learn the answer you seek. This is usually far more important than your question.
 
 However, the value of this diminishes the more you do it. You are, after all, using the most precious commodity a person has: their time. The benefits of communication must be weighed against the costs. Furthermore, the particular costs and benefits derived differ from person to person. I strongly believe that an executive of 100 people should spend five minutes a month talking to each person in her organization, which would be about 5% of their time. But ten minutes might be too much, and five minutes is too much if they have one thousand employees. The amount of time you spend talking to each person in your organization depends on their role (more than their position). You should talk to your boss more than your boss's boss, but you should talk to your boss's boss a little. It may be uncomfortable, but I believe you have a duty to talk a little bit to all your superiors, each month, no matter what.

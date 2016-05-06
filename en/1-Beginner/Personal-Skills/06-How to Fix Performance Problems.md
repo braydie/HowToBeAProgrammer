@@ -1,5 +1,5 @@
 # How to Fix Performance Problems
-
+[//]: # (Version:1.0.0)
 Most software projects can be made with relatively little effort 10 to 100 times faster than they are at the time they are first released. Under time-to-market pressure, it is both wise and effective to choose a solution that gets the job done simply and quickly, but less efficiently than some other solution. However, performance is a part of usability, and often it must eventually be considered more carefully.
 
 The key to improving the performance of a very complicated system is to analyse it well enough to find the *bottlenecks*, or places where most of the resources are consumed. There is not much sense in optimizing a function that accounts for only 1% of the computation time. As a rule of thumb you should think carefully before doing anything unless you think it is going to make the system or a significant part of it at least twice as fast. There is usually a way to do this. Consider the test and quality assurance effort that your change will require. Each change brings a test burden with it, so it is much better to have a few big changes.

@@ -1,5 +1,5 @@
 # 1. Beginner
-
+[//]: # (Version:1.0.0)
 - Personal Skills
 	- [Learn to Debug](Personal-Skills/01-Learn To Debug.md)
 	- [How to Debug by Splitting the Problem Space](Personal-Skills/02-How to Debug by Splitting the Problem Space.md)

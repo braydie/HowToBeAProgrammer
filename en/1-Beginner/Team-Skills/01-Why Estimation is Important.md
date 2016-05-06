@@ -1,5 +1,5 @@
 # Why Estimation is Important
-
+[//]: # (Version:1.0.0)
 To get a working software system in active use as quickly as possible requires not only planning the development, but also planning the documentation, deployment, and marketing. In a commercial project it also requires sales and finance. Without predictability of the development time, it is impossible to plan these effectively.
 
 Good estimation provides predictability. Managers love it, as well they should. The fact that it is impossible, both theoretically and practically, to predict accurately how long it will take to develop software is often lost on managers. We are asked to do this impossible thing all the time, and we must face up to it honestly. However, it would be dishonest not to admit the impossibility of this task, and when necessary, explain it. There is a lot of room for miscommunication about estimates, as people have a startling tendency to think wishfully that the sentence:

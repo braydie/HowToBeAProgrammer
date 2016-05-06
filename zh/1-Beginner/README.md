@@ -1,5 +1,5 @@
 # 1. 入门
-
+[//]: # (Version:1.0.0)
 - 个人技能
 	- [学会 Debug](Personal-Skills/01-Learn To Debug.md)
 	- [如何通过分割问题 Debug](Personal-Skills/02-How to Debug by Splitting the Problem Space.md)

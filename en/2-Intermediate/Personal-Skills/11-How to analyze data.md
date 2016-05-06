@@ -1,5 +1,5 @@
 # How to analyze data
-
+[//]: # (Version:1.0.0)
 Data analysis is a process in the early stages of software development, when you examine a business activity and find the requirements to convert it into a software application. This is a formal definition, which may lead you to believe that data analysis is an action that you should better leave to the systems analysts, while you, the programmer, should focus on coding what somebody else has designed. If we follow strictly the software engineering paradigm, it may be correct. Experienced programmers become designers and the sharpest designers become business analysts, thus being entitled to think about all the data requirements and give you a well defined task to carry out. This is not entirely accurate, because data is the core value of every programming activity. Whatever you do in your programs, you are either moving around or modifying data. The business analyst is analysing the needs in a larger scale, and the software designer is further squeezing such scale so that, when the problem lands on your desk, it seems that all you need to do is to apply clever algorithms and start moving existing data.
 
 Not so.

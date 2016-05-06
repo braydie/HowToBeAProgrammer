@@ -1,5 +1,5 @@
 # How to Deal with Intermittent Bugs
-
+[//]: # (Version:1.0.0)
 The intermittent bug is a cousin of the 50-foot-invisible-scorpion-from-outer-space kind of bug. This nightmare occurs so rarely that it is hard to observe, yet often enough that it can't be ignored. You can't debug because you can't find it.
 
 Although after 8 hours you will start to doubt it, the intermittent bug has to obey the same laws of logic everything else does. What makes it hard is that it occurs only under unknown conditions. Try to record the circumstances under which the bug does occur, so that you can guess what the variability really is. The condition may be related to data values, such as ‘This only happens when we enter *Wyoming* as a value.’ If that is not the source of variability, the next suspect should be improperly synchronized concurrency.

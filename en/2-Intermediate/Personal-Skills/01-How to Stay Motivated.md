@@ -1,5 +1,5 @@
 # How to Stay Motivated
-
+[//]: # (Version:1.0.0)
 It is a wonderful and surprising fact that programmers are highly motivated by the desire to create artifacts that are beautiful, useful, or nifty. This desire is not unique to programmers nor universal but it is so strong and common among programmers that it separates them from others in other roles.
 
 This has practical and important consequences. If programmers are asked to do something that is not beautiful, useful, or nifty, they will have low morale. There's a lot of money to be made doing ugly, stupid, and boring stuff; but in the end, fun will make the most money for the company.

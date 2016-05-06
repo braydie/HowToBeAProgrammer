@@ -1,5 +1,5 @@
 # Communication Languages
-
+[//]: # (Version:1.0.0)
 There are some languages, that is, formally defined syntactic systems, that are not programming languages but *communication languages* - they are designed specifically to facilitate communication through standardization. In 2003 the most important of these are UML, XML, and SQL. You should have some familiarity with all of these so that you can communicate well and decide when to use them.
 
 UML is a rich formal system for making drawings that describe designs. Its beauty lies in that it is both visual and formal, capable of conveying a great deal of information if both the author and the audience know UML. You need to know about it because designs are sometimes communicated in it. There are very helpful tools for making UML drawings that look very professional. In a lot of cases UML is too formal, and I find myself using a simpler *boxes and arrows* style for design drawings. But I'm fairly sure UML is at least as good for you as studying Latin.

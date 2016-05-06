@@ -1,5 +1,5 @@
 # How to Learn Design Skills
-
+[//]: # (Version:1.0.0)
 To learn how to design software, study the action of a mentor by being physically present when they are designing. Then study well-written pieces of software. After that, you can read some books on the latest design techniques.
 
 Then you must do it yourself. Start with a small project. When you are finally done, consider how the design failed or succeeded and how you diverged from your original conception. Then move on to larger projects, hopefully in conjunction with other people. Design is a matter of judgement that takes years to acquire. A smart programmer can learn the basics adequately in two months and can improve from there.

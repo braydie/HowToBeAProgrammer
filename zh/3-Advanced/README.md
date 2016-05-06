@@ -1,4 +1,5 @@
 # 3. 高级
+[//]: # (Version:1.0.0)
 - 技术评审
 	- [如何从不可能中找到困难的地方](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
 	- [如何使用嵌入式语言](Technical-Judgment/02-How to Utilize Embedded Languages.md)

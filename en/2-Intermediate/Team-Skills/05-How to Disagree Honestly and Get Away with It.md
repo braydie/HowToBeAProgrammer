@@ -1,5 +1,5 @@
 # How to Disagree Honestly and Get Away with It
-
+[//]: # (Version:1.0.0)
 Disagreement is a great opportunity to make a good decision, but it should be handled delicately. Hopefully you feel that you have expressed your thoughts adequately and been heard before the decision is made. In that case there is nothing more to say, and you should decide whether you will stand behind the decision even though you disagree with it. If you can support this decision even though you disagree, say so. This shows how valuable you are because you are independent and are not a yes-man, but respectful of the decision and a team player.
 
 Sometimes a decision that you disagree with will be made when the decision makers did not have the full benefit of your opinion. You should then evaluate whether to raise the issue on the basis of the benefit to the company or tribe. If it is a small mistake in your opinion, it may not be worth reconsidering. If it is a large mistake in your opinion, then of course you must present an argument.
