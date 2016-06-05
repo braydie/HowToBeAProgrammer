@@ -1,5 +1,5 @@
 # How to Tell the Hard From the Impossible
-
+[//]: # (Version:1.0.1)
 It is our job to do the hard and discern the impossible. From the point of view of most working programmers, something is impossible if either it cannot be grown from a simple system or it cannot be estimated. By this definition what is called research is impossible. A large volume of mere work is hard, but not necessarily impossible.
 
 The distinction is not facetious because you may very well be asked to do what is practically impossible, either from a scientific point of view or a software engineering point of view. It then becomes your job to help the entrepreneur find a reasonable solution which is merely hard and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.
