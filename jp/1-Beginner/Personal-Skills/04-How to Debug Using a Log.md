@@ -1,13 +1,12 @@
 # How to Debug Using a Log
 [//]: # (Version:1.0.0)
-*Logging* is the practice of writing a system so that it produces a sequence of informative records, called a log. *Printlining* is just producing a simple, usually temporary, log. Absolute beginners must understand and use logs because their knowledge of programming is limited; system architects must understand and use logs because of the complexity of the system. The amount of information that is provided by the log should be configurable, ideally while the program is running. In general, logs offer three basic advantages:
+*ロギング*は、ログと呼ばれる一連の有益なレコードを生成するようにシステムを作成する方法です。 * Printlining *は単純な、通常は一時的なログを生成しています。プログラミングの知識が限られているため、絶対初心者はログを理解して使用する必要があります。システム設計者は、システムの複雑さのためログを理解して使用する必要があります。ログによって提供される情報の量は、プログラムが実行されている間は理想的に構成可能でなければなりません。一般に、ログには3つの基本的な利点があります。
 
-- Logs can provide useful information about bugs that are hard to reproduce (such as those that occur in the production environment but that cannot be reproduced in the test environment).
-- Logs can provide statistics and data relevant to performance, such as the time passing between statements.
-- When configurable, logs allow general information to be captured in order to debug unanticipated specific problems without having to modify and/or redeploy the code just to deal with those specific problems.
+- ログは、再現するのが難しいバグ（プロダクション環境で発生するものの、テスト環境では再現できないバグなど）に関する有用な情報を提供します。
+- ログは、ステートメント間の時間の経過など、パフォーマンスに関連する統計およびデータを提供できます。
+- 構成可能な場合、ログは一般的な情報をキャプチャして、特定の問題を処理するためだけにコードを修正および/または再デプロイすることなく、予期しない特定の問題をデバッグすることができます。
 
-The amount to output into the log is always a compromise between information and brevity. Too much information makes the log expensive and produces *scroll blindness*, making it hard to find the information you need. Too little information and it may not contain what you need. For this reason, making what is output configurable is very useful. Typically, each record in the log will identify its position in the source code, the thread that executed it if applicable, the precise time of execution, and, commonly, an additional useful piece of information, such as the value of some variable, the amount of free memory, the number of data objects, etc. These log statements are sprinkled throughout the source code, particularly at major functionality points and around risky code. Each statement can be assigned a level and will only output a record if the system is currently configured to output that level. You should design the log statements to address problems that you anticipate. Anticipate the need to measure performance.
+ログに出力する量は、情報と簡潔さの間の妥協点です。情報が多すぎるとログが高価になり、*スクロールブラインド*が発生し、必要な情報を見つけることが難しくなります。情報が少なすぎ、必要な情報が含まれていない可能性があります。このため、出力を構成可能にすることは非常に便利です。通常、ログ内の各レコードは、ソースコード内の位置、実行可能な場合はそれを実行したスレッド、実行の正確な時刻、および一般的に、変数の値、データオブジェクトの数などが含まれます。これらのログステートメントは、ソースコード全体にわたって、特に主要機能点や危険なコードの周りに散在しています。各ステートメントにレベルを割り当てることができ、システムが現在そのレベルを出力するように設定されている場合にのみレコードを出力します。予想される問題に対処するために、ログステートメントを設計する必要があります。パフォーマンスを測定する必要性を予期します。
 
-If you have a permanent log, printlining can now be done in terms of the log records, and some of the debugging statements will probably be permanently added to the logging system.
-
+永続的なログがある場合は、ログレコードに関して印刷ラインを実行できるようになり、一部のデバッグ文がロギングシステムに永久に追加される可能性があります。
 Next [How to Understand Performance Problems](05-How to Understand Performance Problems.md)

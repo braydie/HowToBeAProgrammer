@@ -1,23 +1,23 @@
 # How to Conduct Experiments
 [//]: # (Version:1.0.0)
-The late, great Edsger Dijkstra has eloquently explained that Computer Science is not an experimental science[ExpCS] and doesn't depend on electronic computers. As he puts it referring to the 1960s [Knife],
+’x‚­‚ÄˆÌ‘å‚ÈEdsger Dijkstra‚ÍAƒRƒ“ƒsƒ…[ƒ^ƒTƒCƒGƒ“ƒX‚ÍÀŒ±“I‚È‰ÈŠw‚Å‚Í‚È‚­[ExpCS]‚Å‚ ‚èA“dqŒvZ‹@‚ÉˆË‘¶‚µ‚È‚¢‚±‚Æ‚ğ—Y•Ù‚Éà–¾‚µ‚Ü‚µ‚½B”Ş‚Í‚»‚ê‚ğ1960”N‘ã[ƒiƒCƒt]‚ÆŒÄ‚ñ‚Å‚¢‚Ü‚·B
 
-> ...the harm was done: the topic became known as â€œcomputer scienceâ€ - which, actually, is like referring to surgery as â€œknife scienceâ€ - and it was firmly implanted in people's minds that computing science is about machines and their peripheral equipment.
+> ...Šë‹@‚ª‹N‚±‚Á‚½F‚»‚ÌƒgƒsƒbƒN‚ÍAÀÛ‚É‚Íèp‚Æ‚µ‚Äèp‰ÈŠw‚ğŠw‚Ô‚æ‚¤‚È‚à‚Ì‚Å‚ ‚èAƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒOƒTƒCƒGƒ“ƒX‚ÍlŠÔ‚ÌS‚É‚µ‚Á‚©‚è‚Æ–„‚ß‚Ü‚ê‚Ä‚¢‚½Aƒ}ƒVƒ“‚Æ‚»‚Ìü•Ó‹@Ší‚É‚Â‚¢‚ÄB
 
-Programming ought not to be an experimental science, but most working programmers do not have the luxury of engaging in what Dijkstra means by computing science. We must work in the realm of experimentation, just as some, but not all, physicists do. If thirty years from now programming can be performed without experimentation, it will be a great accomplishment of Computer Science.
+ƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ÍÀŒ±“I‚È‰ÈŠw‚Å‚ ‚é‚×‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA‚Ù‚Æ‚ñ‚Ç‚Ìì‹ÆƒvƒƒOƒ‰ƒ}[‚ÍAƒ_ƒCƒNƒXƒgƒ‰‚ªŒvZ‰ÈŠw‚É‚æ‚Á‚ÄˆÓ–¡‚·‚é‚à‚Ì‚ÉŠÖ—^‚·‚éæÒ‘ò‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB„‚½‚¿‚ÍÀŒ±‚Ì•ª–ì‚Å“­‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB•¨—ŠwÒ‚Ì‚·‚×‚Ä‚ª‚»‚¤‚Å‚Í‚È‚¢‚æ‚¤‚ÉA„‚½‚¿‚ÍÀŒ±‚Ì•ª–ì‚Å“­‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB¡‚©‚ç30”N‚ğÀŒ±‚È‚µ‚És‚¤‚±‚Æ‚ª‚Å‚«‚ê‚ÎA‚»‚ê‚ÍƒRƒ“ƒsƒ…[ƒ^ƒTƒCƒGƒ“ƒX‚ÌˆÌ‘å‚È¬‰Ê‚Æ‚È‚é‚Å‚µ‚å‚¤B
 
-The kinds of experiments you will have to perform include:
+Às‚·‚é•K—v‚Ì‚ ‚éÀŒ±‚Ìí—Ş‚ÍŸ‚Ì‚Æ‚¨‚è‚Å‚·B
 
-- Testing systems with small examples to verify that they conform to the documentation or to understand their response when there is no documentation,
-- Testing small code changes to see if they actually fix a bug,
-- Measuring the performance of a system under two different conditions due to imperfect knowledge of their performance characteristics,
-- Checking the integrity of data, and
-- Collecting statistics that may hint at the solution to difficult or hard-to-repeat bugs.
+- ­”‚Ì—á‚ª‚ ‚éƒVƒXƒeƒ€‚ğƒeƒXƒg‚µ‚ÄA‚»‚ê‚ç‚ªƒhƒLƒ…ƒƒ“ƒe[ƒVƒ‡ƒ“‚É€‹’‚µ‚Ä‚¢‚é‚±‚Æ‚ğŒŸØ‚µ‚½‚èAƒhƒLƒ…ƒƒ“ƒe[ƒVƒ‡ƒ“‚ª‚È‚¢ê‡‚Ì‰“š‚ğ—‰ğ‚µ‚½‚èA
+- ¬‚³‚ÈƒR[ƒh‚Ì•ÏX‚ğƒeƒXƒg‚µ‚ÄAÀÛ‚ÉƒoƒO‚ğC³‚µ‚½‚©‚Ç‚¤‚©‚ğŠm”F‚µA
+- «”\“Á«‚Ì•sŠ®‘S‚È’m¯‚Ì‚½‚ß‚É2‚Â‚ÌˆÙ‚È‚éğŒ‰º‚ÅƒVƒXƒeƒ€‚Ì«”\‚ğ‘ª’è‚·‚éB
+- ƒf[ƒ^‚Ì®‡«‚ğƒ`ƒFƒbƒN‚·‚éB
+- ¢“ï‚ÈA‚Ü‚½‚Í“ï‚µ‚¢ƒoƒO‚Ì‰ğŒˆô‚ğ¦´‚·‚é“Œv‚ğûW‚·‚éB
 
-I don't think in this essay I can explain the design of experiments; you will have to study and practice. However, I can offer two bits of advice.
+„‚Í‚±‚ÌƒGƒbƒZƒC‚Å‚ÍÀŒ±‚ÌƒfƒUƒCƒ“‚ğà–¾‚Å‚«‚é‚Æ‚Ív‚í‚È‚¢B‚ ‚È‚½‚Í•×‹­‚µA—ûK‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB‚µ‚©‚µA„‚Í2ƒrƒbƒg‚ÌƒAƒhƒoƒCƒX‚ğ’ñ‹Ÿ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
 
-First, try to be very clear about your hypothesis, or the assertion that you are trying to test. It also helps to write the hypothesis down, especially if you find yourself confused or are working with others.
+‚Ü‚¸A‚ ‚È‚½‚Ì‰¼àA‚Ü‚½‚Í‚ ‚È‚½‚ªƒeƒXƒg‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚éå’£‚É‚Â‚¢‚ÄA”ñí‚É–¾Šm‚É‚·‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B‚Ü‚½A“Á‚É©•ª‚ª¬—‚µ‚Ä‚¢‚éA‚Ü‚½‚Í‘¼‚Ìl‚Æ“­‚¢‚Ä‚¢‚é‚Æv‚í‚ê‚éê‡‚ÍA‰¼à‚ğ‘‚«—¯‚ß‚é‚Ì‚É–ğ—§‚¿‚Ü‚·B
 
-You will often find yourself having to design a series of experiments, each of which is based on the knowledge gained from the last experiment. Therefore, you should design your experiments to provide the most information possible. Unfortunately, this is in tension with keeping each experiment simple - you will have to develop this judgement through experience.
+ˆê˜A‚ÌÀŒ±‚ğİŒv‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚±‚Æ‚ª‚æ‚­‚ ‚è‚Ü‚·B‚»‚ê‚¼‚ê‚ÌÀŒ±‚ÍÅŒã‚ÌÀŒ±‚Å“¾‚ç‚ê‚½’m¯‚ÉŠî‚Ã‚¢‚Ä‚¢‚Ü‚·B‚µ‚½‚ª‚Á‚ÄA‰Â”\‚ÈŒÀ‚è‘½‚­‚Ìî•ñ‚ğ’ñ‹Ÿ‚·‚é‚æ‚¤‚ÉÀŒ±‚ğİŒv‚·‚é•K—v‚ª‚ ‚è‚Ü‚·Bc”O‚È‚ª‚çA‚±‚ê‚ÍŠeÀŒ±‚ğŠÈ’P‚É‚·‚é‚±‚Æ‚É‹Ù’£‚µ‚Ä‚¢‚Ü‚·BŒoŒ±‚ğ’Ê‚µ‚Ä‚±‚Ì”»’f‚ğ”­“W‚³‚¹‚é•K—v‚ª‚ ‚è‚Ü‚·B
 
 Next [Team Skills - Why Estimation is Important](../Team-Skills/01-Why Estimation is Important.md)

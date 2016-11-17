@@ -1,15 +1,15 @@
 # How to Deal with Difficult People
 [//]: # (Version:1.0.0)
-You will probably have to deal with difficult people. You may even be a difficult person yourself. If you are the kind of person who has a lot of conflicts with co-workers and authority figures, you should cherish the independence this implies, but work on your interpersonal skills without sacrificing your intelligence or principles.
+おそらく、難しい人たちに対処しなければならないでしょう。あなた自身も難しい人かもしれません。あなたが同僚や権威者と多くの葛藤をしているような人の場合は、これが意味する独立性を大切にしなければなりませんが、あなたの知性や原則を犠牲にすることなく、
 
-This can be very disturbing to some programmers who have no experience in this sort of thing and whose previous life experience has taught them patterns of behaviour that are not useful in the workplace. Difficult people are often accustomed to disagreement and they are less affected by social pressure to compromise than others. The key is to respect them appropriately, which is more than you will want to but not as much as they might want.
+これは、このようなことを経験しておらず、以前の人生経験が職場で役に立たない行動パターンを教えてくれたプログラマーにとっては、非常に邪魔になることがあります。難しい人はしばしば意見の不一致に慣れており、他者よりも妥協する社会的圧力の影響を受けにくい。鍵は適切に尊重することです。これは、あなたが望むよりはるかに多く、しかし彼らが望むほど多くはありません。
 
-Programmers have to work together as a team. When disagreement arises, it must be resolved somehow, it cannot be ducked for long. Difficult people are often extremely intelligent and have something very useful to say. It is critical that you listen to and understand the difficult person without prejudice caused by the person. A failure to communicate is often the basis of disagreement but it can sometimes be removed with great patience. Try to keep this communication cool and cordial, and don't accept any baits for greater conflict that may be offered. After a reasonable period of trying to understand, make a decision.
+プログラマーはチームとして一緒に働かなければなりません。不一致が生じたとき、それは何とか解決されなければならない、それは長い間居眠りすることができない。難しい人はしばしば非常に賢明で、何か非常に有用なことがあります。難しい人がその人によって引き起こされる偏見なく聴いて理解することが重要です。コミュニケーションの失敗は、しばしば不一致の根拠ですが、時には大きな忍耐で取り除くことができます。このコミュニケーションを涼しく心のこもったものに保ち、より大きな争いが起こる可能性のある餌を受け入れないでください。理解しようとする合理的な期間の後、決定を下す。
 
-Don't let a bully force you to do something you don't agree with. If you are the leader, do what you think is best. Don't make a decision for any personal reasons, and be prepared to explain the reasons for your decision. If you are a team-mate with a difficult person, don't let the leader's decision have any personal impact. If it doesn't go your way, do it the other way whole-heartedly.
+いじめっ子があなたに同意しない何かをするように強制しないでください。あなたがリーダーであれば、あなたが一番良いと思うことをしてください。個人的な理由で決断を下さないで、決定理由を説明する準備をしてください。難しい人とチームメイトをしている場合は、リーダーの決定に個人的な影響を与えないでください。それがあなたの道を行くことがないならば、それはまったく心をこめて他のやり方です。
 
-Difficult people do change and improve. I've seen it with my own eyes, but it is very rare. However, everyone has transitory ups and downs.
+難しい人は変化し、改善する。私は自分の目でそれを見ましたが、それは非常にまれです。しかし、誰も一時的な浮き沈みがあります。
 
-One of the challenges that every programmer but especially leaders face is keeping the difficult person fully engaged. They are more prone to duck work and resist passively than others.
+すべてのプログラマー、特に指導者が直面している課題の1つは、困難な人物を完全に従事させることです。彼らは仕事をアヒルにする傾向があり、他のものよりも受動的に抵抗する傾向があります。.
 
 Next [Intermediate skills](../../2-Intermediate)

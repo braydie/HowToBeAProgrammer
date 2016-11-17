@@ -1,11 +1,10 @@
 # How to Work with Poor Code
 [//]: # (Version:1.0.0)
-It is very common to have to work with poor quality code that someone else has written. Don't think too poorly of them, however, until you have walked in their shoes. They may have been asked very consciously to get something done quickly to meet schedule pressure. Regardless, in order to work with unclear code you must understand it. To understand it takes learning time, and that time will have to come out of some schedule, somewhere, and you must insist on it. To understand it, you will have to read the source code. You will probably have to experiment with it.
+誰かが書いた劣悪なコードで作業しなければならないことは非常に一般的です。しかし、あなたが靴を履くまでは、あまりにも貧弱ではないと思ってください。彼らは、スケジュール圧力を満たすために何かをすばやく行うために、意識的に頼まれているかもしれません。それにかかわらず、不明瞭なコードで作業するには、それを理解する必要があります。それを理解するには学習時間が必要で、その時間はどこかのスケジュールから出なければならず、あなたはそれを主張する必要があります。それを理解するには、ソースコードを読まなければなりません。あなたはおそらくそれを試す必要があります。
 
-This is a good time to document, even if it is only for yourself, because the act of trying to document the code will force you to consider angles you might not have considered, and the resulting document may be useful. While you're doing this, consider what it would take to rewrite some or all of the code. Would it actually save time to rewrite some of it? Could you trust it better if you rewrote it? Be careful of arrogance here. If you rewrite it, it will be easier for you to deal with, but will it really be easier for the next person who has to read it? If you rewrite it, what will the test burden be? Will the need to re-test it outweigh any benefits that might be gained?
+コードを文書化しようとすると、あなたが考慮しなかったかもしれない角度を考慮しなければならなくなり、結果として得られる文書が役立つかもしれないので、自分自身だけであっても、これを文書化するのはいい時間です。これをやっている間、コードの一部または全部を書き直すには何が必要かを考えてください。それは実際にそれを書き換える時間を節約するでしょうか？あなたがそれを書き直すと、あなたはそれをより信頼できるでしょうか？ここで傲慢に注意してください。あなたがそれを書き直すと、あなたは対処しやすくなりますが、それを読まなければならない次の人にとっては本当に簡単でしょうか？あなたがそれを書き直すなら、テストの負担はいくらですか？それを再テストする必要性は、得られる可能性のある利益よりも重要だろうか？
 
-In any estimate that you make for work against code you didn't write, the quality of that code should affect your perception of the risk of problems and unk-unks.
+あなたが書いていないコードに対する作業のためのあなたの推定では、そのコードの品質は、問題やunk-unksのリスクに対するあなたの認識に影響を与えるはずです。
 
-It is important to remember that abstraction and encapsulation, two of a programmer's best tools, are particularly applicable to lousy code. You may not be able to redesign a large block of code, but if you can add a certain amount of abstraction to it you can obtain some of the benefits of a good design without reworking the whole mess. In particular, you can try to wall off the parts that are particularly bad so that they may be redesigned independently.
-
+プログラマの最も優れたツールのうちの2つである抽象化とカプセル化は、特に厄介なコードに適用可能であることを覚えておくことが重要です。大きなコードブロックを再設計することはできないかもしれませんが、ある抽象化量を追加することができれば、良いデザインのメリットを得ることができます。特に、個別に再設計することができるように、特に悪い部品を取り除くことができます。
 Next [How to Use Source Code Control](07-How to Use Source Code Control.md)

@@ -1,13 +1,13 @@
 # How to Deal with I/O Expense
 [//]: # (Version:1.0.0)
-For a lot of problems, processors are fast compared to the cost of communicating with a hardware device. This cost is usually abbreviated I/O, and can include network cost, disk I/O, database queries, file I/O, and other use of some hardware not very close to the processor. Therefore building a fast system is often more a question of improving I/O than improving the code in some tight loop, or even improving an algorithm.
+多くの問題に対して、プロセッサはハードウェアデバイスとの通信コストに比べて高速です。このコストは、通常はI / Oと省略され、ネットワークコスト、ディスクI / O、データベースクエリ、ファイルI / O、およびプロセッサにあまり近接しないハードウェアの使用などが含まれます。したがって、高速なシステムを構築することは、しばしばいくつかのきついループでコードを改善すること、またはアルゴリズムを改善することよりもI / Oを改善することの問題です。
 
-There are two very fundamental techniques to improving I/O: caching and representation. Caching is avoiding I/O (generally avoiding the reading of some abstract value) by storing a copy of that value locally so no I/O is performed to get the value. The first key to caching is to make it crystal clear which data is the master and which are copies. There is only one master - period. Caching brings with it the danger that the copy sometimes can't reflect changes to the master instantaneously.
+I / Oを改善するには、キャッシングと表現の2つの非常に基本的なテクニックがあります。キャッシングは、その値のコピーをローカルに格納することでI / Oを回避して（一般的には何らかの抽象的な値の読み取りを避ける）、値を取得するためにI / Oは実行されません。キャッシングの第一の鍵は、どのデータがマスターであり、どのデータがコピーであるかを明確にすることです。マスター期間は1つだけです。キャッシングは、コピーが瞬時にマスターへの変更を反映できないことがあるという危険性をもたらします。
 
-Representation is the approach of making I/O cheaper by representing data more efficiently. This is often in tension with other demands, like human readability and portability.
+表現は、データをより効率的に表現することによってI / Oを安くするアプローチです。これは、人間の可読性や可搬性など、他の要求と緊張していることがよくあります。
 
-Representations can often be improved by a factor of two or three from their first implementation. Techniques for doing this include using a binary representation instead of one that is human readable, transmitting a dictionary of symbols along with the data so that long symbols don't have to be encoded, and, at the extreme, things like Huffman encoding.
+表現は、最初の実装から2?3倍に改善されることがあります。これを行うための技術には、人間が読めるものの代わりにバイナリ表現を使用すること、長いシンボルをエンコードする必要がないようにシンボルの辞書を送信すること、そして極端にハフマン符号化のようなことが含まれます。
 
-A third technique that is sometimes possible is to improve the locality of reference by pushing the computation closer to the data. For instance, if you are reading some data from a database and computing something simple from it, such as a summation, try to get the database server to do it for you. This is highly dependent on the kind of system you're working with, but you should explore it.
+時には可能な第3の技法は、計算をデータに近づけることによって参照の局所性を改善することである。たとえば、データベースからいくつかのデータを読み込み、集計などの単純なものを計算する場合は、データベースサーバーで取得してください。これはあなたが作業しているシステムの種類に大きく依存しますが、それを調べる必要があります。
 
 Next [How to Manage Memory](09-How to Manage Memory.md)

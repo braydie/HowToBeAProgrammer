@@ -1,20 +1,20 @@
 # How to Document Wisely
 [//]: # (Version:1.0.0)
-Life is too short to write crap nobody will read; if you write crap, nobody will read it. Therefore a little good documentation is best. Managers often don't understand this, because even bad documentation gives them a false sense of security that they are not dependent on their programmers. If someone absolutely insists that you write truly useless documentation, say 'yes' and quietly begin looking for a better job.
+人生は短くて誰も読まないくらいのことを書いている。あなたがたわごとを書くなら、誰もそれを読まないでしょう。したがって、少し良いドキュメントが最適です。マネージャーはこれを理解していないことがよくあります。なぜなら、誤ったドキュメンテーションであっても、彼らがプログラマーに依存していないという誤ったセキュリティ感覚を与えるからです。誰かが本当に役に立たない文書を書いていると断言している場合は、「はい」と言って静かに仕事を探し始める。
 
-There's nothing quite as effective as putting an accurate estimate of the amount of time it will take to produce good documentation into an estimate to slacken the demand for documentation. The truth is cold and hard: documentation, like testing, can take many times longer than developing code.
+ドキュメントの需要を緩和するために、適切なドキュメントを見積もりに組み込むのにかかる時間を正確に見積もることは、それほど効果的ではありません。真実は寒くて難しい：テストのようなドキュメントは、コードを開発するよりも何倍も長くかかることがあります。
 
-Writing good documentation is, first of all, good writing. I suggest you find books on writing, study them, and practice. But even if you are a lousy writer or have poor command of the language in which you must document, the Golden Rule is all you really need: 'Do unto others as you would have them do unto you.' Take time to really think about who will be reading your documentation, what they need to get out of it, and how you can teach that to them. If you do that, you will be an above average documentation writer, and a good programmer.
+良い文書を書くことは、まず第一に、良い書き方です。私はあなたが執筆、勉強、練習に関する本を見つけることをお勧めします。しかし、たとえあなたが卑劣な作家であっても、あなたが文書化しなければならない言葉の貧弱な命令を持っていても、黄金のルールは本当に必要なものです：「あなたが彼らにあなたのことをさせるように、他人に行います。誰があなたの書類を読んでいるのか、そこから抜け出す必要があるのか??、どのようにそれらを教えることができるのかを考えてください。そうするなら、あなたは平均的なドキュメンテーションライターであり、良いプログラマーになるでしょう。
 
-When it comes to actually documenting code itself, as opposed to producing documents that can actually be read by non-programmers, the best programmers I've ever known hold a universal sentiment: write self-explanatory code and only document code in the places that you cannot make it clear by writing the code itself. There are two good reasons for this. First, anyone who needs to see code-level documentation will in most cases be able to and prefer to read the code anyway. Admittedly, this seems easier to the experienced programmer than to the beginner. More importantly however, is that the code and the documentation cannot be inconsistent if there is no documentation. The source code can at worst be wrong and confusing. The documentation, if not written perfectly, can lie, and that is a thousand times worse.
+プログラマー以外の人が実際に読むことができる文書を作成するのではなく、実際にコード自体を文書化することに関しては、私が今までに知っている最高のプログラマーは普遍的な感情を持っています：自明のコードを書いて、コード自体を書くことではっきりさせることはできません。これには、2つの理由があります。まず、コードレベルのドキュメントを参照する必要がある人は、ほとんどの場合、コードを読めるようになります。確かに、これは初心者よりも経験豊富なプログラマーにとっては簡単です。しかし、さらに重要なのは、文書がなければ、コードと文書は矛盾していないということです。最悪の場合、ソースコードは間違って混乱する可能性があります。完全に書かれていなければ、その文書はうそをつくことができ、それは何千倍も悪化します。
 
-This does not make it easier on the responsible programmer. How does one write self-explanatory code? What does that even mean? It means:
+これは責任あるプログラマーにとってより簡単にはなりません。自明のコードをどのように書くのですか？それはどういう意味ですか？その意味は：
 
-- Writing code knowing that someone will have to read it;
-- Applying the golden rule;
-- Choosing a solution that is straightforward, even if you could get by with another solution faster;
-- Sacrificing small optimizations that obfuscate the code;
-- Thinking about the reader and spending some of your precious time to make it easier on her; and
-- Not ever using a function name like `foo`,`bar`, or `doIt`!
+誰かがそれを読む必要があることを知っているコードを書く。
+- ゴールデンルールを適用する。
+- 別のソリューションを迅速に利用できる場合でも、簡単なソリューションを選択する。
+- コードを難読化する小さな最適化を犠牲にする。
+- 読者のことを考えて、彼女をもっと楽にする貴重な時間を費やしてください。そして
+- `foo`、` bar`、 `doIt`のような関数名を使用することはありません！
 
 Next [How to Work with Poor Code](06-How to Work with Poor Code.md)

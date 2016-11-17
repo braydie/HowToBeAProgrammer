@@ -1,15 +1,15 @@
 # Why Estimation is Important
 [//]: # (Version:1.0.0)
-To get a working software system in active use as quickly as possible requires not only planning the development, but also planning the documentation, deployment, and marketing. In a commercial project it also requires sales and finance. Without predictability of the development time, it is impossible to plan these effectively.
+できるだけ早く現用のソフトウェアシステムを稼働させるには、開発の計画だけでなく、ドキュメンテーション、導入、マーケティングも計画する必要があります。商業プロジェクトでは、販売と財務も必要です。開発時間を予測することができない場合、これらを効果的に計画することは不可能です。
 
-Good estimation provides predictability. Managers love it, as well they should. The fact that it is impossible, both theoretically and practically, to predict accurately how long it will take to develop software is often lost on managers. We are asked to do this impossible thing all the time, and we must face up to it honestly. However, it would be dishonest not to admit the impossibility of this task, and when necessary, explain it. There is a lot of room for miscommunication about estimates, as people have a startling tendency to think wishfully that the sentence:
+良好な推定は予測可能性を提供する。マネージャーもそれを愛しています。理論的にも実際的にも、ソフトウェアの開発にどれくらいの時間がかかるかを正確に予測することは不可能であるという事実は、しばしば経営者にとって失われます。私たちはこの不可能なことをいつもするように求められており、正直にそれに直面しなければなりません。しかし、この作業の不可能性を認めないことは正直であり、必要に応じて説明してください。推定値について誤ったコミュニケーションの余地がたくさんあります。人々は願わくは文章が驚くように思える傾向があります。
 
-> I estimate that, if I really understand the problem, it is about 50% likely that we will be done in five weeks (if no one bothers us during that time).
+>私は、もし私が本当に問題を理解すれば、5週間で約50％の確率で達成することができると推測します（その間に誰も私たちを悩まさなければ）。
 
-really means:
+本当に意味する：
 
-> I promise to have it all done five weeks from now.
+>私は今から5週間後にすべてのことをやることを約束します。
 
-This common interpretation problem requires that you explicitly discuss what the estimate means with your boss or customer as if they were a simpleton. Restate your assumptions, no matter how obvious they seem to you.
+この一般的な解釈の問題では、上司や顧客と見積もりが何を意味するのかを、シンプトンのように明示的に議論する必要があります。彼らがあなたにどのように見えるかにかかわらず、あなたの前提を再考してください。
 
 Next [How to Estimate Programming Time](02-How to Estimate Programming Time.md)

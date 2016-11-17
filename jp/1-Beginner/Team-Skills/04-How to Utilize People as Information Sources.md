@@ -1,15 +1,15 @@
 # How to Utilize People as Information Sources
 [//]: # (Version:1.0.0)
-Respect every person's time and balance it against your own. Asking someone a question accomplishes far more than just receiving the answer. The person learns about you, both by enjoying your presence and hearing the particular question. You learn about the person in the same way, and you may learn the answer you seek. This is usually far more important than your question.
+すべての人の時間を尊重し、自分の時間とバランスを取ってください。誰かに質問することは、答えを受け取るだけではありません。その人はあなたの存在を楽しんで、特定の質問を聞くことによって、あなたについて学びます。その人について同じように学び、あなたが求める答えを知ることができます。これは、あなたの質問よりもはるかに重要です。
 
-However, the value of this diminishes the more you do it. You are, after all, using the most precious commodity a person has: their time. The benefits of communication must be weighed against the costs. Furthermore, the particular costs and benefits derived differ from person to person. I strongly believe that an executive of 100 people should spend five minutes a month talking to each person in her organization, which would be about 5% of their time. But ten minutes might be too much, and five minutes is too much if they have one thousand employees. The amount of time you spend talking to each person in your organization depends on their role (more than their position). You should talk to your boss more than your boss's boss, but you should talk to your boss's boss a little. It may be uncomfortable, but I believe you have a duty to talk a little bit to all your superiors, each month, no matter what.
+しかし、これの価値はあなたがそれを行うほど減少します。あなたは、結局のところ、人が持っている最も貴重な商品、すなわちその時間を使っています。コミュニケーションの利点は、コストと比較して重視する必要があります。さらに、得られる特定のコストと利点は、人によって異なります。私は、100人の幹部が毎月5分を自分の組織の各人と話す必要があると強く信じており、その時間の約5％になります。しかし、1000人の従業員がいる場合、10分が多すぎる可能性があり、5分が多すぎる可能性があります。組織内の各人と話す時間は、その役割（職位以上）によって異なります。あなたの上司に上司と話し合うべきですが、上司の上司に少し話してください。それは不快かもしれませんが、私はあなたが上司に少しずつ、毎月、何を話しても義務があると信じています。
 
-The basic rule is that everyone benefits from talking to you a little bit, and the more they talk to you, the less benefit they derive. It is your job to provide them this benefit, and to get the benefit of communicating with them, keeping the benefit in balance with the time spent.
+基本的なルールは、誰もがあなたと話すことから利益を得ることであり、彼らがあなたに話すことが多いほど、彼らが派生する利益は少ないということです。彼らにこの恩恵を提供し、彼らとのコミュニケーションの利益を得るために、あなたの仕事は、費やされた時間とのバランスで利益を保つことです。
 
-It is important to respect your own time. If talking to someone, even if it will cost them time, will save you a great deal of time, then you should do it unless you think their time is more valuable than yours, to the tribe, by that factor.
+自分の時間を尊重することが重要です。誰かと話すなら、たとえそれに時間がかかるとしても、時間を大幅に節約するでしょう。あなたの時間があなたのものよりも貴重なものだと思わない限り、それを行うべきです。
 
-A strange example of this is the summer intern. A summer intern in a highly technical position can't be expected to accomplish too much; they can be expected to pester the hell out of everybody there. So why is this tolerated? Because the pestered are receiving something important from the intern. They get a chance to show-off a little. They get a chance to hear some new ideas, maybe; they get a chance to see things from a different perspective. They may also be trying to recruit the intern, but even if this is not the case there is much to gain.
+これの奇妙な例は夏のインターンです。高度に技術的な立場の夏期インターンは、あまり成果を上げることは期待できません。彼らはそこにいる誰もが地獄に襲われることが予想されます。それでなぜこれは容認されますか？苦しんだ人は、インターンから重要な何かを受けているので。彼らは少し誇示する機会を得る。おそらく、新しいアイデアを聞くチャンスがあります。彼らは異なる視点から物事を見る機会を得る。彼らはまた、インターンを募集しようとしているかもしれませんが、そうでない場合でも、得るべきことがたくさんあります。
 
-You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say. This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it. I once asked to listen in on a few sales calls to better understand the job of our sales staff. This took no more than 30 minutes but I think that small effort made an impression on the sales force.
+あなたは、正直に言いたいことがあると信じるときはいつでも、人々に彼らの知恵と判断力のほんの少しを尋ねるべきです。これは彼らを平らげ、あなたは何かを学び、何かを教えるでしょう。良いプログラマーは、セールス担当バイスプレジデントの助言を必要としないことはよくありますが、これまでに行ったことがあれば、それを求めてください。私は営業担当者の仕事をよりよく理解するために、いくつかのセールスコールを聞いてみることを一度求めました。これは30分を要しませんでしたが、私は小規模な努力が販売員に印象を与えたと思います。
 
 Next [How to Document Wisely](05-How to Document Wisely.md)

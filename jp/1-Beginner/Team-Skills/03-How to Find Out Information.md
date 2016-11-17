@@ -1,19 +1,19 @@
 # How to Find Out Information
 [//]: # (Version:1.0.0)
-The nature of what you need to know determines how you should find it.
+‚ ‚È‚½‚ª’m‚é•K—v‚Ì‚ ‚é«¿‚ÍA‚ ‚È‚½‚ª‚»‚ê‚ğŒ©‚Â‚¯‚é•û–@‚ğŒˆ’è‚µ‚Ü‚·B
 
-If you need information *about concrete things* that are objective and easy to verify, for example the latest patch level of a software product, ask a large number of people politely by searching the internet for it or by posting on a discussion group. Don't search on the internet for anything that smacks of either opinion or subjective interpretation: the ratio of drivel to truth is too high.
+ƒ\ƒtƒgƒEƒFƒA»•i‚ÌÅV‚Ìƒpƒbƒ`ƒŒƒxƒ‹‚È‚ÇA‹qŠÏ“I‚ÅŠÈ’P‚È‹ï‘Ì“I‚È‚à‚Ì‚ÉŠÖ‚·‚éî•ñ*‚ª•K—v‚Èê‡‚ÍAƒCƒ“ƒ^[ƒlƒbƒg‚ğŒŸõ‚µ‚½‚èAƒfƒBƒXƒJƒbƒVƒ‡ƒ“ƒOƒ‹[ƒv‚É“Še‚µ‚½‚è‚µ‚ÄA‘½‚­‚Ìl‚É’š”J‚É¿–â‚µ‚Ä‚­‚¾‚³‚¢BƒCƒ“ƒ^[ƒlƒbƒgã‚ÅˆÓŒ©‚âåŠÏ“I‚È‰ğß‚Ì‚¢‚¸‚ê‚©‚ğ’@‚¢‚Ä‚¢‚é‚à‚Ì‚ÍŒŸõ‚µ‚È‚¢‚Å‚­‚¾‚³‚¢BƒhƒŠƒuƒ“‚Æ^À‚Ì”ä—¦‚ª‚‚·‚¬‚Ü‚·B
 
-If you need *general knowledge about something subjective* the history of what people have thought about it, go to the library (the physical building in which books are stored). For example, to learn about math or mushrooms or mysticism, go to the library.
+‚ ‚È‚½‚ª‰½‚©åŠÏ“I‚È‚à‚Ì‚ÉŠÖ‚·‚éˆê”Ê“I‚È’m¯*lX‚ª‚»‚ê‚É‚Â‚¢‚Äl‚¦‚Ä‚«‚½—ğj‚ğ’m‚è‚½‚¢‚È‚çA}‘ŠÙi–{‚ª•ÛŠÇ‚³‚ê‚Ä‚¢‚é•¨—“IŒš•¨j‚És‚«‚Ü‚·B‚½‚Æ‚¦‚ÎA”Šw‚â‚«‚Ì‚±‚â_”é‚É‚Â‚¢‚ÄŠw‚Ô‚É‚ÍA}‘ŠÙ‚És‚«‚Ü‚·B
 
-If you need to know *how to do something that is not trivial* get two or three books on the subject and read them. You might learn how to do something trivial, like install a software package, from the Internet. You can even learn important things, like good programming technique, but you can easily spend more time searching and sorting the results and attempting to divine the authority of the results than it would take to read the pertinent part of a solid book.
+‚ ‚È‚½‚ª’m‚Á‚Ä‚¢‚é•K—v‚ª‚ ‚é*ŠÈ’P‚È‚±‚Æ‚Å‚Í‚È‚¢‰½‚©‚ğ‚·‚é•û–@* 2‚Â‚Ü‚½‚Í3‚Â‚Ì‘Ğ‚ğæ“¾‚µA‚»‚ê‚ç‚ğ“Ç‚ñ‚Å‚­‚¾‚³‚¢B‚ ‚È‚½‚ÍAƒCƒ“ƒ^[ƒlƒbƒg‚©‚çƒ\ƒtƒgƒEƒFƒAƒpƒbƒP[ƒW‚ğƒCƒ“ƒXƒg[ƒ‹‚·‚é‚È‚ÇAŠÈ’P‚È‚±‚Æ‚ğ‚·‚é•û–@‚ğŠw‚Ô‚©‚à‚µ‚ê‚Ü‚¹‚ñB—Ç‚¢ƒvƒƒOƒ‰ƒ~ƒ“ƒOƒeƒNƒjƒbƒN‚Ì‚æ‚¤‚Èd—v‚È‚±‚Æ‚ğŠw‚Ô‚±‚Æ‚³‚¦‚Å‚«‚Ü‚·‚ªAƒ\ƒŠƒbƒhƒuƒbƒN‚Ì“KØ‚È•”•ª‚ğ“Ç‚Ş‚Ì‚É—v‚·‚é‚æ‚è‚àŒ‹‰Ê‚ÌŒŸõ‚Æ•À‚×‘Ö‚¦AŒ‹‰Ê‚ÌŒ ŒÀ‚ÌŒ@‚èo‚µ‚É‚à‚Á‚Æ‘½‚­‚ÌŠÔ‚ğ”ï‚â‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B
 
-If you need *information that no one else could be expected to know* for example, â€˜does this software that is brand new work on gigantic data sets?â€™, you must still search the internet and the library. After those options are completely exhausted, you may design an experiment to ascertain it.
+*‘¼‚É’N‚à’m‚è‚½‚­‚È‚¢î•ñ‚ª•K—v‚Èê‡*‚½‚Æ‚¦‚ÎA‚±‚Ìƒ\ƒtƒgƒEƒFƒA‚ª‹‘å‚Èƒf[ƒ^ƒZƒbƒg‚ÌV‚µ‚¢ì•i‚Å‚ ‚é‚±‚Æ‚ğ’m‚Á‚Ä‚¢‚éê‡AƒCƒ“ƒ^[ƒlƒbƒg‚Æƒ‰ƒCƒuƒ‰ƒŠ‚ğŒŸõ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B‚±‚ê‚ç‚ÌƒIƒvƒVƒ‡ƒ“‚ªŠ®‘S‚Ég‚¢s‚­‚³‚ê‚½ŒãA‚»‚ê‚ğŠm”F‚·‚é‚½‚ß‚ÉÀŒ±‚ğİŒv‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
 
-If you want an opinion or a value judgement that takes into account some unique circumstance, talk to an expert. For instance, if you want to know whether or not it is a good idea to build a modern database management system in LISP, you should talk to a LISP expert and a database expert.
+“Æ“Á‚Èó‹µ‚ğl—¶‚µ‚½ˆÓŒ©‚â‰¿’l”»’f‚ª•K—v‚Èê‡‚ÍAê–å‰Æ‚É‘Š’k‚µ‚Ä‚­‚¾‚³‚¢B‚½‚Æ‚¦‚ÎALISP‚ÉÅV‚Ìƒf[ƒ^ƒx[ƒXŠÇ—ƒVƒXƒeƒ€‚ğ\’z‚·‚é‚±‚Æ‚ª—Ç‚¢‚©‚Ç‚¤‚©‚ğ’m‚è‚½‚¢ê‡‚ÍALISP‚Ìê–å‰Æ‚Æƒf[ƒ^ƒx[ƒX‚Ìê–å‰Æ‚É‘Š’k‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
 
-If you want to know *how likely it is* that a faster algorithm for a particular application exists that has not yet been published, talk to someone working in that field.
+*‚Ü‚¾ŒöŠJ‚³‚ê‚Ä‚¢‚È‚¢“Á’è‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“—p‚Ì‚æ‚è‚‘¬‚ÈƒAƒ‹ƒSƒŠƒYƒ€‚ª‘¶İ‚·‚é‰Â”\«‚ª‚ ‚é‚±‚Æ‚ğ’m‚è‚½‚¢ê‡‚ÍA‚»‚ÌƒtƒB[ƒ‹ƒh‚Å“­‚¢‚Ä‚¢‚él‚Æ˜b‚µ‚Ü‚µ‚å‚¤B
 
-If you want to make a *personal decision that only you can make* like whether or not you should start a business, try putting into writing a list of arguments for and against the idea. If that fails, consider divination. Suppose you have studied the idea from all angles, have done all your homework, and worked out all the consequences and pros and cons in your mind, and yet still remain indecisive. You now must follow your heart and tell your brain to shut up. The multitude of available divination techniques are very useful for determining your own semi-conscious desires, as they each present a complete ambiguous and random pattern that your own subconscious will assign meaning to.
+‚ ‚È‚½‚ªƒrƒWƒlƒX‚ğn‚ß‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚©‚Ç‚¤‚©‚ğ‚ ‚È‚½‚¾‚¯‚ªl‚¦‚é‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É*ŒÂl“I‚ÈŒˆ’è‚ğ‚µ‚½‚¢‚Ì‚Å‚ ‚ê‚ÎA‚»‚ÌƒAƒCƒfƒBƒA‚É‘Î‚·‚é‹c˜_‚ÌƒŠƒXƒg‚ğ‘‚¢‚Ä‚İ‚Ä‚­‚¾‚³‚¢B‚»‚ê‚ª¸”s‚·‚ê‚ÎAè‚¢‚ğl‚¦‚Ä‚­‚¾‚³‚¢B‚·‚×‚Ä‚ÌŠp“x‚©‚çƒAƒCƒfƒA‚ğŠw‚ÑA‚ ‚È‚½‚Ìh‘è‚ğ‚·‚×‚ÄI‚¦‚ÄA‚ ‚È‚½‚ÌS‚Ì’†‚Å‚·‚×‚Ä‚ÌŒ‹‰Ê‚Æ’·Š‚Æ’ZŠ‚ğæ‚èœ‚¢‚½‚ªAˆË‘R‚Æ‚µ‚ÄB–†‚È‚Ü‚Ü‚Å‚¢‚é‚Æ‚µ‚Ü‚·B‚ ‚È‚½‚Í¡‚ ‚È‚½‚ÌS‚É]‚Á‚ÄA‚ ‚È‚½‚Ì”]‚É–Ù‚é‚æ‚¤‚ÉŒ¾‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB—˜—p‰Â”\‚Èè‚¢‚Ì‹Z–@‚Ì‘½‚­‚ÍA‚ ‚È‚½‚ÌöİˆÓ¯‚ªˆÓ–¡‚ğŠ„‚è“–‚Ä‚éŠ®‘S‚È‚ ‚¢‚Ü‚¢‚Åƒ‰ƒ“ƒ_ƒ€‚Èƒpƒ^[ƒ“‚ğ’ñ¦‚·‚é‚Ì‚ÅA©•ª‚Ì”¼ˆÓ¯“I‚È—~–]‚ğ”»’f‚·‚é‚Ì‚É”ñí‚É–ğ—§‚¿‚Ü‚·B
 
 Next [How to Utilize People as Information Sources](04-How to Utilize People as Information Sources.md)

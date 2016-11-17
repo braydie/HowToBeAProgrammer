@@ -1,9 +1,9 @@
 # How to Learn Design Skills
 [//]: # (Version:1.0.0)
-To learn how to design software, study the action of a mentor by being physically present when they are designing. Then study well-written pieces of software. After that, you can read some books on the latest design techniques.
+ソフトウェアを設計する方法を学ぶには、設計時に物理的に存在することによってメンターの行動を研究します。 次に、よく書かれたソフトウェアを調べます。 その後、最新の設計技術に関する書籍を読むことができます。
 
-Then you must do it yourself. Start with a small project. When you are finally done, consider how the design failed or succeeded and how you diverged from your original conception. Then move on to larger projects, hopefully in conjunction with other people. Design is a matter of judgement that takes years to acquire. A smart programmer can learn the basics adequately in two months and can improve from there.
+それから、あなたはそれを自分でやる必要があります。 小さなプロジェクトから始めましょう。 最終的に完了したら、デザインが失敗したか、成功したか、元の発想からどのように分岐したかを考えてください。 その後、他の人と協力して、より大きなプロジェクトに進んでください。 デザインは、獲得するまでに何年もかかる判断の問題です。 スマートなプログラマーは、2ヶ月で十分に基礎を学び、そこから改善することができます。
 
-It is natural and helpful to develop your own style, but remember that design is an art, not a science. People who write books on the subject have a vested interest in making it seem scientific. Don't become dogmatic about particular design styles.
+自分のスタイルを開発するのは自然で役立ちますが、デザインは科学ではなく芸術であることを忘れないでください。 被験者に本を書く人は、それを科学的に見せることに関心があります。 特定のデザインスタイルについて独断にはならないでください。
 
 Next [How to Conduct Experiments](12-How to Conduct Experiments.md)
