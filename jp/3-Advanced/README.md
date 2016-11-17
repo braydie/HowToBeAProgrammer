@@ -1,0 +1,22 @@
+# 3. Advanced
+[//]: # (Version:1.0.0)
+- Technological Judgment
+	- [How to Tell the Hard From the Impossible](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
+	- [How to Utilize Embedded Languages](Technical-Judgment/02-How to Utilize Embedded Languages.md)
+	- [Choosing Languages](Technical-Judgment/03-Choosing Languages.md)
+- Compromising Wisely
+	- [How to Fight Schedule Pressure](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+	- [How to Understand the User](Compromising-Wisely/02-How to Understand the User.md)
+	- [How to Get a Promotion](Compromising-Wisely/03-How to Get a Promotion.md)
+- Serving Your Team
+	- [How to Develop Talent](Serving-Your-Team/01-How to Develop Talent.md)
+	- [How to Choose What to Work On](Serving-Your-Team/02-How to Choose What to Work On.md)
+	- [How to Get the Most From Your Team-mates](Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
+	- [How to Divide Problems Up](Serving-Your-Team/04-How to Divide Problems Up.md)
+	- [How to Handle Boring Tasks](Serving-Your-Team/05-How to Handle Boring Tasks.md)
+	- [How to Gather Support for a Project](Serving-Your-Team/06-How to Gather Support for a Project.md)
+	- [How to Grow a System](Serving-Your-Team/07-How to Grow a System.md)
+	- [How to Communicate Well](Serving-Your-Team/08-How to Communicate Well.md)
+	- [How to Tell People Things They Don't Want to Hear](Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
+	- [How to Deal with Managerial Myths](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
+	- [How to Deal with Organizational Chaos](Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
