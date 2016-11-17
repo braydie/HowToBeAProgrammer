@@ -1,15 +1,15 @@
 # How to Evaluate Interviewees
 [//]: # (Version:1.0.0)
-Evaluating potential employees is not given the energy it deserves. A bad hire, like a bad marriage, is terrible. A significant portion of everyone's energy should be devoted to recruitment, though this is rarely done.
+öİ“I‚È]‹Æˆõ‚ğ•]‰¿‚·‚é‚±‚Æ‚ÍA‚»‚ê‚É‚Ó‚³‚í‚µ‚¢ƒGƒlƒ‹ƒM[‚ª—^‚¦‚ç‚ê‚Ä‚¢‚È‚¢Bˆ«‚¢Œ‹¥‚Ì‚æ‚¤‚Èˆ«‚¢ŒÙ—p‚Í‚Ğ‚Ç‚¢‚Å‚·B‚İ‚ñ‚È‚ÌƒGƒlƒ‹ƒM[‚Ì‚©‚È‚è‚Ì•”•ª‚Í•åW‚É”ï‚â‚³‚ê‚é‚×‚«‚Å‚·‚ªA‚±‚ê‚Í‚ß‚Á‚½‚És‚í‚ê‚Ü‚¹‚ñB
 
-There are different interviewing styles. Some are torturous, designed to put the candidate under a great deal of stress. This serves a very valuable purpose of possibly revealing character flaws and weaknesses under stress. Candidates are no more honest with interviewers than they are with themselves, and the human capacity for self-deception is astonishing.
+ƒCƒ“ƒ^ƒrƒ…[ƒXƒ^ƒCƒ‹‚Í‚³‚Ü‚´‚Ü‚Å‚·BŒó•âÒ‚Ì’†‚É‚Í”ñí‚ÉƒXƒgƒŒƒX‚ğŠ´‚¶‚é‚æ‚¤‚ÉİŒv‚³‚ê‚½‰–â‰Æ‚à‚¢‚Ü‚·B‚±‚ê‚ÍƒXƒgƒŒƒX‰º‚Å‚ÌƒLƒƒƒ‰ƒNƒ^[‚ÌŒ‡Š×‚âã“_‚ğ–¾‚ç‚©‚É‚·‚é”ñí‚É‹Md‚È–Ú“I‚ğ‰Ê‚½‚µ‚Ü‚·BŒó•âÒ‚Í©•ª©g‚Æ”ä‚×‚ÄƒCƒ“ƒ^ƒrƒ…ƒA[‚É‚Í³’¼‚Å‚Í‚È‚­A©ŒÈ‹\áÔ‚É‘Î‚·‚élŠÔ‚Ì”\—Í‚Í‹Á‚­‚×‚«‚à‚Ì‚Å‚·B
 
-You should, at a minimum, give the candidate the equivalent of an oral examination on the technical skills for two hours. With practice, you will be able to quickly cover what they know and quickly retract from what they don't know to mark out the boundary. Interviewees will respect this. I have several times heard interviewees say that the quality of the examination was one of their motivations for choosing a company. Good people want to be hired for their skills, not where they worked last or what school they went to or some other inessential characteristic.
+‚ ‚È‚½‚Í­‚È‚­‚Æ‚àA2ŠÔ‚Ì‹ZpƒXƒLƒ‹‚ÌŒû“ªŒ±‚É‘Š“–‚·‚é‚à‚Ì‚ğŒó•âÒ‚É—^‚¦‚é‚×‚«‚Å‚·B—ûK‚Å‚ÍA©•ª‚ª’m‚Á‚Ä‚¢‚é‚±‚Æ‚ğ‚·‚Î‚â‚­ƒJƒo[‚µA‹«ŠEü‚ğƒ}[ƒN‚·‚é‚½‚ß‚É’m‚ç‚È‚¢‚à‚Ì‚©‚ç‚·‚Î‚â‚­æ‚è–ß‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B–ÊÚÒ‚Í‚±‚ê‚ğ‘¸d‚·‚é‚Å‚µ‚å‚¤B„‚ÍAƒCƒ“ƒ^ƒrƒ…[‚ÅAŒ±‚Ì¿‚ÍŠé‹Æ‚ğ‘I‚Ô“®‹@‚Ì1‚Â‚Å‚ ‚é‚Æ”‰ñ•·‚¢‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·B‘P—Ç‚Èl‚½‚¿‚ÍA”Ş‚ç‚ªÅŒã‚É“­‚¢‚½êŠ‚â”Ş‚ç‚ªs‚Á‚½ŠwZA‚Ü‚½‚Í‘¼‚Ì•s‰ÂŒ‡‚È“Á’¥‚Å‚Í‚È‚­A”Ş‚ç‚ÌƒXƒLƒ‹‚Ì‚½‚ß‚ÉŒÙ‚í‚ê‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B
 
-In doing this, you should also evaluate their ability to learn, which is far more important than what they know. You should also watch for the whiff of brimstone that is given off by difficult people. You may be able to recognize it by comparing notes after the interview, but in the heat of the interview it is hard to recognize. How well people communicate and work with people is more important than being up on the latest programming language.
+‚±‚ê‚ğs‚¤‚É‚ ‚½‚Á‚Ä‚ÍA©•ª‚ª’m‚Á‚Ä‚¢‚é‚æ‚è‚à‚Í‚é‚©‚Éd—v‚ÈAŠwK‚·‚é”\—Í‚à•]‰¿‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B‚Ü‚½A¢“ï‚Èl‚½‚¿‚É‚æ‚Á‚Ä•¥‚í‚ê‚½—LŠQ•¨¿‚Ì—~‹‚ğŠÄ‹‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B‚ ‚È‚½‚ÍƒCƒ“ƒ^ƒrƒ…[‚ÌŒã‚Åƒm[ƒg‚ğ”äŠr‚·‚é‚±‚Æ‚É‚æ‚Á‚Ä‚»‚ê‚ğ”F¯‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªAƒCƒ“ƒ^ƒrƒ…[‚Ì”M‚Å‚»‚ê‚ğ”F¯‚·‚é‚±‚Æ‚Í¢“ï‚Å‚·BÅV‚ÌƒvƒƒOƒ‰ƒ~ƒ“ƒOŒ¾Œê‚ğã‰ñ‚é‚æ‚è‚àAlX‚ªƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ğ‚µ‚ÄlX‚Æ‚Ç‚Ì‚­‚ç‚¢‚¤‚Ü‚­‚â‚Á‚Ä‚¢‚­‚©‚ªd—v‚Å‚·B
 
-A reader has had good luck using a â€˜take-homeâ€™ test for interviewees. This has the advantage that it can uncover the interviewee that can present themselves well but can't really code - and there are many such people. I personally have not tried this technique, but it sounds sensible.
+“ÇÒ‚ÍƒCƒ“ƒ^ƒrƒ…[‘ÎÛÒ‚Ì‚½‚ß‚ÉƒeƒCƒNEƒz[ƒ€EƒeƒXƒg‚ğg‚Á‚ÄK‰^‚ğ‹F‚Á‚Ä‚¢‚Ü‚·B‚±‚ê‚ÍA©•ª©g‚ğ‚¤‚Ü‚­’ñ¦‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·‚ªAÀÛ‚É‚ÍƒR[ƒh‰»‚·‚é‚±‚Æ‚ª‚Å‚«‚È‚¢ƒCƒ“ƒ^ƒrƒ…ƒC[‚ğ–¾‚ç‚©‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚Æ‚¢‚¤—˜“_‚ª‚ ‚è‚Ü‚·B„‚ÍŒÂl“I‚É‚Í‚±‚ÌƒeƒNƒjƒbƒN‚ğ‚µ‚Ä‚¢‚Ü‚¹‚ñ‚ªA‚»‚ê‚ÍŒ«–¾‚È‚æ‚¤‚Å‚·B
 
-Finally, interviewing is also a process of selling. You should be selling your company or project to the candidate. However, you are talking to a programmer, so don't try to colour the truth. Start off with the bad stuff, then finish strong with the good stuff.
+ÅŒã‚ÉAƒCƒ“ƒ^ƒrƒ…[‚Í”Ì”„‚ÌƒvƒƒZƒX‚Å‚à‚ ‚è‚Ü‚·BŒó•âÒ‚É‚ ‚È‚½‚Ì‰ïĞ‚âƒvƒƒWƒFƒNƒg‚ğ”„‚Á‚Ä‚¢‚é‚Í‚¸‚Å‚·B‚µ‚©‚µA‚ ‚È‚½‚ÍƒvƒƒOƒ‰ƒ}‚Æ˜b‚µ‚Ä‚¢‚é‚Ì‚ÅA^À‚ğF‚Ã‚¯‚µ‚æ‚¤‚Æ‚µ‚È‚¢‚Å‚­‚¾‚³‚¢Bˆ«‚¢‚à‚Ì‚©‚çn‚ß‚ÄAŸ‚É—Ç‚¢‚à‚Ì‚Å‹­‚­dã‚°‚Ä‚­‚¾‚³‚¢B
 
 Next [How to Know When to Apply Fancy Computer Science](07-How to Know When to Apply Fancy Computer Science.md)

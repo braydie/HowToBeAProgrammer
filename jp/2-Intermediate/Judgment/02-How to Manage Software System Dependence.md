@@ -1,13 +1,13 @@
 # How to Manage Software System Dependence
 [//]: # (Version:1.0.0)
-Modern software systems tend to depend on a large number of components that may not be directly under your control. This increases productivity through synergy and reuse. However, each component brings with it some problems:
+現代のソフトウェアシステムは、あなたのコントロール下に直接存在しないかもしれない多くのコンポーネントに依存する傾向があります。これにより、シナジーと再利用により生産性が向上します。しかし、各コンポーネントにはいくつかの問題があります。
 
-- How will you fix bugs in the component?
-- Does the component restrict you to particular hardware or software systems?
-- What will you do if the component fails completely?
+- コンポーネントのバグをどのように修正しますか？
+- コンポーネントが特定のハードウェアまたはソフトウェアシステムに制限していますか？
+- コンポーネントが完全に失敗したらどうしますか？
 
-It is always best to encapsulate the component in some way so that it is isolated and so that it can be swapped out. If the component proves to be completely unworkable, you may be able to get a different one, but you may have to write your own. Encapsulation is not portability, but it makes porting easier, which is almost as good.
+コンポーネントが何らかの方法でカプセル化され、コンポーネントが分離され、スワップアウトできるようにすることが常にベストです。コンポーネントが完全に機能しないと判明した場合は、別のコンポーネントを手に入れることができますが、独自のコンポーネントを作成する必要があります。カプセル化は移植性ではありませんが、移植が容易になりますが、これはほぼ同じです。
 
-Having the source code for a component decreases the risk by a factor of four. With source code, you can evaluate it easier, debug it easier, find workarounds easier, and make fixes easier. If you make fixes, you should give them to the owner of the component and get the fixes incorporated into an official release; otherwise you will uncomfortably have to maintain an unofficial version.
+コンポーネントのソースコードを持つことは、リスクを4倍に減少させます。ソースコードを使用すると、より簡単に評価し、簡単にデバッグし、回避策を見つけやすくなり、修正を簡単に行うことができます。修正プログラムを作成する場合は、コンポーネントの所有者に修正プログラムを渡し、修正プログラムを公式リリースに組み込む必要があります。それ以外の場合は、非公式のバージョンを維持する必要があります。
 
 Next [How to Decide if Software is Too Immature](03-How to Decide if Software is Too Immature.md)

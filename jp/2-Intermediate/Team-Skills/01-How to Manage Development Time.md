@@ -1,11 +1,11 @@
 # How to Manage Development Time
 [//]: # (Version:1.0.0)
-To manage development time, maintain a concise and up-to-date project plan. A project plan is an estimate, a schedule, a set of milestones for marking progress, and an assignment of your team or your own time to each task on the estimate. It should also include other things you have to remember to do, such as meeting with the quality assurance people, preparing documentation, or ordering equipment. If you are on a team, the project plan should be a consensual agreement, both at the start and as you go.
+開発時間を管理するために、簡潔で最新のプロジェクト計画を維持する。プロジェクト計画とは、見積もり、スケジュール、進行状況を示すマイルストーン、見積りの各タスクへの自分のチームまたは自分の時間の割り当てです。品質保証担当者との面談、ドキュメンテーションの準備、機器の注文など、忘れてはならないこともあります。チームに参加している場合、プロジェクトの計画は、開始時と終了時の両方で合意した合意でなければなりません。
 
-The project plan exists to help make decisions, not to show how organized you are. If the project plan is either too long or not up-to-date, it will be useless for making decisions. In reality, these decisions are about individual persons. The plan and your judgement let you decide if you should shift tasks from one person to another. The milestones mark your progress. If you use a fancy project planning tool, do not be seduced into creating a Big Design Up Front (BDUF) for the project, but use it to maintain concision and up-to-dateness.
+プロジェクト計画は、あなたがどのように組織化されているかを示すのではなく、意思決定を支援するために存在します。プロジェクト計画が長すぎるか最新でない場合、意思決定には役に立たないでしょう。実際には、これらの決定は個人に関するものです。計画とあなたの判断は、仕事をある人から別の人に移すべきかどうかを決定させます。マイルストーンはあなたの進歩を示します。ファンシーなプロジェクト計画ツールを使用している場合は、プロジェクトのBig Design Up Front（BDUF）を作成するのに惑わされるのではなく、それを使用して簡潔で最新の状態を維持します。
 
-If you miss a milestone, you should take immediate action such as informing your boss that the scheduled completion of that project has slipped by that amount. The estimate and schedule could never have been perfect to begin with; this creates the illusion that you might be able to make up the days you missed in the latter part of the project. You might. But it is just as likely that you have underestimated that part as that you have overestimated it. Therefore the scheduled completion of the project has already slipped, whether you like it or not.
+マイルストーンが欠けている場合は、上司にそのプロジェクトの予定完了がその金額だけ紛失したことを知らせるなど、すぐに行動する必要があります。見積もりとスケジュールは、決して完璧なものではなかったかもしれません。これは、あなたがプロジェクトの後半で欠席した日を補うことができるという錯覚を作り出します。そうかもしれない。しかし、あなたがそれを過大評価しているということをあなたが過小評価している可能性もあります。したがって、あなたが好きか否かにかかわらず、計画されたプロジェクトの完了はすでにスリップしています。
 
-Make sure your plan includes time for: internal team meetings, demos, documentation, scheduled periodic activities, integration testing, dealing with outsiders, sickness, vacations, maintenance of existing products, and maintenance of the development environment. The project plan can serve as a way to give outsiders or your boss a view into what you or your team is doing. For this reason it should be short and up-to-date.
+内部チームミーティング、デモ、文書化、予定された定期的な活動、統合テスト、外部者との対処、病気、休暇、既存製品のメンテナンス、開発環境のメンテナンスなど、計画に時間が含まれていることを確認してください。プロジェクト計画は、あなたやあなたのチームがやっていることを外部者や上司に見せる方法として役立ちます。このため、短期間で最新のものにする必要があります。
 
 Next [How to Manage Third-Party Software Risks](02-How to Manage Third-Party Software Risks.md)

@@ -1,11 +1,11 @@
 # How to Manage Third-Party Software Risks
 [//]: # (Version:1.0.0)
-A project often depends on software produced by organizations that it does not control. There are great risks associated with third party software that must be recognized by everyone involved.
+プロジェクトはしばしば、管理していない組織によって作成されたソフトウェアに依存します。関係するすべての人が認識しなければならない第三者のソフトウェアには大きなリスクがあります。
 
-Never, ever, rest any hopes on *vapour*. Vapour is any alleged software that has been promised but is not yet available. This is the surest way to go out of business. It is unwise to be merely sceptical of a software company's promise to release a certain product with a certain feature at a certain date; it is far wiser to ignore it completely and forget you ever heard it. Never let it be written down in any documents used by your company.
+決して、蒸気にどんな希望もしてはいけません。 Vaporは、約束されているがまだ利用可能ではないと主張されているソフトウェアのことです。これは最悪の方法です。特定の機能を備えた特定の製品を特定の日付にリリースするというソフトウェア企業の約束を単に懐疑的にするのは賢明ではない。それを完全に無視し、あなたがそれを聞いたことを忘れることはずっと賢明です。あなたの会社が使用している書類に書き留めてはいけません。
 
-If third-party software is not vapour, it is still risky, but at least it is a risk that can be tackled. If you are considering using third-party software, you should devote energy early on to evaluating it. People might not like to hear that it will take two weeks or two months to evaluate each of three products for suitability, but it has to be done as early as possible. The cost of integrating cannot be accurately estimated without a proper evaluation.
+サードパーティのソフトウェアが枯渇していない場合でも、それはまだ危険ですが、少なくともそれは取り組むことができるリスクです。サードパーティのソフトウェアを使用することを検討している場合は、早期に評価して評価する必要があります。人々は、3つの製品のそれぞれについて適切性を評価するのに2週間か2か月かかると聞いていないかもしれませんが、可能な限り早く行う必要があります。適切な評価なしに、統合のコストを正確に推定することはできません。
 
-Understanding the suitability of existing third party software for a particular purpose is very tribal knowledge. It is very subjective and generally resides in experts. You can save a lot of time if you can find those experts. Often times a project will depend on a third-party software system so completely that if the integration fails the project will fail. Express risks like that clearly in writing in the schedule. Try to have a contingency plan, such as another system that can be used or the ability to write the functionality yourself if the risk can't be removed early. Never let a schedule depend on vapour.
+特定の目的のための既存のサードパーティソフトウェアの適合性を理解することは、非常に部族的な知識です。それは非常に主観的で、一般に専門家に居住しています。それらの専門家を見つけることができれば、多くの時間を節約できます。多くの場合、プロジェクトはサードパーティのソフトウェアシステムに依存するため、統合が失敗するとプロジェクトは失敗します。そのようなリスクをスケジュールで書面で明確に表現してください。リスクを早期に除去できない場合は、使用可能な別のシステムや機能を自分で作成するなど、緊急時対応計画を立ててください。スケジュールは蒸気に依存しないようにしてください。
 
 Next [How to Manage Consultants](03-How to Manage Consultants.md)

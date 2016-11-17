@@ -1,11 +1,11 @@
 # Communication Languages
 [//]: # (Version:1.0.0)
-There are some languages, that is, formally defined syntactic systems, that are not programming languages but *communication languages* - they are designed specifically to facilitate communication through standardization. In 2003 the most important of these are UML, XML, and SQL. You should have some familiarity with all of these so that you can communicate well and decide when to use them.
+プログラミング言語ではなく、通信言語*である形式的に定義された構文システムのいくつかの言語があります。これらは、標準化を通じたコミュニケーションを容易にするように特別に設計されています。 2003年には、これらの中で最も重要なのがUML、XML、SQLです。あなたはよくコミュニケーションし、いつ使うべきかを決めるために、これらすべてに精通している必要があります。
 
-UML is a rich formal system for making drawings that describe designs. Its beauty lies in that it is both visual and formal, capable of conveying a great deal of information if both the author and the audience know UML. You need to know about it because designs are sometimes communicated in it. There are very helpful tools for making UML drawings that look very professional. In a lot of cases UML is too formal, and I find myself using a simpler *boxes and arrows* style for design drawings. But I'm fairly sure UML is at least as good for you as studying Latin.
+UMLは、設計を記述する図面を作成するための豊かな正式なシステムです。その美しさは、それがビジュアルでもフォーマルでもあり、作者と読者の両方がUMLを知っていれば、大量の情報を伝えることができます。あなたはそれについて知る必要があります。なぜなら、その中でデザインが伝えられることがあるからです。非常に専門的に見えるUML図面を作成するための非常に有用なツールがあります。多くの場合、UMLは正式なものであり、設計図面にはより単純な*ボックスと矢印*スタイルを使用しています。しかし、私は、UMLが少なくともラテン語を勉強するのにぴったりであると確信しています。
 
-XML is a standard for defining new standards. It is not a solution to data interchange problems, though you sometimes see it presented as if it was. Rather, it is a welcome automation of the most boring part of data interchange, namely, structuring the representation into a linear sequence and parsing back into a structure. It provides some nice type- and correctness-checking, though again only a fraction of what you are likely to need in practice.
+XMLは新しい標準を定義するための標準です。データ交換の問題の解決策ではありませんが、まるでそれが存在するかのように表示されることがあります。むしろ、データ交換の最も退屈な部分の自動化、すなわち表現を線形シーケンスに構造化し、構造に構文解析することを歓迎する自動化です。実際に必要と思われるもののほんの一部であるにもかかわらず、いくつかのタイプチェックと正しさチェックがあります。
 
-SQL is a very powerful and rich data query and manipulation language that is not quite a programming language. It has many variations, typically quite product-dependent, which are less important than the standardized core. SQL is the *lingua franca* of relational databases. You may or may not work in any field that can benefit from an understanding of relational databases, but you should have a basic understanding of them and the syntax and meaning of SQL.
+SQLは、プログラミング言語ではない非常に強力で豊富なデータクエリおよび操作言語です。標準化されたコアよりも重要ではない、多くのバリエーション（通常は製品依存）があります。 SQLは、リレーショナルデータベースの* lingua franca *です。リレーショナル・データベースの理解の恩恵を受ける可能性のある分野で作業する場合もあれば、作業しない場合もありますが、SQLの構文と意味については基本的に理解しておく必要があります。
 
 Next [Heavy Tools](10-Heavy Tools.md)

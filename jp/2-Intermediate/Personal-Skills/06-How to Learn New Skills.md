@@ -1,13 +1,13 @@
 # How to Learn New Skills
 [//]: # (Version:1.0.0)
-Learning new skills, especially non-technical ones, is the greatest fun of all. Most companies would have better morale if they understood how much this motivates programmers.
+新しいスキル、特に非技術スキルを学ぶことは、すべての人の最大の楽しみです。ほとんどの企業は、これがプログラマーのモチベーションをどのくらい理解するかによって、より良い士気を得ることができます。
 
-Humans learn by doing. Book-reading and class-taking are useful. But could you have any respect for a programmer who had never written a program? To learn any skill, you have to put yourself in a forgiving position where you can exercise that skill. When learning a new programming language, try to do a small project in it before you have to do a large project. When learning to manage a software project, try to manage a small one first.
+人間はやって学ぶ。ブックリーディングとクラス授業は便利です。しかし、あなたはプログラムを書いたことのないプログラマーを尊敬することができますか？スキルを学ぶためには、そのスキルを発揮できる寛容な位置に自分自身を置かなければなりません。新しいプログラミング言語を学ぶときは、大きなプロジェクトを行う前に小さなプロジェクトを実行してみてください。ソフトウェアプロジェクトを管理する方法を学ぶときは、まず小さなものを管理してください。
 
-A good mentor is no replacement for doing things yourself, but is a lot better than a book. What can you offer a potential mentor in exchange for their knowledge? At a minimum, you should offer to study hard so their time won't be wasted.
+良い指導者は、自分でやることに代わるものではありませんが、本よりはるかに優れています。彼らの知識と引き換えに、潜在的なメンターをあなたに提供することはできますか？最低でも、勉強して時間を無駄にしないように奨励するべきです。
 
-Try to get your boss to let you have formal training, but understand that it is often not much better than the same amount of time spent simply playing with the new skill you want to learn. It is, however, easier to ask for training than playtime in our imperfect world, even though a lot of formal training is just sleeping through lectures waiting for the dinner party.
+あなたの上司に正式な訓練をさせてもらうようにしてください。しかし、あなたが学びたい新しいスキルで遊んでいるのと同じくらい多くの時間はそれほど良くないと理解しています。しかし、不完全な世界では、演劇よりもトレーニングを求めるのが簡単です。正式なトレーニングの多くは、夕食会を待っている講義を通して寝ているだけです。
 
-If you lead people, understand how they learn and assist them by assigning them projects that are the right size and that exercise skills they are interested in. Don't forget that the most important skills for a programmer are not the technical ones. Give your people a chance to play and practice courage, honesty, and communication.
+あなたが人を導く場合、彼らが興味を持っている適切な規模のプロジェクトを割り当てることによって、彼らがどのように学び、援助するかを理解する。プログラマーにとって最も重要なスキルは技術的なものではないことを忘れないでください。あなたの人々に、勇気、正直さ、コミュニケーションをして練習する機会を与えましょう。
 
 Next [Learn to Type](07-Learn to Type.md)

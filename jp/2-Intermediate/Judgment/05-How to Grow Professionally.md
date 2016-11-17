@@ -1,11 +1,11 @@
 # How to Grow Professionally
 [//]: # (Version:1.0.0)
-Assume responsibility in excess of your authority. Play the role that you desire. Express appreciation for people's contribution to the success of the larger organization, as well as things as that help you personally.
+あなたの権限を超えた責任を負います。 あなたが望む役割を果たしてください。 大規模な組織の成功への人々の貢献、そしてあなたが個人的に役立つものへの感謝を表明してください。
 
-If you want to become a team leader, instigate the formation of consensus. If you want to become a manager, take responsibility for the schedule. You can usually do this comfortably while working with a leader or a manager, since this frees them up to take greater responsibility. If that is too much to try, do it a little at a time.
+あなたがチームリーダーになりたいなら、コンセンサスの形成を促す。 マネージャーになりたい場合は、スケジュールを担当してください。 リーダーやマネージャーと一緒に仕事をしている間は、通常これを快適に行うことができます。これにより、リーダーやマネージャーがより大きな責任を負うことになります。 それが試しすぎるなら、一度に少ししてください。
 
-Evaluate yourself. If you want to become a better programmer, ask someone you admire how you can become like them. You can also ask your boss, who will know less but have a greater impact on your career.
+あなた自身を評価してください。 あなたがより良いプログラマになりたいなら、あなたがどのようにそれらのようになることができるか賞賛する人に尋ねなさい。 上司に聞くこともできます。上司には知っていますが、あなたのキャリアに大きな影響を与えます。
 
-Plan ways to learn new skills, both the trivial technical kind, like learning a new software system, and the hard social kind, like writing well, by integrating them into your work.
+新しいソフトウェアシステムを学ぶことのような、些細な技術的なものでも、あなたの仕事にそれらを統合することによって、うまく書くようなハードな社会的なものでも、新しいスキルを学ぶ方法を計画する。
 
 Next [How to Evaluate Interviewees](06-How to Evaluate Interviewees.md)

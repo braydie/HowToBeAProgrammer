@@ -1,13 +1,13 @@
 # How to Tradeoff Quality Against Development Time
 [//]: # (Version:1.0.0)
-Software development is always a compromise between what the project does and getting the project done. But you may be asked to tradeoff quality to speed the deployment of a project in a way that offends your engineering or business sensibilities. For example, you may be asked to do something that is a poor software engineering practice and that will lead to a lot of maintenance problems.
+ソフトウェア開発は、プロジェクトが行うこととプロジェクトを完了させることの間で常に妥協です。しかし、エンジニアリングやビジネスの感性を傷つけるような方法でプロジェクトの展開をスピードアップするために、品質をトレードオフするように求められることがあります。たとえば、ソフトウェアエンジニアリングの慣行が貧弱で、メンテナンスの問題が多く発生するような作業をするように求められる場合があります。
 
-If this happens your first responsibility is to inform your team and to clearly explain the cost of the decrease in quality. After all, your understanding of it should be much better than your boss's understanding. Make it clear what is being lost and what is being gained, and at what cost the lost ground will be regained in the next cycle. In this, the visibility provided by a good project plan should be helpful. If the quality tradeoff affects the quality assurance effort, point that out (both to your boss and quality assurance people). If the quality tradeoff will lead to more bugs being reported after the quality assurance period, point that out.
+これが起きた場合は、まずチームに知らせ、品質低下のコストを明確に説明することです。結局のところ、あなたの理解はあなたの上司の理解よりはるかに良いはずです。何が失われているのか、何が得られているのかを明確にし、次のサイクルで失われた地面をどのようなコストで取り戻すのでしょうか。この中で、良いプロジェクト計画が提供する可視性が役立つはずです。品質のトレードオフが品質保証の努力に影響を及ぼす場合は、それを指摘してください（上司と品質保証担当者の両方に）。品質のトレードオフが品質保証期間後に報告されるバグを増やす場合は、それを指摘してください。
 
-If she still insists, you should try to isolate the shoddiness into particular components that you can plan to rewrite or improve in the next cycle. Explain this to your team so that they can plan for it.
+彼女がまだ主張しているなら、次のサイクルで書き直しや改善を計画することができる特定のコンポーネントに不自由さを分離しようとするべきです。これをあなたのチームに説明し、計画を立てることができます。
 
-NinjaProgrammer at Slashdot sent in this gem:
+SlashdotのNinjaProgrammerがこの宝石を送った：
 
-> Remember that a good design will be resilient against poor code implementations. If good interfaces and abstractions exist throughout the code, then the eventual rewrites will be far more painless. If it is hard to write clear code that is hard to fix, consider what is wrong with the core design that is causing this.
+>優れた設計は、貧弱なコード実装に対して回復することを忘れないでください。コード全体で良好なインタフェースと抽象概念が存在する場合、最終的な書き換えははるかに無痛になります。修正が難しい明確なコードを書くのが難しい場合は、これを引き起こしているコアデザインに何が問題なのかを検討してください。
 
 Next [How to Manage Software Dependence](02-How to Manage Software System Dependence.md)

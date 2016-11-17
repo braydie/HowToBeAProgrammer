@@ -1,15 +1,15 @@
 # How to Know When to Apply Fancy Computer Science
 [//]: # (Version:1.0.0)
-There is a body of knowledge about algorithms, data structures, mathematics, and other gee-whiz stuff that most programmers know about but rarely use. In practice, this wonderful stuff is too complicated and generally unnecessary. There is no point in improving an algorithm when most of your time is spent making inefficient database calls, for instance. An unfortunate amount of programming consists of getting systems to talk to each other and using very simple data structures to build a nice user interface.
+アルゴリズム、データ構造、数学、その他のほとんどのプログラマが知っていることはほとんどありませんが、あまり使われていないことについての知識があります。実際には、この素晴らしいものはあまりにも複雑で一般的には不要です。ほとんどの時間が非効率的なデータベース呼び出しを行うのに費やされたときには、アルゴリズムの改善には何の意味もありません。プログラミングの不幸な量は、システムがお互いに話をしたり、非常に単純なデータ構造を使ってすばらしいユーザーインターフェイスを構築することから成ります。
 
-When is high technology the appropriate technology? When should you crack a book to get something other than a run-of-the-mill algorithm? It is sometimes useful to do this but it should be evaluated carefully.
+高度な技術はいつ適切な技術ですか？あなたは、本物のアルゴリズム以外の何かを得るためにいつ本を解読すべきですか？これを行うのが便利なこともありますが、慎重に評価する必要があります。
 
-The three most important considerations for the potential computer science technique are:
+潜在的なコンピュータサイエンス技術の3つの最も重要な考慮事項は次のとおりです。
 
-- Is it well encapsulated so that the risk to other systems is low and the overall increase in complexity and maintenance cost is low?
-- Is the benefit startling (for example, a factor of two in a mature system or a factor of ten in a new system)?
-- Will you be able to test and evaluate it effectively?
+- 他のシステムに対するリスクが低く、複雑さと保守コストの全体的な増加が少ないように、十分にカプセル化されていますか？
+- 利益は驚異的です（例えば、成熟したシステムでは2倍、新しいシステムでは10倍）。
+- それを効果的にテストし評価することができますか？
 
-If a well-isolated algorithm that uses a slightly fancy algorithm can decrease hardware cost or increase performance by a factor of two across an entire system, then it would be criminal not to consider it. One of the keys to arguing for such an approach is to show that the risk is really quite low, since the proposed technology has probably been well studied, the only issue is the risk of integration. Here a programmer's experience and judgement can truly synergize with the fancy technology to make integration easy.
+わずかに複雑なアルゴリズムを使用する孤立したアルゴリズムでは、システム全体でハードウェアのコストを削減したり、パフォーマンスを2倍に高めることができれば、犯罪者はそれを考慮しないことになります。そのようなアプローチを主張する鍵の1つは、提案された技術がおそらく十分に研究されているので、リスクが実際にはかなり低いことを示すことです。唯一の問題は統合のリスクです。ここでプログラマの経験と判断は、統合を容易にするための派手な技術と相乗効果があります。
 
 Next [How to Talk to Non-Engineers](08-How to Talk to Non-Engineers.md)

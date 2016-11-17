@@ -1,14 +1,14 @@
 # Heavy Tools
  [//]: # (Version:1.0.0)
-As our technological culture progresses, software technology moves from inconceivable, to research, to new products, to standardized products, to widely available and inexpensive products. These heavy tools can pull great loads, but can be intimidating and require a large investment in understanding. The intermediate programmer has to know how to manage them and when they should be used or considered.
+私たちの技術文化が進むにつれて、ソフトウェア技術は、想像もできないものから、研究、新製品、標準化された製品、広く普及した安価な製品に移行しています。 これらの重い工具は大きな負荷をかけることがありますが、威圧することがあり、理解に大きな投資を必要とします。 中間プログラマーは、それらを管理する方法と、それらをいつ使用すべきか、または考慮すべきかを知る必要があります。
 
-To my mind right now some of the best heavy tools are:
+今私の心には、最も重いツールのいくつかがあります：
 
-- Relational Databases,
-- Full-text Search Engines,
-- Math libraries,
-- OpenGL,
-- XML parsers, and
-- Spreadsheets.
+- リレーショナルデータベース、
+- 全文検索エンジン、
+- 数学ライブラリー、
+- OpenGL、
+- XMLパーサー、
+- スプレッドシート。
 
 Next [How to analyze data](11-How to analyze data.md)

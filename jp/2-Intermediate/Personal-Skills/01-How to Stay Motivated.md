@@ -1,15 +1,15 @@
 # How to Stay Motivated
 [//]: # (Version:1.0.0)
-It is a wonderful and surprising fact that programmers are highly motivated by the desire to create artifacts that are beautiful, useful, or nifty. This desire is not unique to programmers nor universal but it is so strong and common among programmers that it separates them from others in other roles.
+プログラマーが、美しく、有益な、または気の利いた人工物を作成したいという欲求によって高い意欲を持っていることは、素晴らしい、驚くべき事実です。この要望は、プログラマーにとってもユニバーサルでもなく、プログラマー間で非常に強く共通しているため、他の役割のメンバーとは分かれています。
 
-This has practical and important consequences. If programmers are asked to do something that is not beautiful, useful, or nifty, they will have low morale. There's a lot of money to be made doing ugly, stupid, and boring stuff; but in the end, fun will make the most money for the company.
+これには実用的かつ重要な結果があります。プログラマーが、美しくない、有益な、または気の利いたものでないことをするよう求められた場合、彼らは低い士気を持つでしょう。醜い、愚かな、退屈なものをやって作るためにたくさんのお金があります。しかし、結局のところ、楽しみは会社のために最もお金を稼ぐでしょう。
 
-Obviously, there are entire industries organized around motivational techniques some of which apply here. The things that are specific to programming that I can identify are:
+明らかに、ここにはいくつかの動機づけ技術が組み込まれた業界全体があります。私が特定できるプログラミング特有の事柄は次のとおりです：
 
-- Use the best language for the job.
-- Look for opportunities to apply new techniques, languages, and technologies.
-- Try to either learn or teach something, however small, in each project.
+- 仕事に最適な言語を使用してください。
+- 新しい技術、言語、技術を適用する機会を探します。
+- それぞれのプロジェクトで、小さいものの、何かを学び、教えるようにしてください。
 
-Finally, if possible, measure the impact of your work in terms of something that will be personally motivating. For example, when fixing bugs, counting the number of bugs that I have fixed is not at all motivational to me, because it is independent of the number that may still exist, and it also affects the total value I'm adding to my company's customers in only the smallest possible way. Relating each bug to a happy customer, however, *is* personally motivating to me.
+最後に、可能であれば、自分の仕事の影響を、個人的に動機付けられるものとして測定します。たとえば、バグを修正するとき、私が修正したバグの数をカウントすることは、それがまだ存在するかもしれない数とは無関係であり、私の会社可能な限り小さな方法でお客様に提供します。しかし、それぞれのバグを幸せな顧客に結び付けることは、私の個人的な動機です。
 
 Next [How to be Widely Trusted](02-How to be Widely Trusted.md)

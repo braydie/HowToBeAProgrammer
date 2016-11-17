@@ -1,7 +1,7 @@
 # How to Do Integration Testing
 [//]: # (Version:1.0.0)
-Integration testing is the testing of the integration of various components that have been unit tested. Integration is expensive and it comes out in the testing. You must include time for this in your estimates and your schedule.
+統合テストは、単体テストされたさまざまなコンポーネントの統合テストです。 統合は高価であり、テストで出てくる。 あなたの見積もりとあなたのスケジュールにこれの時間を含める必要があります。
 
-Ideally you should organize a project so that there is not a phase at the end where integration must explicitly take place. It is far better to gradually integrate things as they are completed over the course of the project. If it is unavoidable estimate it carefully.
+理想的には、統合を明示的に行う必要があるフェーズが最終段階にないようにプロジェクトを編成するのが理想的です。 プロジェクトの過程で完成したものを段階的に統合する方がはるかに優れています。 やむを得ない場合は注意深く見積もってください。
 
 Next [Communication Languages](09-Communication Languages.md)

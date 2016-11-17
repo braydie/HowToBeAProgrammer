@@ -1,7 +1,7 @@
 # How to be Widely Trusted
 [//]: # (Version:1.0.0)
-To be trusted you must be trustworthy. You must also be visible. If no one knows about you, no trust will be invested in you. With those close to you, such as your teammates, this should not be an issue. You establish trust by being responsive and informative to those outside your department or team. Occasionally someone will abuse this trust, and ask for unreasonable favours. Don't be afraid of this, just explain what you would have to give up doing to perform the favour.
+あなたが信頼されるためには、信頼できるものでなければなりません。 あなたも見える必要があります。 誰もあなたについて知っていなければ、あなたには信頼は投資されません。 あなたのチームメイトのような、あなたに近い人たちと、これは問題ではありません。 あなたは、あなたの部署やチーム外の人に敏感で有益であることによって信頼を確立します。 時々、誰かがこの信用を乱用し、不当な恩恵を求めることがあります。 これを恐れてはいけません。好意を遂行するためにあなたがしなければならないことを説明してください。
 
-Don't pretend to know something that you don't. With people that are not teammates, you may have to make a clear distinction between 'not knowing right off the top of my head' and 'not being able to figure it out, ever.'
+あなたがしないことを知っているふりをしないでください。 チームメートではない人たちには、「私の頭の上から右に分からない」と「それを決めることができない」との明確な区別をしなければならないかもしれません。
 
 Next [How to Tradeoff Time vs. Space](03-How to Tradeoff Time vs Space.md)
