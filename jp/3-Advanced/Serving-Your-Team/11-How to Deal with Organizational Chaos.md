@@ -1,11 +1,11 @@
 # How to Deal with Organizational Chaos
 
-There are often brief periods of great organizational chaos, such as lay-offs, buyouts, ipos, firings, new hirings, and so on. These are unsettling to everyone, but perhaps a little less unsettling to the programmer whose personal self-esteem is founded in capacity rather than in position. Organizational chaos is a great opportunity for programmers to exercise their magic power. I've saved this for last because it is a deep tribal secret. If you are not a programmer, please stop reading now.
+レイオフ、バイアウト、ipos、発火、新しい採用などのような、組織的混乱の短い期間がしばしばあります。これらは皆にとって不安ですが、個人的な自尊心が立証されているのではなく、能力で設立されたプログラマーにとってはおそらく少し不安です。組織の混乱は、プログラマにとって魔法の力を発揮する絶好の機会です。それは深い部族の秘密であるため、これを最後に保存しました。あなたがプログラマーでなければ、今読んでおいてください。
 
-> Engineers have the power to create and sustain.
+>エンジニアは創造力と持続力を持っています。
 
-Non-engineers can order people around but, in a typical software company, can create and sustain nothing without engineers, just as engineers typically cannot sell a product or manage a business effectively. This power is proof against almost all of the problems associated with temporary organizational mayhem. When you have it you should ignore the chaos completely and carry on as if nothing is happening. You may, of course, get fired, but if that happens you can probably get a new job because of the magic power. More commonly, some stressed-out person who does not have the magic power will come into your cube and tell you to do something stupid. If you are really sure that it is stupid, it is best to smile and nod until they go away and then carry on doing what you know is best for the company.
+ノンエンジニアは一般のソフトウェア会社では、エンジニアが一般的に製品を販売したり、ビジネスを効果的に管理することができないため、エンジニアなしで何も作成して維持することはできません。この能力は、一時的な組織騒乱に関連するほとんどすべての問題に対して立証するものです。あなたがそれを持っているとき、混乱を完全に無視して、何も起こっていないかのように続けるべきです。あなたはもちろん、解雇されるかもしれませんが、もし起これば、おそらく魔力のために新しい仕事を得ることができます。より一般的には、魔法の力を持っていないストレスの多い人があなたの立方体に入って、あなたに何かばかげたことを言うようになります。あなたが本当にそれが馬鹿だと確信しているならば、彼らが去るまで微笑んで頷くのが一番です。
 
-If you are a leader, tell your people to do the same thing and tell them to ignore what anybody else tells them. This course of action is the best for you personally, and is the best for your company or project.
+あなたがリーダーであれば、同じことを他の人が話すことを無視するように人々に伝えます。この行動措置は、個人的には最高のものであり、あなたの会社やプロジェクトに最適です。
 
 Next [Glossary](../../GLOSSARY.md)

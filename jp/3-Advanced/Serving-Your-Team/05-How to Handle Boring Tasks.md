@@ -1,7 +1,7 @@
 # How to Handle Boring Tasks
 
-Sometimes it is not possible to avoid boring tasks that are critical to the success of the company or the project. These tasks can really hurt the morale of those that have to do them. The best technique for dealing with this is to invoke or promote Larry Wall's programmer's virtue of Laziness. Try to find some way to get the computer to do the task for you or to help your team-mates do this. Working for a week on a program to do a task that will take a week to do by hand has the great advantage of being more educational and sometimes more repeatable.
+時には、会社やプロジェクトの成功に不可欠な退屈な作業を避けることはできません。 これらのタスクは、実際にそれらを行う必要がある人の士気を損なう可能性があります。 これに対処するための最善の方法は、Larry Wallのプログラマの怠惰の美徳を呼び出すか、または促進することです。 コンピュータにあなたのためのタスクを実行させるか、チームメイトがこれを行うのを手助けするための何らかの方法を見つけようとします。 手で行うのに1週間かかってしまう仕事をするプログラムで1週間働いているのは、より教育的で、時には反復性があるという大きな利点があります。
 
-If all else fails, apologize to those who have to do the boring task, but under no circumstances allow them to do it alone. At a minimum assign a team of two to do the work and promote healthy teamwork to get the task done.
+他のすべてが失敗した場合は、退屈な作業をしなければならない人には謝罪しますが、決して一人で行うことはできません。 最低でも2人のチームを割り当てて、作業を行い、健全なチームワークを促進してタスクを完了させます。
 
 Next [How to Gather Support for a Project](06-How to Gather Support for a Project.md)

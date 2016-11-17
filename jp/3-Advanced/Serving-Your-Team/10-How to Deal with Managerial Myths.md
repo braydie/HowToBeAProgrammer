@@ -1,13 +1,13 @@
 # How to Deal with Managerial Myths
 
-The word *myth* sometimes means fiction. But it has a deeper connotation. It also means a story of religious significance that explains the universe and mankind's relationship to it. Managers tend to forget what they learned as programmers and believe in certain myths. It would be as rude and unsuccessful to try to convince them these myths are false as to try to disillusion a devoutly religious person of their beliefs. For that reason, you should recognize these beliefs as myths:
+* myth *という言葉は時にはフィクションを意味します。しかしそれはより深い意味を持ちます。それはまた、宇宙と人類との関係を説明する宗教的意味の物語を意味します。マネージャーは、プログラマーとして学んだことを忘れて、特定の神話を信じる傾向があります。これらの神話が偽りであることを信じさせようとするのは無礼であり失敗しているでしょう。そのため、あなたはこれらの信念を神話として認識すべきです：
 
-- More documentation is always better. (They want it, but they don't want you to spend any time on it.)
-- Programmers can be equated. (Programmers vary by an order of magnitude.)
-- Resources can be added to a late project to speed it. (The cost of communication with the new persons is almost always more taxing than helpful.)
-- It is possible to estimate software development reliably. (It is not even theoretically possible.)
-- Programmers' productivity can be measured in terms of some simple metric, like lines of code. (If succinctness is power, lines of code are bad, not good.)
+- より多くのドキュメントが常に優れています。 （彼らはそれが欲しいが、いつでもあなたがそれに費やすことを望んでいない。）
+- プログラマは同等にすることができます。 （プログラマは桁違いに異なる）
+- それをスピードアップするために、リソースを後半のプロジェクトに追加することができます。 （新しい人とのコミュニケーションのコストは、助けになるよりもほとんど常に課税されます。）
+- ソフトウェア開発を確実に見積もることが可能です。 （理論的にも可能ではありません。）
+- プログラマの生産性は、コード行のような単純なメトリックの観点から測定できます。 （もし簡潔さが力であれば、コード行は悪い、良いことではありません。）
 
-If you have an opportunity, you can try to explain these things, but don't feel bad if you have no success and don't damage your reputation by confronting these myths belligerently. Each of these myths reinforces the manager's idea that they have some actual control over what is going on. The truth is that managers facilitate if they are good, and impede if they are bad.
+機会があれば、これらのことを説明することはできますが、成功していないと悪い気持ちにならず、これらの神話に対抗してあなたの評判を損なうことはありません。これらの神話のそれぞれは、何が起こっているかを実際に支配しているマネージャーの考えを強める。真実は、マネージャーが彼らが良ければ容易になり、彼らが悪い場合にはそれを妨げることです。
 
 Next [How to Deal with Organizational Chaos](11-How to Deal with Organizational Chaos.md)

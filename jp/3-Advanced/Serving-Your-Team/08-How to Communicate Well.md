@@ -1,11 +1,11 @@
 # How to Communicate Well
 
-To communicate well, you have to recognize how hard it is. It is a skill unto itself. It is made harder by the fact that the persons with whom you have to communicate are flawed. They do not work hard at understanding you. They speak poorly and write poorly. They are often overworked or bored, and, at a minimum, somewhat focused on their own work rather than the larger issues you may be addressing. One of the advantages of taking classes and practising writing, public speaking, and listening is that if you become good at it you can more readily see where problems lie and how to correct them.
+うまくコミュニケーションを取るには、それがどれほど難しいかを認識しなければなりません。それはそれ自身のスキルです。あなたがコミュニケーションしなければならない人に欠陥があるという事実によって、それはより困難になる。彼らはあなたを理解することに熱心に働いていません。彼らは貧弱に話し、貧弱に書く。彼らはしばしば過労または退屈であり、最低でもあなたが取り組んでいる大きな問題ではなく、自分の仕事に多少集中しています。授業を受講し、執筆、演説、聴解を実践することの利点の1つは、児童がうまくいけば、問題がどこにあるのか、どのように訂正するのかをより簡単に知ることができるということです。
 
-The programmer is a social animal whose survival depends on communication with her team. The advanced programmer is a social animal whose satisfaction depends on communication with people outside her team.
+プログラマーは生き残りが彼女のチームとのコミュニケーションに依存する社会的な動物です。高度なプログラマーは、満足度が彼女のチーム外の人々とのコミュニケーションに依存する社会的な動物です。
 
-The programmer brings order out of chaos. One interesting way to do this is to initiate a proposal of some kind outside the team. This can be done in a *strawman* or *white-paper* format or just verbally. This leadership has the tremendous advantage of setting the terms of the debate. It also exposes you to criticism, and worse, rejection and neglect. The advanced programmer must be prepared to accept this, because she has a unique power and therefore a unique responsibility. Entrepreneurs who are not programmers need programmers to provide leadership in some ways. Programmers are the part of the bridge between ideas and reality that rests on reality.
+プログラマーは混乱から命令を出します。これを行う1つの興味深い方法は、チーム外の何らかの提案を開始することです。これは、* strawman *または* white-paper *形式で、または口頭でのみ行うことができます。このリーダーシップは、議論の条件を設定するという大きな利点があります。それはあなたを批判にさらし、さらに悪いことに、拒絶と無視を暴露します。高度なプログラマは、独特の力を持っているため独自の責任があるので、これを受け入れる準備ができている必要があります。プログラマーではない起業家は、いくつかの点でリーダーシップを提供するプログラマーを必要としています。プログラマーは、現実に頼っているアイデアとリアリティの橋渡しの一部です。
 
-I haven't mastered communicating well, but what I'm currently trying is what I think of as a four-pronged approach: After I have my ideas in order and am fully prepared, I try to speak verbally, hand people a white-paper (on real paper, as well as electronically) show them a demo, and then patiently repeat this process. I think a lot of times we are not patient enough in this kind of difficult communication. You should not be disheartened if your ideas are not immediately accepted. If you have invested energy in their preparation, no one will think poorly of you for it.
+私はうまくコミュニケーションをマスターできませんでしたが、私が現在取り組んでいるのは、私が4つのアプローチをとっていると思います。自分のアイデアを順調に準備した後、私は口頭で話し、紙は（実際の紙にも電子的にも）デモを見せて、このプロセスを辛抱強く繰り返す。私はこの種の難しいコミュニケーションでは、何度も私たちが十分に辛抱強くないと思います。あなたのアイデアがすぐに受け入れられないなら、あなたは落胆してはいけません。彼らの準備にエネルギーを投入した場合、誰もあなたのためにそれを貧弱だとは思わないでしょう。
 
 Next [How to Tell People Things They Don't Want to Hear](09-How to Tell People Things They Don't Want to Hear.md)

@@ -1,5 +1,5 @@
 # How to Gather Support for a Project
 
-To gather support for a project, create and communicate a vision that demonstrates real value to the organization as a whole. Attempt to let others share in your vision creation. This gives them a reason to support you and gives you the benefit of their ideas. Individually recruit key supporters for your project. Wherever possible, show, don't tell. If possible, construct a prototype or a mock-up to demonstrate your ideas. A prototype is always powerful but in software it is far superior to any written description.
+プロジェクトのサポートを集めるには、組織全体に真の価値を示すビジョンを作成して伝えます。 あなたのビジョン作成に他の人たちを共有しようとする。 これは彼らにあなたをサポートする理由を与え、あなたのアイデアの恩恵を与えます。 プロジェクトの主要サポーターを個別に募集します。 可能な限り、教えてください。 可能であれば、試作品やモックアップを作ってアイデアを発揮させてください。 プロトタイプは常に強力ですが、ソフトウェアでは説明文よりはるかに優れています。
 
 Next [How to Grow a System](07-How to Grow a System.md)

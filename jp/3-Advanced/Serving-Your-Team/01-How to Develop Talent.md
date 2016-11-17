@@ -1,23 +1,23 @@
 # How to Develop Talent
 
-Nietschze exaggerated when he said [Stronger]:
+Nietschzeは彼が[Stronger]と言ったときに誇張した：
 
-> What does not destroy me, makes me stronger.
+>私を破壊しないものは、私をより強くします。
 
-Your greatest responsibility is to your team. You should know each of them well. You should stretch your team, but not overburden them. You should usually talk to them about the way they are being stretched. If they buy in to it, they will be well motivated. On each project, or every other project, try to stretch them in both a way that they suggest and a way that you think will be good for them. Stretch them not by giving them more work, but by giving them a new skill or better yet a new role to play on the team.
+あなたの最大の責任はあなたのチームです。あなたはそれぞれのことをよく知っているはずです。あなたはあなたのチームを引き伸ばすべきですが、彼らに負担をかけるべきではありません。あなたは通常、彼らが伸びている方法について話すべきです。彼らがそれを買収すれば、彼らはうまく動機づけられます。各プロジェクト、または他のすべてのプロジェクトで、提案する方法とそれに適した方法でストレッチを行います。より多くの仕事を与えることではなく、彼らに新しいスキルを与えたり、チームで新しい役割を果たしたりすることによって、彼らを伸ばす。
 
-You should allow people (including yourself) to fail occasionally and should plan for some failure in your schedule. If there is never any failure, there can be no sense of adventure. If there are not occasional failures, you are not trying hard enough. When someone fails, you should be as gentle as you can with them while not treating them as though they had succeeded.
+あなた自身（あなた自身を含む）が時々失敗するようにして、あなたのスケジュールで何らかの失敗を計画するべきです。決して失敗がなければ、冒険感はありません。時々失敗することがなければ、あなたは十分に頑張っているわけではありません。誰かが失敗すると、成功したかのように扱わずに、できるだけ穏やかにするべきです。
 
-Try to get each team member to buy in and be well motivated. Ask each of them explicitly what they need to be well-motivated if they are not. You may have to leave them dissatisfied, but you should know what everybody desires.
+各チームのメンバーが購入し、動機付けされているようにしてください。そうでない場合は、彼らがうまく動機づけられている必要があることを明確にそれぞれ質問してください。あなたはそれを不満のままにしなければならないかもしれませんが、みんなが望むものを知っておくべきです。
 
-You can't give up on someone who is intentionally not carrying their share of the load because of low morale or dissatisfaction and just let them be slack. You must try to get them well-motivated and productive. As long as you have the patience, keep this up. When your patience is exhausted, fire them. You cannot allow someone who is intentionally working below their level to remain on the team, since it is not fair to the team.
+低い士気や不満のために負荷を分担していない人をあきらめることはできません。あなたはそれらをうまく動機づけて生産的にするように努めなければなりません。あなたが忍耐力を持っている限り、これを維持してください。あなたの忍耐が疲れたら、それらを撃ってください。意図的にレベルを下回って作業している人は、チームにとって公平ではないため、チームに残り続けることはできません。
 
-Make it clear to the strong members of your team that you think they are strong by saying so in public. Praise should be public and criticism private.
+あなたのチームの強固なメンバーに、彼らを強く信じていることを、公に話すことで明確にします。賛美は公然と批判プライベートにする必要があります。
 
-The strong members of the team will naturally have more difficult tasks than the weak members of the team. This is perfectly natural and nobody will be bothered by it as long as everyone works hard.
+チームの強いメンバーは、当然、チームの弱いメンバーよりも難しい仕事をするでしょう。これは完全に自然なことであり、誰もが一生懸命働く限り、誰もそれによって邪魔されることはありません。
 
-It is an odd fact that is not reflected in salaries that a good programmer is more productive than 10 bad programmers. This creates a strange situation. It will often be true that you could move faster if your weak programmers would just get out of the way. If you did this you would in fact make more progress in the short term. However, your tribe would lose some important benefits, namely the training of the weaker members, the spreading of tribal knowledge, and the ability to recover from the loss of the strong members. The strong must be gentle in this regard and consider the issue from all angles.
+良いプログラマが10人の悪いプログラマよりも生産性が高いのは、給料に反映されないという奇妙な事実です。これは奇妙な状況を作り出します。あなたの弱いプログラマがちょっと邪魔になる場合は、あなたがより速く動くことができることはしばしば真実です。あなたがこれをした場合、あなたは実際に短期間でもっと進歩を遂げるでしょう。しかし、あなたの部族は、弱いメンバーの訓練、部族の知識の普及、そして強力なメンバーの喪失から回復する能力という、いくつかの重要な利点を失います。この点で強くなければならず、問題はあらゆる角度から考えなければなりません。
 
-You can often give the stronger team members challenging, but carefully delineated, tasks.
+あなたはしばしば、より強いチームメンバーに挑戦的ですが、注意深く描かれたタスクを与えることができます。
 
 Next [How to Choose What to Work On](02-How to Choose What to Work On.md)

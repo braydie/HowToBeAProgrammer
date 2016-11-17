@@ -1,9 +1,9 @@
 # How to Tell the Hard From the Impossible
 [//]: # (Version:1.0.1)
-It is our job to do the hard and discern the impossible. From the point of view of most working programmers, something is impossible if either it cannot be grown from a simple system or it cannot be estimated. By this definition what is called research is impossible. A large volume of mere work is hard, but not necessarily impossible.
+“ï‚µ‚¢‚±‚Æ‚ğ‚µ‚ÄA•s‰Â”\‚ÆŒ©‚È‚·‚Ì‚Í„‚½‚¿‚Ìd–‚Å‚·B‚Ù‚Æ‚ñ‚Ç‚Ìì‹ÆƒvƒƒOƒ‰ƒ}[‚ÌŠÏ“_‚©‚ç‚ÍA’Pƒ‚ÈƒVƒXƒeƒ€‚©‚ç¬’·‚Å‚«‚È‚¢‚©A„’è‚Å‚«‚È‚¢ê‡‚Í•s‰Â”\‚Å‚·B‚±‚Ì’è‹`‚É‚æ‚Á‚ÄAŒ¤‹†‚ÆŒÄ‚Î‚ê‚é‚à‚Ì‚Í•s‰Â”\‚Å‚·B‘å—Ê‚Ì’P‚È‚éd–‚Í“ï‚µ‚¢‚ªA•K‚¸‚µ‚à•s‰Â”\‚Æ‚¢‚¤‚í‚¯‚Å‚Í‚È‚¢B
 
-The distinction is not facetious because you may very well be asked to do what is practically impossible, either from a scientific point of view or a software engineering point of view. It then becomes your job to help the entrepreneur find a reasonable solution which is merely hard and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.
+‰ÈŠw“I‚ÈŠÏ“_‚âƒ\ƒtƒgƒEƒFƒAHŠw‚ÌŠÏ“_‚©‚ç‚ÍAÀÛ‚É‚Í•s‰Â”\‚È‚±‚Æ‚ğ”ñí‚É‚¤‚Ü‚­‚â‚Á‚Ä‚­‚ê‚é‚©‚à‚µ‚ê‚È‚¢‚Ì‚ÅA‚±‚Ì‹æ•Ê‚Í–Ê”’‚­‚È‚¢B‚»‚ê‚Í‹N‹Æ‰Æ‚ª’P‚È‚é¢“ï‚Å‚ ‚èA”Ş‚ç‚ª–]‚Ş‚à‚Ì‚Ì‚Ù‚Æ‚ñ‚Ç‚ğ“¾‚é‡—“I‚È‰ğŒˆô‚ğŒ©‚Â‚¯‚é‚Ì‚ğ•‚¯‚é‚ ‚È‚½‚Ìd–‚É‚È‚è‚Ü‚·B‰ğŒˆô‚ÍA©M‚ğ‚Á‚ÄƒXƒPƒWƒ…[ƒ‹‚³‚êAƒŠƒXƒN‚ª—‰ğ‚³‚ê‚Ä‚¢‚éê‡‚É‚Í“ï‚µ‚¢‚Å‚·B
 
-It is impossible to satisfy a vague requirement, such as â€˜Build a system that will compute the most attractive hair style and colour for any person.â€™ If the requirement can be made more crisp, it will often become merely hard, such as â€˜Build a system to compute an attractive hair style and colour for a person, allow them to preview it and make changes, and have the customer satisfaction based on the original styling be so great that we make a lot of money.â€™ If there is no crisp definition of success, you will not succeed.
+Å‚à–£—Í“I‚È”¯Œ^‚âF‚ğŒvZ‚·‚éƒVƒXƒeƒ€‚È‚ÇA”™‘R‚Æ‚µ‚½—v‹‚ğ–‚½‚·‚±‚Æ‚Í•s‰Â”\‚Å‚·B—vŒ‚ğ‚æ‚è‘N–¾‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚ê‚ÎAl‚Ì–£—Í“I‚È”¯Œ^‚ÆF‚ğŒvZ‚µA‚»‚ê‚ğƒvƒŒƒrƒ…[‚µ‚½‚è•ÏX‚µ‚½‚èAŒ³‚ÌƒXƒ^ƒCƒ‹‚ÉŠî‚Ã‚¢‚ÄŒÚ‹q–‘«“x‚ğ‚‚ß‚ÄA‚½‚­‚³‚ñ‚Ì‚¨‹à‚ğ‰Ò‚®ƒVƒXƒeƒ€‚ğ\’z‚µ‚Ü‚µ‚å‚¤B¬Œ÷‚Ì‘N–¾‚È’è‹`‚ª‚È‚¢A‚ ‚È‚½‚Í¬Œ÷‚µ‚Ü‚¹‚ñB
 
 Next [How to Utilize Embedded Languages](02-How to Utilize Embedded Languages.md)

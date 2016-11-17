@@ -1,5 +1,5 @@
 # How to Choose What to Work On
 
-You balance your personal needs against the needs of the team in choosing what aspect of a project to work on. You should do what you are best at, but try to find a way to stretch yourself not by taking on more work but by exercising a new skill. Leadership and communication skills are more important than technical skills. If you are very strong, take on the hardest or riskiest task, and do it as early as possible in the project to decrease risk.
+自分のニーズとチームのニーズとのバランスを取って、どのような側面のプロジェクトを作業するかを選択します。 あなたは自分が一番好きなことをしなければなりませんが、より多くの仕事をするのではなく、新しいスキルを行使して自分自身を伸ばす方法を見つけようとします。 リーダーシップとコミュニケーションスキルは技術スキルよりも重要です。 あなたが非常に強ければ、プロジェクトでは、リスクを減らすために、できるだけ早く、最も困難な、またはリスクの高いタスクを実行してください。
 
 Next [How to Get the Most From Your Team-mates](03-How to Get the Most From Your Teammates.md)

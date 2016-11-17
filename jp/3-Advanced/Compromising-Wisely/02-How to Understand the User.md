@@ -1,17 +1,17 @@
 # How to Understand the User
 [//]: # (Version:1.0.0)
-It is your duty to understand the user, and to help your boss understand the user. Because the user is not as intimately involved in the creation of your product as you are, they behave a little differently:
+ユーザーを理解し、上司にユーザーを理解させるのはあなたの義務です。ユーザーは自分の製品の作成に密接に関わっていないため、少し違った動作をします。
 
-- The user generally makes short pronouncements.
-- The user has their own job; they will mainly think of small improvements in your product, not big improvements.
-- The user can't have a vision that represents the complete body of your product users.
+- ユーザーは、一般的に短い発言をします。
+- ユーザーは自分の仕事を持っています。彼らは主に、大きな改善ではなく、あなたの製品の小さな改善を考えるでしょう。
+- ユーザーは、製品ユーザーの全身を表すビジョンを持つことはできません。
 
-It is your duty to give them what they really want, not what they say they want. It is however, better to propose it to them and get them to agree that your proposal is what they really want before you begin, but they may not have the vision to do this. Your confidence in your own ideas about this should vary. You must guard against both arrogance and false modesty in terms of knowing what the customer really wants. Programmers are trained to design and create. Market researchers are trained to figure out what people want. These two kinds of people, or two modes of thought in the same person, working harmoniously together give the best chance of formulating the correct vision.
+彼らが本当に欲しいものを与えるのはあなたの義務であり、彼らが望むと言っているものではありません。しかし、それを彼らに提案し、あなたの提案があなたが始める前に本当に望むものであることに同意させるのが良いですが、そうするビジョンはないかもしれません。これに関するあなた自身のアイデアに対するあなたの信頼は変わるはずです。顧客が本当に望んでいることを知るという観点からは、傲慢さと誤った謙虚さの両方を守る必要があります。プログラマーは設計と作成を訓練しています。市場の研究者は、人々が望むものを理解するように訓練されています。この2つの種類の人、または同じ人の2つの考え方が調和して一緒に働いて、正しいビジョンを策定する最良の機会を与えます。
 
-The more time you spend with users the better you will be able to understand what will really be successful. You should try to test your ideas against them as much as you can. You should eat and drink with them if you can.
+ユーザーと一緒に過ごす時間が長くなればなるほど、実際に何が成功するかを理解できるようになります。できるだけそれらに対してあなたのアイデアを試そうとするべきです。あなたができるなら食べて飲むべきです。
 
-Guy Kawasaki [Rules] has emphasized the importance of *watching* what your users do in addition to listening to them.
+Guy Kawasaki [Rules]は、ユーザーが聞くことに加えて、ユーザーの行動を監視することの重要性を強調しています。
 
-I believe contractors and consultants often have tremendous problems getting their clients to clarify in their own minds what they really want. If you intend to be a consultant, I suggest you choose your clients based on their clear-headedness as well as their pocketbooks.
+私は請負業者やコンサルタントが、しばしば彼らが本当に望むものを自らの心の中で明確にするように顧客に訴える大きな問題を抱えていると信じています。あなたがコンサルタントになろうと思っているなら、私はあなたのクライアントを、彼らの明確な頭の中だけでなく、彼らの手帳に基づいて選ぶことをお勧めします。
 
 Next [How to Get a Promotion](03-How to Get a Promotion.md)

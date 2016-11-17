@@ -1,23 +1,23 @@
 # How to Grow a System
 
-The seed of a tree contains the idea of the adult but does not fully realize the form and potency of the adult. The embryo grows. It becomes larger. It looks more like the adult and has more of the uses. Eventually it bears fruit. Later, it dies and its body feeds other organisms.
+木の葉には大人のアイデアが含まれていますが、成人の形や効力を完全には理解していません。胚が成長する。それは大きくなります。大人のように見え、より多くの用途があります。結局それは果実を生みます。その後、それは死に、その体は他の生物に栄養を与えます。
 
-We have the luxury of treating software like that. A bridge is not like that; there is never a baby bridge, but merely an unfinished bridge. Bridges are a lot simpler than software.
+私たちはそのようなソフトウェアを扱う贅沢さを持っています。橋はそうではない。ベビーブリッジはありませんが、未完成の橋はありません。ブリッジはソフトウェアよりもはるかに簡単です。
 
-It is good to think of software as growing, because it allows us to make useful progress before we have a perfect mental image. We can get feedback from users and use that to correct the growth. Pruning off weak limbs is healthful.
+ソフトウェアが成長していると考えることは、完璧な精神的なイメージを得る前に有用な進歩を遂げることができるので、良い考えです。ユーザーからのフィードバックを得て、それを使って成長を修正することができます。弱い手足を切り取ることは健康です。
 
-The programmer must design a finished system that can be delivered and used. But the advanced programmer must do more. You must design a growth path that ends in the finished system. It is your job to take a germ of an idea and build a path that takes it as smoothly as possible into a useful artefact.
+プログラマは、配送して使用できる完成したシステムを設計する必要があります。しかし、高度なプログラマはもっと多くのことをしなければならない。完成したシステムで終わる成長経路を設計する必要があります。アイデアの芽を取って、できるだけスムーズに有用な人工物に変える道をつくるのはあなたの仕事です。
 
-To do this, you must visualize the end result and communicate it in a way that the engineering team can get excited about. But you must also communicate to them a path that goes from wherever they are now to where they want to be with no large leaps. The tree must stay alive the whole time; it cannot be dead at one point and resurrected later.
+これを行うには、最終結果を視覚化し、エンジニアリングチームが興奮してやり遂げることができる方法で伝達する必要があります。しかし、あなたはまた、彼らが今どこにいても、どこにいても大きな飛躍を見せていないところに行く道を彼らに伝えなければなりません。木は生きていなければなりません。それは一点で死んではならず、後で復活することはできません。
 
-This approach is captured in spiral development. Milestones that are never too far apart are used to mark progress along the path. In the ultra-competitive environment of business, it is best if the milestones can be released and make money as early as possible, even if they are far away from a well-designed endpoint. One of the programmer's jobs is to balance the immediate pay-off against future pay-off by wisely choosing a growth path expressed in milestones.
+このアプローチは、螺旋状に展開されています。遠すぎることのないマイルストーンは、経路に沿って進捗をマークするために使用されます。超競争的なビジネス環境では、たとえ設計されたエンドポイントから遠く離れていても、マイルストーンがリリースされ、できるだけ早く収益を上げることが最善の方法です。プログラマーの仕事の1つは、マイルストーンで表された成長経路を賢明に選択することによって、即時の報酬と将来の報酬のバランスをとることです。
 
-The advanced programmer has the triple responsibility of growing software, teams, and persons.
+先進的なプログラマは、ソフトウェア、チーム、および人員を増やすという3つの責任を負っています。
 
-A reader, Rob Hafernik, sent in this comment on this section that I can do no better than to quote in full:
+読者、Rob Hafernikは、このセクションのこのコメントで、私が完全に引用するよりもうまくいくことはできない：
 
-> I think you under-emphasize the importance here. It's not just systems, but algorithms, user interfaces, data models, and so on. It's absolutely *vital* as you work on a large system to have measurable progress toward intermediate goals. Nothing is as bad as the special horror of getting down to the end and discovering that the whole thing just isn't going to work (look at the recent debacle of the Voter News System). I would even go further and state it as a law of nature: no large, complex system can be implemented from scratch, it can only be evolved from a simple system to a complex system in a series of intentional steps.
+>私はあなたがここで重要性を強調していると思う。これはシステムだけでなく、アルゴリズム、ユーザーインターフェイス、データモデルなどです。あなたが大きな目標を達成するために大規模なシステムに取り組むようになると、絶対に重要です。終わりに近づき、すべてがちょうどうまくいかないことを発見するという特別な恐怖ほど悪くない（投票者ニュースシステムの最近の大失敗を見てください）。私はさらに進んで、それを自然の法則と言っています。大規模で複雑なシステムはゼロから実装することはできません。単純なシステムから一連の意図的なステップで複雑なシステムにしか進化できません。
 
-To which one can only reply *Fiat lux*!
+どちらに返信することができますか？* Fiat lux *！
 
 Next [How to Communicate Well](08-How to Communicate Well.md)

@@ -1,9 +1,9 @@
 # How to Tell People Things They Don't Want to Hear
 
-You will often have to tell people things that will make them uncomfortable. Remember that you are doing this for a reason. Even if nothing can be done about the problem, you are telling them as early as possible so they will be well-informed.
+‚ ‚È‚½‚Í‚µ‚Î‚µ‚ÎAlX‚É•s‰õŠ´‚ğ—^‚¦‚é‚æ‚¤‚È‚±‚Æ‚ğ“`‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B‚ ‚È‚½‚ª‰½‚ç‚©‚Ì——R‚Å‚±‚ê‚ğ‚µ‚Ä‚¢‚é‚±‚Æ‚ğ–Y‚ê‚È‚¢‚Å‚­‚¾‚³‚¢B–â‘è‚É‚Â‚¢‚Ä‰½‚à‚Å‚«‚È‚¢ê‡‚Å‚àA‚Å‚«‚é‚¾‚¯‘‚­‚»‚ê‚ç‚ğ“`‚¦‚Ä‚¢‚é‚Ì‚ÅA”Ş‚ç‚Í\•ª‚Èî•ñ‚ğ“¾‚ç‚ê‚Ü‚·B
 
-The best way to tell someone about a problem is to offer a solution at the same time. The second best way is to appeal to them for help with the problem. If there is a danger that you won't be believed, you should gather some support for your assertion.
+’N‚©‚É–â‘è‚ğ“`‚¦‚éÅ—Ç‚Ì•û–@‚ÍA“¯‚É‰ğŒˆô‚ğ’ñ¦‚·‚é‚±‚Æ‚Å‚·B‘æ“ñ‚ÌÅ‘P‚Ì•û–@‚ÍA–â‘è‚Ì•‚¯‚ğØ‚è‚Ä”Ş‚ç‚ÉƒAƒs[ƒ‹‚·‚é‚±‚Æ‚Å‚·BM‚¶‚ç‚ê‚È‚¢ŠëŒ¯‚ª‚ ‚éê‡‚ÍA‚ ‚È‚½‚Ìå’£‚Ìx‚ğW‚ß‚é‚×‚«‚Å‚·B
 
-One of the most unpleasant and common things you will have to say is, â€˜The schedule will have to slip.â€™ The conscientious programmer hates to say this, but must say it as early as possible. There is nothing worse than postponing action when a milestone slips, even if the only action is to inform everyone. In doing this, it is better to do it as a team, at least in spirit, if not physically. You will want your team's input on both where you stand and what can be done about it, and the team will have to face the consequences with you.
+‚ ‚È‚½‚ªŒ¾‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢Å‚à•s–ù‰õ‚Åˆê”Ê“I‚È‚±‚Æ‚Ìˆê‚Â‚ÍA”Ş‚ÌƒXƒPƒWƒ…[ƒ‹‚ªŠÔˆá‚Á‚Ä‚¢‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Æ‚¢‚¤‚±‚Æ‚Å‚·B—ÇS“I‚ÈƒvƒƒOƒ‰ƒ}[‚ÍA‚±‚ê‚ğŒ¾‚¤‚Ì‚ÍŒ™‚Å‚·‚ªA‚Å‚«‚é‚¾‚¯‘‚­Œ¾‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB—Bˆê‚ÌƒAƒNƒVƒ‡ƒ“‚ª’N‚É‚Å‚à’m‚ç‚¹‚é‚±‚Æ‚Å‚ ‚Á‚Ä‚àAƒ}ƒCƒ‹ƒXƒg[ƒ“‚ªŠŠ‚Á‚½‚Æ‚«‚ÉƒAƒNƒVƒ‡ƒ“‚ğ‰„Šú‚·‚é‚æ‚è‚àˆ«‚¢‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB‚±‚ê‚ğs‚¤‚É‚ÍA•¨—??“I‚É‚Å‚È‚­‚Ä‚àA­‚È‚­‚Æ‚à¸_“I‚É‚Íƒ`[ƒ€‚Æ‚µ‚Äs‚¤•û‚ª—Ç‚¢‚Å‚·B‚ ‚È‚½‚ª—§‚Á‚Ä‚¢‚éêŠ‚Æ‚»‚ê‚É‚Â‚¢‚Ä‰½‚ª‚Å‚«‚é‚©‚Ì—¼•û‚Å‚ ‚È‚½‚Ìƒ`[ƒ€‚Ì“ü—Í‚ğ–]‚Ş‚Å‚µ‚å‚¤Bƒ`[ƒ€‚Í‚ ‚È‚½‚É‰e‹¿‚ğ—^‚¦‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB
 
 Next [How to Deal with Managerial Myths](10-How to Deal with Managerial Myths.md)

@@ -1,9 +1,9 @@
 # How to Divide Problems Up
 
-It's fun to take a software project and divide it up into tasks that will be performed by individuals. This should be done early. Sometimes managers like to think that an estimate can be made without consideration of the individuals that will perform the work. This is impossible since the productivity of individuals varies so widely. Who has particular knowledge about a component also constantly changes and can have an order of magnitude effect on performance.
+ソフトウェアプロジェクトを利用して、個人によって実行されるタスクに分割するのは楽しいことです。これは早期に行う必要があります。時には、マネージャーは、作業を実行する個人を考慮せずに見積もりを行うことができると考えていることがあります。これは個人の生産性が非常に異なるため不可能です。コンポーネントについての特定の知識を持っている人は、常に変化し、パフォーマンスに大きな影響を与えることができます。
 
-Just as a composer considers the timbre of the instrument that will play a part or the coach of an athletic team considers the strengths of each player, the experienced team leader will not usually be able to separate the division of the project into tasks from the team members to which they will be assigned. This is part of the reason that a high-performing team should not be broken up.
+作曲家は、演奏する楽器の音色や運動選手のコーチが各選手の強みを考慮しているように、経験豊富なチームリーダーは、通常、プロジェクトの部門をチームからの仕事に分けることはできませんそれらが割り当てられるメンバー。これは、高性能のチームが崩壊してはならない理由の一部です。
 
-There is a certain danger in this given that people will become bored as they build upon their strengths and never improve their weaknesses or learn new skills. However, specialization is a very useful productivity tool when not overused.
+これは、人々が自分の強みを構築し、弱点を改善したり、新しいスキルを学んだりして退屈するようになるという、ある程度の危険があります。しかし、専門性は、過度に使用されない場合には非常に有用な生産性ツールです。
 
 Next [How to Handle Boring Tasks](05-How to Handle Boring Tasks.md)

@@ -1,15 +1,15 @@
 # How to Get the Most From Your Team-mates
 
-To get the most from your team-mates, develop a good team spirit and try to keep every individual both personally challenged and personally engaged.
+チームメイトを最大限に活用するには、チームの精神を磨き、すべての人が個人的に挑戦し、個人的に関わり続けるようにしてください。
 
-To develop team spirit, corny stuff like logoized clothing and parties are good, but not as good as personal respect. If everyone respects everyone else, nobody will want to let anybody down. Team spirit is created when people make sacrifices for the team and think in terms of the good of the team before their own personal good. As a leader, you can't ask for more than you give yourself in this respect.
+チームの精神を発達させるために、ロゴ入りの衣服やパーティーのような厄介なものは良いものの、個人的な尊敬と同じくらい良いものではありません。誰もが他の人を尊重しているなら、誰も誰も落胆させたくないでしょう。チームの精神は、人々がチームのために犠牲を払って、自分の個人的な利益の前にチームの良し悪しの観点から考えるときに作られます。指導者として、あなたはこの点で自分よりも多くを求めることはできません。
 
-One of the keys to team leadership is to facilitate consensus so that everyone has buy in. This occasionally means allowing your team-mates to be wrong. That is, if it does not harm the project too much, you must let some of your team do things their own way, based on consensus, even if you believe with great confidence it is the wrong thing to do. When this happens, don't agree, simply disagree openly and accept the consensus. Don't sound hurt, or like you're being forced into it, simply state that you disagree but think the consensus of the team is more important. This will often cause them to backtrack. Don't insist that they go through with their initial plan if they do backtrack.
+チームリーダーシップの鍵の1つは、全員がバイイングできるようにコンセンサスを促進することです。これは、チームメイトが間違っていることを時々意味します。つまり、それがプロジェクトをあまりにも害することがなければ、コンセンサスに基づいて自分のチームの何人かが独自のやり方をするようにしなければなりません。これが起こったら、同意しないでください。単に公然と反対し、合意に同意してください。傷ついたり、強制されているように聞こえたりしてはいけません。あなたが意見に同意していないと言いますが、チームのコンセンサスが重要だと考えてください。これはしばしば彼らに逆戻りさせます。彼らが逆戻りした場合、彼らが最初の計画を通過すると主張しないでください。
 
-If there is an individual who will not consent after you have discussed the issues from all appropriate sides, simply assert that you have to make a decision and that is what your decision is. If there is a way to judge if your decision will be wrong or if it is later shown to be wrong, switch as quickly as you can and recognize the persons who were right.
+適切な側から問題を議論した後に同意しない個人がいる場合は、単に決定を下す必要があると主張し、それがあなたの決定であると主張します。あなたの決定が間違っているかどうかを判断する方法がある場合、またはそれが間違っていることが後で示された場合は、できるだけ早く切り替えて、正しい人物を認識してください。
 
-Ask your team, both as a group and individually, what they think would create team spirit and make for an effective team.
+あなたのチームには、グループとしても個別にも、チームスピリットを生み出し、効果的なチームを作るために考えていることを尋ねてください。
 
-Praise frequently rather than lavishly. Especially praise those who disagree with you when they are praiseworthy. Praise in public and criticize in private; with one exception: sometimes growth or the correction of a fault can't be praised without drawing embarrassing attention to the original fault, so that growth should be praised in private.
+贅沢ではなく頻繁に賞賛してください。特にあなたが賞賛される時にあなたに同意しない人を賞賛します。公に賛美し、私的に批判する。 1つの例外を除いて：時には成長や失敗の是正は元の欠陥に恥ずかしい注意を引くことなく賞賛することができないので、成長はプライベートで賞賛されるべきです。
 
 Next [How to Divide Problems Up](04-How to Divide Problems Up.md)
