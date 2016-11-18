@@ -1,5 +1,5 @@
 # How to be a Programmer: Community Version
-[//]: # (Version:1.0.0)
+[//]: # (Version:1.1.0)
 Robert L. Read with Community
 
 Copyright 2002, 2003, 2016 Robert L. Read
@@ -23,7 +23,7 @@ Welcome to the tribe.
 
 ## Contents
 
-**[Also available in Chinese](zh/README.md)**
+**Also available in [Chinese](zh/README.md) and [Japanese](jp/README.md)**
 
 1. [Beginner](en/1-Beginner)
 	- Personal Skills
