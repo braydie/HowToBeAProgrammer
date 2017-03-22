@@ -6,4 +6,4 @@ Then you must do it yourself. Start with a small project. When you are finally d
 
 It is natural and helpful to develop your own style, but remember that design is an art, not a science. People who write books on the subject have a vested interest in making it seem scientific. Don't become dogmatic about particular design styles.
 
-Next [How to Conduct Experiments](12-How to Conduct Experiments.md)
+Next [How to Conduct Experiments](12-How%20to%20Conduct%20Experiments.md)

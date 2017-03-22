@@ -20,4 +20,4 @@
 
 对此，我们只能回答，*要有光*！
 
-Next [如何有效地沟通](08-How to Communicate Well.md)
+Next [如何有效地沟通](08-How%20to%20Communicate%20Well.md)

@@ -12,4 +12,4 @@ To a true beginner, the space of all possible errors looks like every line in th
 
 Once you have evenly subdivided the space of all that can go wrong, you must try to decide in which space the error lies. In the simple case where the mystery is: ‘Which single unknown line makes my program crash?’, you can ask yourself: ‘Is the unknown line executed before or after this line that I judge to be executed in the middle of the running program?’ Usually you will not be so lucky as to know that the error exists in a single line, or even a single block. Often the mystery will be more like: ‘Either there is a pointer in that graph that points to the wrong node, or my algorithm that adds up the variables in that graph doesn't work.’ In that case you may have to write a small program to check that the pointers in the graph are all correct in order to decide which part of the subdivided mystery can be eliminated.
 
-Next [How to Remove an Error](03-How to Remove an Error.md)
+Next [How to Remove an Error](03-How%20to%20Remove%20an%20Error.md)

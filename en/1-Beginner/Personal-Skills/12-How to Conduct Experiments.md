@@ -20,4 +20,4 @@ First, try to be very clear about your hypothesis, or the assertion that you are
 
 You will often find yourself having to design a series of experiments, each of which is based on the knowledge gained from the last experiment. Therefore, you should design your experiments to provide the most information possible. Unfortunately, this is in tension with keeping each experiment simple - you will have to develop this judgement through experience.
 
-Next [Team Skills - Why Estimation is Important](../Team-Skills/01-Why Estimation is Important.md)
+Next [Team Skills - Why Estimation is Important](../Team-Skills/01-Why%20Estimation%20is%20Important.md)

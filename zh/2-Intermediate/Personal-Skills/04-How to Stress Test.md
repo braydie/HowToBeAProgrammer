@@ -14,4 +14,4 @@
 
 <sup>[1]</sup> "撞响"
 
-Next [如何在简洁与抽象间平衡](05-How to Balance Brevity and Abstraction.md)
+Next [如何在简洁与抽象间平衡](05-How%20to%20Balance%20Brevity%20and%20Abstraction.md)

@@ -8,4 +8,4 @@ If you miss a milestone, you should take immediate action such as informing your
 
 Make sure your plan includes time for: internal team meetings, demos, documentation, scheduled periodic activities, integration testing, dealing with outsiders, sickness, vacations, maintenance of existing products, and maintenance of the development environment. The project plan can serve as a way to give outsiders or your boss a view into what you or your team is doing. For this reason it should be short and up-to-date.
 
-Next [How to Manage Third-Party Software Risks](02-How to Manage Third-Party Software Risks.md)
+Next [How to Manage Third-Party Software Risks](02-How%20to%20Manage%20Third-Party%20Software%20Risks.md)

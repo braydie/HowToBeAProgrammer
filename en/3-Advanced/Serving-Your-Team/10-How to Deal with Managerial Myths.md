@@ -10,4 +10,4 @@ The word *myth* sometimes means fiction. But it has a deeper connotation. It als
 
 If you have an opportunity, you can try to explain these things, but don't feel bad if you have no success and don't damage your reputation by confronting these myths belligerently. Each of these myths reinforces the manager's idea that they have some actual control over what is going on. The truth is that managers facilitate if they are good, and impede if they are bad.
 
-Next [How to Deal with Organizational Chaos](11-How to Deal with Organizational Chaos.md)
+Next [How to Deal with Organizational Chaos](11-How%20to%20Deal%20with%20Organizational%20Chaos.md)

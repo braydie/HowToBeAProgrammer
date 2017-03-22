@@ -8,4 +8,4 @@
 
 不管决议是否被推翻，你必须记住你永远不能说出“我的话撂这了，我早就这样告诉你了”这样的话，因为这个决定已经得到了充分探讨。
 
-Next [判断 - 如何在开发质量和开发时间间权衡](../Judgment/01-How to Tradeoff Quality Against Development Time.md)
+Next [判断 - 如何在开发质量和开发时间间权衡](../Judgment/01-How%20to%20Tradeoff%20Quality%20Against%20Development%20Time.md)

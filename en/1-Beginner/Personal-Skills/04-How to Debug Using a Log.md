@@ -10,4 +10,4 @@ The amount to output into the log is always a compromise between information and
 
 If you have a permanent log, printlining can now be done in terms of the log records, and some of the debugging statements will probably be permanently added to the logging system.
 
-Next [How to Understand Performance Problems](05-How to Understand Performance Problems.md)
+Next [How to Understand Performance Problems](05-How%20to%20Understand%20Performance%20Problems.md)

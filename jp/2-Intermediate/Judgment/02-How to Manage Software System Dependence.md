@@ -1,13 +1,13 @@
 # How to Manage Software System Dependence
 [//]: # (Version:1.0.0)
-Œ»‘ã‚Ìƒ\ƒtƒgƒEƒFƒAƒVƒXƒeƒ€‚ÍA‚ ‚È‚½‚ÌƒRƒ“ƒgƒ[ƒ‹‰º‚É’¼Ú‘¶Ý‚µ‚È‚¢‚©‚à‚µ‚ê‚È‚¢‘½‚­‚ÌƒRƒ“ƒ|[ƒlƒ“ƒg‚ÉˆË‘¶‚·‚éŒXŒü‚ª‚ ‚è‚Ü‚·B‚±‚ê‚É‚æ‚èAƒVƒiƒW[‚ÆÄ—˜—p‚É‚æ‚è¶ŽY«‚ªŒüã‚µ‚Ü‚·B‚µ‚©‚µAŠeƒRƒ“ƒ|[ƒlƒ“ƒg‚É‚Í‚¢‚­‚Â‚©‚Ì–â‘è‚ª‚ ‚è‚Ü‚·B
+ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒ\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌƒRï¿½ï¿½ï¿½gï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½É’ï¿½ï¿½Ú‘ï¿½ï¿½Ý‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌƒRï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ÉˆË‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Aï¿½Vï¿½iï¿½Wï¿½[ï¿½ÆÄ—ï¿½ï¿½pï¿½É‚ï¿½ï¿½è¶ï¿½Yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã‚µï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½eï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½É‚Í‚ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ì–ï¿½ï¿½è‚ªï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 
-- ƒRƒ“ƒ|[ƒlƒ“ƒg‚ÌƒoƒO‚ð‚Ç‚Ì‚æ‚¤‚ÉC³‚µ‚Ü‚·‚©H
-- ƒRƒ“ƒ|[ƒlƒ“ƒg‚ª“Á’è‚Ìƒn[ƒhƒEƒFƒA‚Ü‚½‚Íƒ\ƒtƒgƒEƒFƒAƒVƒXƒeƒ€‚É§ŒÀ‚µ‚Ä‚¢‚Ü‚·‚©H
-- ƒRƒ“ƒ|[ƒlƒ“ƒg‚ªŠ®‘S‚ÉŽ¸”s‚µ‚½‚ç‚Ç‚¤‚µ‚Ü‚·‚©H
+- ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½Ìƒoï¿½Oï¿½ï¿½ï¿½Ç‚Ì‚æ‚¤ï¿½ÉCï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½H
+- ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒnï¿½[ï¿½hï¿½Eï¿½Fï¿½Aï¿½Ü‚ï¿½ï¿½Íƒ\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½H
+- ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ÉŽï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½H
 
-ƒRƒ“ƒ|[ƒlƒ“ƒg‚ª‰½‚ç‚©‚Ì•û–@‚ÅƒJƒvƒZƒ‹‰»‚³‚êAƒRƒ“ƒ|[ƒlƒ“ƒg‚ª•ª—£‚³‚êAƒXƒƒbƒvƒAƒEƒg‚Å‚«‚é‚æ‚¤‚É‚·‚é‚±‚Æ‚ªí‚ÉƒxƒXƒg‚Å‚·BƒRƒ“ƒ|[ƒlƒ“ƒg‚ªŠ®‘S‚É‹@”\‚µ‚È‚¢‚Æ”»–¾‚µ‚½ê‡‚ÍA•Ê‚ÌƒRƒ“ƒ|[ƒlƒ“ƒg‚ðŽè‚É“ü‚ê‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·‚ªA“ÆŽ©‚ÌƒRƒ“ƒ|[ƒlƒ“ƒg‚ðì¬‚·‚é•K—v‚ª‚ ‚è‚Ü‚·BƒJƒvƒZƒ‹‰»‚ÍˆÚA«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªAˆÚA‚ª—eˆÕ‚É‚È‚è‚Ü‚·‚ªA‚±‚ê‚Í‚Ù‚Ú“¯‚¶‚Å‚·B
+ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½Ì•ï¿½ï¿½@ï¿½ÅƒJï¿½vï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Xï¿½ï¿½ï¿½bï¿½vï¿½Aï¿½Eï¿½gï¿½Å‚ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Éƒxï¿½Xï¿½gï¿½Å‚ï¿½ï¿½Bï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½É‹@ï¿½\ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½Ê‚ÌƒRï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½ÆŽï¿½ï¿½ÌƒRï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ì¬ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ÍˆÚAï¿½ï¿½ï¿½Å‚Í‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ñ‚ªAï¿½ÚAï¿½ï¿½ï¿½eï¿½Õ‚É‚È‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Í‚Ù‚Ú“ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B
 
-ƒRƒ“ƒ|[ƒlƒ“ƒg‚Ìƒ\[ƒXƒR[ƒh‚ðŽ‚Â‚±‚Æ‚ÍAƒŠƒXƒN‚ð4”{‚ÉŒ¸­‚³‚¹‚Ü‚·Bƒ\[ƒXƒR[ƒh‚ðŽg—p‚·‚é‚ÆA‚æ‚èŠÈ’P‚É•]‰¿‚µAŠÈ’P‚ÉƒfƒoƒbƒO‚µA‰ñ”ðô‚ðŒ©‚Â‚¯‚â‚·‚­‚È‚èAC³‚ðŠÈ’P‚És‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·BC³ƒvƒƒOƒ‰ƒ€‚ðì¬‚·‚éê‡‚ÍAƒRƒ“ƒ|[ƒlƒ“ƒg‚ÌŠ—LŽÒ‚ÉC³ƒvƒƒOƒ‰ƒ€‚ð“n‚µAC³ƒvƒƒOƒ‰ƒ€‚ðŒöŽ®ƒŠƒŠ[ƒX‚É‘g‚Ýž‚Þ•K—v‚ª‚ ‚è‚Ü‚·B‚»‚êˆÈŠO‚Ìê‡‚ÍA”ñŒöŽ®‚Ìƒo[ƒWƒ‡ƒ“‚ðˆÛŽ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+ï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½Ìƒ\ï¿½[ï¿½Xï¿½Rï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Æ‚ÍAï¿½ï¿½ï¿½Xï¿½Nï¿½ï¿½4ï¿½{ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½\ï¿½[ï¿½Xï¿½Rï¿½[ï¿½hï¿½ï¿½ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½È’Pï¿½É•]ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½È’Pï¿½Éƒfï¿½oï¿½bï¿½Oï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½â‚·ï¿½ï¿½ï¿½È‚ï¿½ï¿½Aï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½È’Pï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Cï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ì¬ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½Rï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½Ìï¿½ï¿½Lï¿½Ò‚ÉCï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½Aï¿½Cï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Xï¿½É‘gï¿½Ýï¿½ï¿½Þ•Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÈŠOï¿½Ìê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒoï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÛŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 
-Next [How to Decide if Software is Too Immature](03-How to Decide if Software is Too Immature.md)
+Next [How to Decide if Software is Too Immature](03-How%20to%20Decide%20if%20Software%20is%20Too%20Immature.md)

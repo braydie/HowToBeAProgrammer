@@ -4,4 +4,4 @@ To be trusted you must be trustworthy. You must also be visible. If no one knows
 
 Don't pretend to know something that you don't. With people that are not teammates, you may have to make a clear distinction between 'not knowing right off the top of my head' and 'not being able to figure it out, ever.'
 
-Next [How to Tradeoff Time vs. Space](03-How to Tradeoff Time vs Space.md)
+Next [How to Tradeoff Time vs. Space](03-How%20to%20Tradeoff%20Time%20vs%20Space.md)

@@ -8,4 +8,4 @@ XML is a standard for defining new standards. It is not a solution to data inter
 
 SQL is a very powerful and rich data query and manipulation language that is not quite a programming language. It has many variations, typically quite product-dependent, which are less important than the standardized core. SQL is the *lingua franca* of relational databases. You may or may not work in any field that can benefit from an understanding of relational databases, but you should have a basic understanding of them and the syntax and meaning of SQL.
 
-Next [Heavy Tools](10-Heavy Tools.md)
+Next [Heavy Tools](10-Heavy%20Tools.md)

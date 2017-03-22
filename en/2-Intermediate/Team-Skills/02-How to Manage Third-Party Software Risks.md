@@ -8,4 +8,4 @@ If third-party software is not vapour, it is still risky, but at least it is a r
 
 Understanding the suitability of existing third party software for a particular purpose is very tribal knowledge. It is very subjective and generally resides in experts. You can save a lot of time if you can find those experts. Often times a project will depend on a third-party software system so completely that if the integration fails the project will fail. Express risks like that clearly in writing in the schedule. Try to have a contingency plan, such as another system that can be used or the ability to write the functionality yourself if the risk can't be removed early. Never let a schedule depend on vapour.
 
-Next [How to Manage Consultants](03-How to Manage Consultants.md)
+Next [How to Manage Consultants](03-How%20to%20Manage%20Consultants.md)

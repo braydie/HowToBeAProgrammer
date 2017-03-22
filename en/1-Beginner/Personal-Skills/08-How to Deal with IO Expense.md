@@ -10,4 +10,4 @@ Representations can often be improved by a factor of two or three from their fir
 
 A third technique that is sometimes possible is to improve the locality of reference by pushing the computation closer to the data. For instance, if you are reading some data from a database and computing something simple from it, such as a summation, try to get the database server to do it for you. This is highly dependent on the kind of system you're working with, but you should explore it.
 
-Next [How to Manage Memory](09-How to Manage Memory.md)
+Next [How to Manage Memory](09-How%20to%20Manage%20Memory.md)

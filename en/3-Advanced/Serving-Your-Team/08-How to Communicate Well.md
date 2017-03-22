@@ -8,4 +8,4 @@ The programmer brings order out of chaos. One interesting way to do this is to i
 
 I haven't mastered communicating well, but what I'm currently trying is what I think of as a four-pronged approach: After I have my ideas in order and am fully prepared, I try to speak verbally, hand people a white-paper (on real paper, as well as electronically) show them a demo, and then patiently repeat this process. I think a lot of times we are not patient enough in this kind of difficult communication. You should not be disheartened if your ideas are not immediately accepted. If you have invested energy in their preparation, no one will think poorly of you for it.
 
-Next [How to Tell People Things They Don't Want to Hear](09-How to Tell People Things They Don't Want to Hear.md)
+Next [How to Tell People Things They Don't Want to Hear](09-How%20to%20Tell%20People%20Things%20They%20Don't%20Want%20to%20Hear.md)

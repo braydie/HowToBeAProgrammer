@@ -6,4 +6,4 @@ Use assertion checking and test drivers whenever possible. This not only catches
 
 The Extreme Programming developers are writing extensively on unit testing effectively; I can do no better than to recommend their writings.
 
-Next [Take Breaks when Stumped](09-Take Breaks when Stumped.md)
+Next [Take Breaks when Stumped](09-Take%20Breaks%20when%20Stumped.md)

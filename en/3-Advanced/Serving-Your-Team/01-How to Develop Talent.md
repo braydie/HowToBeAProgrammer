@@ -20,4 +20,4 @@ It is an odd fact that is not reflected in salaries that a good programmer is mo
 
 You can often give the stronger team members challenging, but carefully delineated, tasks.
 
-Next [How to Choose What to Work On](02-How to Choose What to Work On.md)
+Next [How to Choose What to Work On](02-How%20to%20Choose%20What%20to%20Work%20On.md)

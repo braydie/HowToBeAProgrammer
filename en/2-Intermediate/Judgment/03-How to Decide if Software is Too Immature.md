@@ -15,4 +15,4 @@ Using software other people wrote is one of the most effective ways to quickly b
 
 A little consideration of these criteria demonstrates the great value of well-established free software and open-source software in reducing risk to the entrepreneur.
 
-Next [How to Make a Buy vs. Build Decision](04-How to Make a Buy vs Build Decision.md)
+Next [How to Make a Buy vs. Build Decision](04-How%20to%20Make%20a%20Buy%20vs%20Build%20Decision.md)

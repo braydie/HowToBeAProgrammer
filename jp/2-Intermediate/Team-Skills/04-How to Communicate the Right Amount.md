@@ -1,7 +1,7 @@
 # How to Communicate the Right Amount
 [//]: # (Version:1.0.0)
-Td‚É‰ï‹c”ï‚ðl—¶‚µ‚Ä‚­‚¾‚³‚¢B ‚»‚ÌŠúŠÔ‚ÉŽQ‰ÁŽÒ‚Ì”‚ðŠ|‚¯‚½*”ï—p‚ª‚©‚©‚è‚Ü‚·B ‰ï‹c‚ª•K—v‚Èê‡‚à‚ ‚è‚Ü‚·‚ªA’Êí‚Í¬‹K–Í‚Å‚·B ¬‹K–Í‚È‰ï‹c‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ÌŽ¿‚ÍŒüã‚µA‘S‘Ì“I‚É–³‘Ê‚É‚È‚éŽžŠÔ‚Í­‚È‚­‚È‚è‚Ü‚·B ‰ï‹c‚É’N‚©‚ª‘Þ‹ü‚µ‚Ä‚¢‚éê‡‚ÍA‰ï‹c‚ð¬‚³‚­‚·‚é‚×‚«‚Å‚ ‚é‚Æ‚¢‚¤’›Œó‚Æ‚µ‚Ä‚±‚ê‚ðŽæ‚éB
+ï¿½Tï¿½dï¿½É‰ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B ï¿½ï¿½ï¿½ÌŠï¿½ï¿½Ô‚ÉŽQï¿½ï¿½ï¿½Ò‚Ìï¿½ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½ï¿½*ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½Kï¿½vï¿½Èê‡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½Êï¿½ï¿½Íï¿½ï¿½Kï¿½Í‚Å‚ï¿½ï¿½B ï¿½ï¿½ï¿½Kï¿½Í‚È‰ï¿½ï¿½cï¿½Å‚ÌƒRï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ÍŒï¿½ï¿½ã‚µï¿½Aï¿½Sï¿½Ì“Iï¿½É–ï¿½ï¿½Ê‚É‚È‚éŽžï¿½Ô‚Íï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½cï¿½É’Nï¿½ï¿½ï¿½ï¿½ï¿½Þ‹ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
-”ñŒöŽ®‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ð‘£i‚·‚é‚½‚ß‚É‚ÍA‰Â”\‚ÈŒÀ‚è‚Ì‚±‚Æ‚ªs‚í‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B ‚æ‚è•Ö—˜‚Èì‹Æ‚ÍA‘¼‚ÌŽžŠÔ‚æ‚è‚à“¯—»‚Æ‚Ìƒ‰ƒ“ƒ`’†‚És‚í‚ê‚Ü‚·B ‘½‚­‚ÌŠé‹Æ‚ª‚±‚ÌŽ–ŽÀ‚ð”FŽ¯‚µ‚½‚èƒTƒ|[ƒg‚µ‚Ä‚¢‚È‚¢‚±‚Æ‚ÍŽc”O‚Å‚·B
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌƒRï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ð‘£iï¿½ï¿½ï¿½é‚½ï¿½ß‚É‚ÍAï¿½Â”\ï¿½ÈŒï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Î‚È‚ï¿½ï¿½È‚ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½Ö—ï¿½ï¿½Èï¿½ï¿½Æ‚ÍAï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ìƒï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½ÌŠï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½|ï¿½[ï¿½gï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Æ‚ÍŽcï¿½Oï¿½Å‚ï¿½ï¿½B
 
-Next [How to Disagree Honestly and Get Away with It](05-How to Disagree Honestly and Get Away with It.md)
+Next [How to Disagree Honestly and Get Away with It](05-How%20to%20Disagree%20Honestly%20and%20Get%20Away%20with%20It.md)

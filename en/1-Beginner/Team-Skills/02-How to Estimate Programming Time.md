@@ -18,4 +18,4 @@ If there are big risks that cannot be evaluated, it is your duty to state so for
 
 If you can convince your company to use *Extreme Programming*, you will only have to estimate relatively small things, and this is both more fun and more productive.
 
-Next [How to Find Out Information](03-How to Find Out Information.md)
+Next [How to Find Out Information](03-How%20to%20Find%20Out%20Information.md)

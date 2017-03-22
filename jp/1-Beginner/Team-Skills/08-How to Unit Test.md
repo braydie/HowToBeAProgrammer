@@ -1,9 +1,9 @@
 # How to Unit Test
 [//]: # (Version:1.0.0)
-’P‘ÌƒeƒXƒg‚ÍA‚»‚ê‚ð‘‚¢‚½ƒ`[ƒ€‚É‚æ‚Á‚ÄƒR[ƒh‰»‚³‚ê‚½‹@”\‚ÌŒÂX‚Ì•”•ª‚ðƒeƒXƒg‚·‚é‚±‚Æ‚ÍA‚»‚ê‚Æ‚ÍˆÙ‚È‚é‚à‚Ì‚Å‚Í‚È‚­AƒR[ƒfƒBƒ“ƒO‚Ìˆê•”‚Å‚·B ƒR[ƒh‚ÌÝŒv‚Ìˆê•”‚ÍAƒeƒXƒg‚·‚é•û–@‚ðÝŒv‚·‚é‚±‚Æ‚Å‚·B 1‚Â‚Ì•¶‚¾‚¯‚Å‚ ‚Á‚Ä‚àAƒeƒXƒgŒv‰æ‚ð‘‚«—¯‚ß‚é‚×‚«‚Å‚·B Žž‚É‚ÍƒeƒXƒg‚ªŠÈ’P‚É‚È‚éFuƒ{ƒ^ƒ“‚ÍŒ©‰h‚¦‚ª—Ç‚¢‚ÌHv Žž‚É‚Í•¡ŽG‚É‚È‚è‚Ü‚·F '‚±‚Ìƒ}ƒbƒ`ƒ“ƒOƒAƒ‹ƒSƒŠƒYƒ€‚Í³Šm‚É³‚µ‚¢ƒ}ƒbƒ`‚ð•Ô‚µ‚Ü‚µ‚½‚©H'
+ï¿½Pï¿½Ìƒeï¿½Xï¿½gï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½[ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ÄƒRï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½@ï¿½\ï¿½ÌŒÂXï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½eï¿½Xï¿½gï¿½ï¿½ï¿½é‚±ï¿½Æ‚ÍAï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÍˆÙ‚È‚ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚È‚ï¿½ï¿½Aï¿½Rï¿½[ï¿½fï¿½Bï¿½ï¿½ï¿½Oï¿½Ìˆê•”ï¿½Å‚ï¿½ï¿½B ï¿½Rï¿½[ï¿½hï¿½ÌÝŒvï¿½Ìˆê•”ï¿½ÍAï¿½eï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ÝŒvï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å‚ï¿½ï¿½B 1ï¿½Â‚Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½eï¿½Xï¿½gï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½×‚ï¿½ï¿½Å‚ï¿½ï¿½B ï¿½ï¿½ï¿½É‚Íƒeï¿½Xï¿½gï¿½ï¿½ï¿½È’Pï¿½É‚È‚ï¿½ï¿½Fï¿½uï¿½{ï¿½^ï¿½ï¿½ï¿½ÍŒï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ÌHï¿½v ï¿½ï¿½ï¿½É‚Í•ï¿½ï¿½Gï¿½É‚È‚ï¿½ï¿½Ü‚ï¿½ï¿½F 'ï¿½ï¿½ï¿½Ìƒ}ï¿½bï¿½`ï¿½ï¿½ï¿½Oï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½Íï¿½ï¿½mï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½bï¿½`ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½H'
 
-‰Â”\‚Å‚ ‚ê‚ÎAƒAƒT[ƒVƒ‡ƒ“ƒ`ƒFƒbƒN‚ÆƒeƒXƒgƒhƒ‰ƒCƒo‚ðŽg—p‚µ‚Ä‚­‚¾‚³‚¢B ‚±‚ê‚Í‘Šú‚ÉƒoƒO‚ðƒLƒƒƒbƒ`‚·‚é‚¾‚¯‚Å‚È‚­AŒã‚Å”ñí‚É•Ö—˜‚ÅA‚ ‚È‚½‚ªS”z‚·‚é•K—v‚Ì‚È‚¢ƒ~ƒXƒeƒŠ[‚ð”rœ‚µ‚Ü‚·B
+ï¿½Â”\ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÎAï¿½Aï¿½Tï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½Fï¿½bï¿½Nï¿½Æƒeï¿½Xï¿½gï¿½hï¿½ï¿½ï¿½Cï¿½oï¿½ï¿½ï¿½gï¿½pï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½Í‘ï¿½ï¿½ï¿½ï¿½Éƒoï¿½Oï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½bï¿½`ï¿½ï¿½ï¿½é‚¾ï¿½ï¿½ï¿½Å‚È‚ï¿½ï¿½Aï¿½ï¿½ï¿½Å”ï¿½ï¿½ï¿½ï¿½É•Ö—ï¿½ï¿½ÅAï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Sï¿½zï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½Ì‚È‚ï¿½ï¿½~ï¿½Xï¿½eï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 
-ƒGƒNƒXƒgƒŠ[ƒ€EƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ÌŠJ”­ŽÒ‚ÍAƒ†ƒjƒbƒgEƒeƒXƒg‚ðŒø‰Ê“I‚ÉŽÀs‚µ‚Ä‚¢‚Ü‚·B Ž„‚Í”Þ‚ç‚Ì•¶Í‚ð„‘E‚·‚é‚æ‚è‚à‚¤‚Ü‚­‚¢‚­‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+ï¿½Gï¿½Nï¿½Xï¿½gï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Eï¿½vï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½Oï¿½ÌŠJï¿½ï¿½ï¿½Ò‚ÍAï¿½ï¿½ï¿½jï¿½bï¿½gï¿½Eï¿½eï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Ê“Iï¿½ÉŽï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½Í”Þ‚ï¿½ï¿½Ì•ï¿½ï¿½Í‚ð„‘Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Í‚Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B
 
-Next [Take Breaks when Stumped](09-Take Breaks when Stumped.md)
+Next [Take Breaks when Stumped](09-Take%20Breaks%20when%20Stumped.md)

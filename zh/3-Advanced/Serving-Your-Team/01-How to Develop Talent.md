@@ -20,4 +20,4 @@ Nietschze 夸大了他所说的：
 
 你可以经常给强大的团队成员有挑战的，但细致描绘的任务。
 
-Next [如何选择工作的内容](02-How to Choose What to Work On.md)
+Next [如何选择工作的内容](02-How%20to%20Choose%20What%20to%20Work%20On.md)

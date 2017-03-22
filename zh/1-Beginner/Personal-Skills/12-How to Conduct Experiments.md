@@ -19,4 +19,4 @@
 
 第二，你会经常发现你必须设计一系列的实验，它们中的每个都基于对最后一个实验的理解。所以，你应该设计你的实验尽量去提供最多的信息。但不幸的是，这会让实验保持简单变的困难 - 你必须通过经验来提升这种权衡的能力。
 
-Next [团队技能 - 为什么评估很重要](../Team-Skills/01-Why Estimation is Important.md)
+Next [团队技能 - 为什么评估很重要](../Team-Skills/01-Why%20Estimation%20is%20Important.md)

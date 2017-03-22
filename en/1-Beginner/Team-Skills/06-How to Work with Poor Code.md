@@ -8,4 +8,4 @@ In any estimate that you make for work against code you didn't write, the qualit
 
 It is important to remember that abstraction and encapsulation, two of a programmer's best tools, are particularly applicable to lousy code. You may not be able to redesign a large block of code, but if you can add a certain amount of abstraction to it you can obtain some of the benefits of a good design without reworking the whole mess. In particular, you can try to wall off the parts that are particularly bad so that they may be redesigned independently.
 
-Next [How to Use Source Code Control](07-How to Use Source Code Control.md)
+Next [How to Use Source Code Control](07-How%20to%20Use%20Source%20Code%20Control.md)

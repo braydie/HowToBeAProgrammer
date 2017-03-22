@@ -10,4 +10,4 @@ Often, the bottlenecks in performance will be an example of counting cows by cou
 
 What do you do when you start to run out of low-hanging fruit? Well, you can reach higher, or chop the tree down. You can continue making small improvements or you can seriously redesign a system or a subsystem. (This is a great opportunity to use your skills as a good programmer, not only in the new design but also in convincing your boss that this is a good idea.) However, before you argue for the redesign of a subsystem, you should ask yourself whether or not your proposal will make it five to ten time better.
 
-Next [How to Optimize Loops](07-How to Optimize Loops.md)
+Next [How to Optimize Loops](07-How%20to%20Optimize%20Loops.md)

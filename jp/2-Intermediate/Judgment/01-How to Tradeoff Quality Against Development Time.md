@@ -1,13 +1,13 @@
 # How to Tradeoff Quality Against Development Time
 [//]: # (Version:1.0.0)
-ƒ\ƒtƒgƒEƒFƒAŠJ”­‚ÍAƒvƒƒWƒFƒNƒg‚ªs‚¤‚±‚Æ‚ÆƒvƒƒWƒFƒNƒg‚ðŠ®—¹‚³‚¹‚é‚±‚Æ‚ÌŠÔ‚Åí‚É‘Ã‹¦‚Å‚·B‚µ‚©‚µAƒGƒ“ƒWƒjƒAƒŠƒ“ƒO‚âƒrƒWƒlƒX‚ÌŠ´«‚ð‚Â‚¯‚é‚æ‚¤‚È•û–@‚ÅƒvƒƒWƒFƒNƒg‚Ì“WŠJ‚ðƒXƒs[ƒhƒAƒbƒv‚·‚é‚½‚ß‚ÉA•iŽ¿‚ðƒgƒŒ[ƒhƒIƒt‚·‚é‚æ‚¤‚É‹‚ß‚ç‚ê‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B‚½‚Æ‚¦‚ÎAƒ\ƒtƒgƒEƒFƒAƒGƒ“ƒWƒjƒAƒŠƒ“ƒO‚ÌŠµs‚ª•nŽã‚ÅAƒƒ“ƒeƒiƒ“ƒX‚Ì–â‘è‚ª‘½‚­”­¶‚·‚é‚æ‚¤‚Èì‹Æ‚ð‚·‚é‚æ‚¤‚É‹‚ß‚ç‚ê‚éê‡‚ª‚ ‚è‚Ü‚·B
+ï¿½\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½Jï¿½ï¿½ï¿½ÍAï¿½vï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Æƒvï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ÌŠÔ‚Åï¿½ï¿½É‘Ã‹ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Gï¿½ï¿½ï¿½Wï¿½jï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½rï¿½Wï¿½lï¿½Xï¿½ÌŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½È•ï¿½ï¿½@ï¿½Åƒvï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½Ì“Wï¿½Jï¿½ï¿½ï¿½Xï¿½sï¿½[ï¿½hï¿½Aï¿½bï¿½vï¿½ï¿½ï¿½é‚½ï¿½ß‚ÉAï¿½iï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½[ï¿½hï¿½Iï¿½tï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‹ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÎAï¿½\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½Gï¿½ï¿½ï¿½Wï¿½jï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ÌŠï¿½ï¿½sï¿½ï¿½ï¿½nï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½eï¿½iï¿½ï¿½ï¿½Xï¿½Ì–ï¿½ï¿½è‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‹ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 
-‚±‚ê‚ª‹N‚«‚½ê‡‚ÍA‚Ü‚¸ƒ`[ƒ€‚É’m‚ç‚¹A•iŽ¿’á‰º‚ÌƒRƒXƒg‚ð–¾Šm‚Éà–¾‚·‚é‚±‚Æ‚Å‚·BŒ‹‹Ç‚Ì‚Æ‚±‚ëA‚ ‚È‚½‚Ì—‰ð‚Í‚ ‚È‚½‚ÌãŽi‚Ì—‰ð‚æ‚è‚Í‚é‚©‚É—Ç‚¢‚Í‚¸‚Å‚·B‰½‚ªŽ¸‚í‚ê‚Ä‚¢‚é‚Ì‚©A‰½‚ª“¾‚ç‚ê‚Ä‚¢‚é‚Ì‚©‚ð–¾Šm‚É‚µAŽŸ‚ÌƒTƒCƒNƒ‹‚ÅŽ¸‚í‚ê‚½’n–Ê‚ð‚Ç‚Ì‚æ‚¤‚ÈƒRƒXƒg‚ÅŽæ‚è–ß‚·‚Ì‚Å‚µ‚å‚¤‚©B‚±‚Ì’†‚ÅA—Ç‚¢ƒvƒƒWƒFƒNƒgŒv‰æ‚ª’ñ‹Ÿ‚·‚é‰ÂŽ‹«‚ª–ð—§‚Â‚Í‚¸‚Å‚·B•iŽ¿‚ÌƒgƒŒ[ƒhƒIƒt‚ª•iŽ¿•ÛØ‚Ì“w—Í‚É‰e‹¿‚ð‹y‚Ú‚·ê‡‚ÍA‚»‚ê‚ðŽw“E‚µ‚Ä‚­‚¾‚³‚¢iãŽi‚Æ•iŽ¿•ÛØ’S“–ŽÒ‚Ì—¼•û‚ÉjB•iŽ¿‚ÌƒgƒŒ[ƒhƒIƒt‚ª•iŽ¿•ÛØŠúŠÔŒã‚É•ñ‚³‚ê‚éƒoƒO‚ð‘‚â‚·ê‡‚ÍA‚»‚ê‚ðŽw“E‚µ‚Ä‚­‚¾‚³‚¢B
+ï¿½ï¿½ï¿½ê‚ªï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½Ü‚ï¿½ï¿½`ï¿½[ï¿½ï¿½ï¿½É’mï¿½ç‚¹ï¿½Aï¿½iï¿½ï¿½ï¿½á‰ºï¿½ÌƒRï¿½Xï¿½gï¿½ð–¾Šmï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ç‚Ì‚Æ‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì—ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½Ìï¿½ï¿½iï¿½Ì—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚é‚©ï¿½É—Ç‚ï¿½ï¿½Í‚ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ð–¾Šmï¿½É‚ï¿½ï¿½Aï¿½ï¿½ï¿½ÌƒTï¿½Cï¿½Nï¿½ï¿½ï¿½ÅŽï¿½ï¿½ï¿½ï¿½ê‚½ï¿½nï¿½Ê‚ï¿½ï¿½Ç‚Ì‚æ‚¤ï¿½ÈƒRï¿½Xï¿½gï¿½ÅŽï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ì‚Å‚ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì’ï¿½ï¿½ÅAï¿½Ç‚ï¿½ï¿½vï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½vï¿½æ‚ªï¿½ñ‹Ÿ‚ï¿½ï¿½ï¿½ï¿½ÂŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ð—§‚Â‚Í‚ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½iï¿½ï¿½ï¿½Ìƒgï¿½ï¿½ï¿½[ï¿½hï¿½Iï¿½tï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ÛØ‚Ì“wï¿½Í‚É‰eï¿½ï¿½ï¿½ï¿½ï¿½yï¿½Ú‚ï¿½ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Eï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½iï¿½Æ•iï¿½ï¿½ï¿½ÛØ’Sï¿½ï¿½ï¿½Ò‚Ì—ï¿½ï¿½ï¿½ï¿½Éjï¿½Bï¿½iï¿½ï¿½ï¿½Ìƒgï¿½ï¿½ï¿½[ï¿½hï¿½Iï¿½tï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ÛØŠï¿½ï¿½ÔŒï¿½ï¿½É•ñ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Oï¿½ð‘‚â‚·ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Eï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
-”Þ—‚ª‚Ü‚¾Žå’£‚µ‚Ä‚¢‚é‚È‚çAŽŸ‚ÌƒTƒCƒNƒ‹‚Å‘‚«’¼‚µ‚â‰ü‘P‚ðŒv‰æ‚·‚é‚±‚Æ‚ª‚Å‚«‚é“Á’è‚ÌƒRƒ“ƒ|[ƒlƒ“ƒg‚É•sŽ©—R‚³‚ð•ª—£‚µ‚æ‚¤‚Æ‚·‚é‚×‚«‚Å‚·B‚±‚ê‚ð‚ ‚È‚½‚Ìƒ`[ƒ€‚Éà–¾‚µAŒv‰æ‚ð—§‚Ä‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+ï¿½Þï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å’£ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½ÌƒTï¿½Cï¿½Nï¿½ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Pï¿½ï¿½ï¿½vï¿½æ‚·ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌƒRï¿½ï¿½ï¿½|ï¿½[ï¿½lï¿½ï¿½ï¿½gï¿½É•sï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½ð•ª—ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½×‚ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ìƒ`ï¿½[ï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½vï¿½ï¿½ï¿½ð—§‚Ä‚é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B
 
-Slashdot‚ÌNinjaProgrammer‚ª‚±‚Ì•óÎ‚ð‘—‚Á‚½F
+Slashdotï¿½ï¿½NinjaProgrammerï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½Î‚ð‘—‚ï¿½ï¿½ï¿½ï¿½F
 
->—D‚ê‚½ÝŒv‚ÍA•nŽã‚ÈƒR[ƒhŽÀ‘•‚É‘Î‚µ‚Ä‰ñ•œ‚·‚é‚±‚Æ‚ð–Y‚ê‚È‚¢‚Å‚­‚¾‚³‚¢BƒR[ƒh‘S‘Ì‚Å—ÇD‚ÈƒCƒ“ƒ^ƒtƒF[ƒX‚Æ’ŠÛŠT”O‚ª‘¶Ý‚·‚éê‡AÅI“I‚È‘‚«Š·‚¦‚Í‚Í‚é‚©‚É–³’É‚É‚È‚è‚Ü‚·BC³‚ª“ï‚µ‚¢–¾Šm‚ÈƒR[ƒh‚ð‘‚­‚Ì‚ª“ï‚µ‚¢ê‡‚ÍA‚±‚ê‚ðˆø‚«‹N‚±‚µ‚Ä‚¢‚éƒRƒAƒfƒUƒCƒ“‚É‰½‚ª–â‘è‚È‚Ì‚©‚ðŒŸ“¢‚µ‚Ä‚­‚¾‚³‚¢B
+>ï¿½Dï¿½ê‚½ï¿½ÝŒvï¿½ÍAï¿½nï¿½ï¿½ï¿½ÈƒRï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½É‘Î‚ï¿½ï¿½Ä‰ñ•œ‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Yï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Rï¿½[ï¿½hï¿½Sï¿½Ì‚Å—ÇDï¿½ÈƒCï¿½ï¿½ï¿½^ï¿½tï¿½Fï¿½[ï¿½Xï¿½Æ’ï¿½ï¿½ÛŠTï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½Aï¿½ÅIï¿½Iï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚Í‚é‚©ï¿½É–ï¿½ï¿½É‚É‚È‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï‚µï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ÈƒRï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï‚µï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Rï¿½Aï¿½fï¿½Uï¿½Cï¿½ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
-Next [How to Manage Software Dependence](02-How to Manage Software System Dependence.md)
+Next [How to Manage Software Dependence](02-How%20to%20Manage%20Software%20System%20Dependence.md)

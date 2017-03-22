@@ -6,4 +6,4 @@
 
 如果咨询师要写代码，你必须在你使用它们前仔细 review。有着大段带风险而没有被 review 的代码，会让你完成不了工程。事实上这对所有的团队成员都是成立的，但你通常有更多与你接近的团队成员的知识。
 
-Next [如何适量交流](04-How to Communicate the Right Amount.md)
+Next [如何适量交流](04-How%20to%20Communicate%20the%20Right%20Amount.md)

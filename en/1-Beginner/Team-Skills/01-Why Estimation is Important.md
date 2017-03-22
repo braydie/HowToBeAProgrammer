@@ -12,4 +12,4 @@ really means:
 
 This common interpretation problem requires that you explicitly discuss what the estimate means with your boss or customer as if they were a simpleton. Restate your assumptions, no matter how obvious they seem to you.
 
-Next [How to Estimate Programming Time](02-How to Estimate Programming Time.md)
+Next [How to Estimate Programming Time](02-How%20to%20Estimate%20Programming%20Time.md)

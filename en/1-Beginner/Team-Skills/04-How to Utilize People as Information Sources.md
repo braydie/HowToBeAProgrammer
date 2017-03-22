@@ -12,4 +12,4 @@ A strange example of this is the summer intern. A summer intern in a highly tech
 
 You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say. This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it. I once asked to listen in on a few sales calls to better understand the job of our sales staff. This took no more than 30 minutes but I think that small effort made an impression on the sales force.
 
-Next [How to Document Wisely](05-How to Document Wisely.md)
+Next [How to Document Wisely](05-How%20to%20Document%20Wisely.md)

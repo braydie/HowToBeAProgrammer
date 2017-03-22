@@ -10,4 +10,4 @@ NinjaProgrammer at Slashdot sent in this gem:
 
 > Remember that a good design will be resilient against poor code implementations. If good interfaces and abstractions exist throughout the code, then the eventual rewrites will be far more painless. If it is hard to write clear code that is hard to fix, consider what is wrong with the core design that is causing this.
 
-Next [How to Manage Software Dependence](02-How to Manage Software System Dependence.md)
+Next [How to Manage Software Dependence](02-How%20to%20Manage%20Software%20System%20Dependence.md)

@@ -12,4 +12,4 @@ A reader has had good luck using a ‘take-home’ test for interviewees. This h
 
 Finally, interviewing is also a process of selling. You should be selling your company or project to the candidate. However, you are talking to a programmer, so don't try to colour the truth. Start off with the bad stuff, then finish strong with the good stuff.
 
-Next [How to Know When to Apply Fancy Computer Science](07-How to Know When to Apply Fancy Computer Science.md)
+Next [How to Know When to Apply Fancy Computer Science](07-How%20to%20Know%20When%20to%20Apply%20Fancy%20Computer%20Science.md)

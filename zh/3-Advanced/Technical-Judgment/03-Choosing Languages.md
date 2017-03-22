@@ -12,4 +12,4 @@
 
 这些效应可能有些只是心理上的，但心理上的东西也很重要。最后要说的是，语言暴政的代价超过了它能提供的所有好处。
 
-Next [明智地妥协 - 如何与时间压力斗争](../Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+Next [明智地妥协 - 如何与时间压力斗争](../Compromising-Wisely/01-How%20to%20Fight%20Schedule%20Pressure.md)

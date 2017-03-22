@@ -17,4 +17,4 @@
 - 为读者考虑，把你珍贵的时间花在让她更加容易阅读的事情上,并且
 - 永远不要使用这样的函数名比如 `foo`,`bar`, 或 `doIt`!
 
-Next [如何在糟糕的代码上工作](06-How to Work with Poor Code.md)
+Next [如何在糟糕的代码上工作](06-How%20to%20Work%20with%20Poor%20Code.md)

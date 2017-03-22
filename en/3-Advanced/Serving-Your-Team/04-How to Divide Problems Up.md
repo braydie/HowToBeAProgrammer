@@ -6,4 +6,4 @@ Just as a composer considers the timbre of the instrument that will play a part 
 
 There is a certain danger in this given that people will become bored as they build upon their strengths and never improve their weaknesses or learn new skills. However, specialization is a very useful productivity tool when not overused.
 
-Next [How to Handle Boring Tasks](05-How to Handle Boring Tasks.md)
+Next [How to Handle Boring Tasks](05-How%20to%20Handle%20Boring%20Tasks.md)

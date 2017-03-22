@@ -15,4 +15,4 @@
 
 对这些标准的一点考虑论证了良好构建的自由软件和开源软件在减小企业家风险上的巨大价值
 
-Next [如何做一个购买或构建决定](04-How to Make a Buy vs Build Decision.md)
+Next [如何做一个购买或构建决定](04-How%20to%20Make%20a%20Buy%20vs%20Build%20Decision.md)

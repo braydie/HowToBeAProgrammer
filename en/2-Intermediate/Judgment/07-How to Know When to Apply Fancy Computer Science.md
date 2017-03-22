@@ -12,4 +12,4 @@ The three most important considerations for the potential computer science techn
 
 If a well-isolated algorithm that uses a slightly fancy algorithm can decrease hardware cost or increase performance by a factor of two across an entire system, then it would be criminal not to consider it. One of the keys to arguing for such an approach is to show that the risk is really quite low, since the proposed technology has probably been well studied, the only issue is the risk of integration. Here a programmer's experience and judgement can truly synergize with the fancy technology to make integration easy.
 
-Next [How to Talk to Non-Engineers](08-How to Talk to Non-Engineers.md)
+Next [How to Talk to Non-Engineers](08-How%20to%20Talk%20to%20Non-Engineers.md)

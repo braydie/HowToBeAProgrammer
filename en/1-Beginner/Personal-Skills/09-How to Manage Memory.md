@@ -12,4 +12,4 @@ An important case occurs when you can define an upper bound on the number of obj
 
 Sometimes you have to explicitly free allocated space so it can be reallocated rather than rely on garbage collection. Then you must apply careful intelligence to each chunk of allocated memory and design a way for it to be deallocated at the appropriate time. The method may differ for each kind of object you create. You must make sure that every execution of a memory allocating operation is matched by a memory deallocating operation eventually. This is so difficult that programmers often simply implement a rudimentary form of garbage collection, such as reference counting, to do this for them.
 
-Next [How to Deal with Intermittent Bugs](10-How to Deal with Intermittent Bugs.md)
+Next [How to Deal with Intermittent Bugs](10-How%20to%20Deal%20with%20Intermittent%20Bugs.md)
