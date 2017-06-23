@@ -75,7 +75,7 @@ Welcome to the tribe.
 		- [How to Manage Software System Dependence](en/2-Intermediate/Judgment/02-How%20to%20Manage%20Software%20System%20Dependence.md)
 		- [How to Decide if Software is Too Immature](en/2-Intermediate/Judgment/03-How%20to%20Decide%20if%20Software%20is%20Too%20Immature.md)
 		- [How to Make a Buy vs. Build Decision](en/2-Intermediate/Judgment/04-How%20to%20Make%20a%20Buy%20vs%20Build%20Decision.md)
-		- [How to Grow Professionally](en/2-Intermediate/Judgment/05-How%20to%20Grow%20zProfessionally.md)
+		- [How to Grow Professionally](en/2-Intermediate/Judgment/05-How%20to%20Grow%20Professionally.md)
 		- [How to Evaluate Interviewees](en/2-Intermediate/Judgment/06-How%20to%20Evaluate%20Interviewees.md)
 		- [How to Know When to Apply Fancy Computer Science](en/2-Intermediate/Judgment/07-How%20to%20Know%20When%20to%20Apply%20Fancy%20Computer%20Science.md)
 		- [How to Talk to Non-Engineers](en/2-Intermediate/Judgment/08-How%20to%20Talk%20to%20Non-Engineers.md)
