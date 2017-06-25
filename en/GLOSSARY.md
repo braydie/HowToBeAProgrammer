@@ -46,10 +46,6 @@ A group of people organized for making money.
 
 A group of people organized for making money.
 
-### tribe
-
-A group of people you share cultural affinity and loyalty with.
-
 ### scroll blindness
 
 The effect of being unable to find information you need because it is buried in too much other, less interesting information.
