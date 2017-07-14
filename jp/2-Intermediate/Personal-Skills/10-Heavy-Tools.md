@@ -11,4 +11,4 @@
 - XML�p�[�T�[�A
 - �X�v���b�h�V�[�g�B
 
-Next [How to analyze data](11-How%20to%20analyze%20data.md)
+Next [How to analyze data](11-How-to-analyze-data.md)

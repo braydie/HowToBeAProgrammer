@@ -8,4 +8,4 @@ I and many other programmers have fallen into the trap of creating special purpo
 
 The real question to ask oneself before embedding a language is: Does this work with or against the culture of my audience? If you intended audience is exclusively non-programmers, how will it help? If your intended audience is exclusively programmers, would they prefer an applications programmers interface (API)? And what language will it be? Programmers don't want to learn a new language that is narrowly used; but if it meshes with their culture they will not have to spend much time learning it. It is a joy to create a new language. But we should not let that blind us to the needs of the user. Unless you have some truly original needs and ideas, why not use an existing language so that you can leverage the familiarity users already have with it?
 
-Next [Choosing Languages](03-Choosing%20Languages.md)
+Next [Choosing Languages](03-Choosing-Languages.md)

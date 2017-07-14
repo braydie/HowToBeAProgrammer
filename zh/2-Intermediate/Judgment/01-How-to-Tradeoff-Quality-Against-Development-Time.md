@@ -10,4 +10,4 @@
 
 > 记住，一个好的设计会被糟糕的代码实现弹回。如果好的接口和抽象在代码中到处存在，最后的重写会更加痛苦。如果写难以修复的清晰代码很困难，考虑是什么与核心设计冲突的东西导致了这个问题。
 
-Next [如何管理软件依赖](02-How%20to%20Manage%20Software%20System%20Dependence.md)
+Next [如何管理软件依赖](02-How-to-Manage-Software-System-Dependence.md)

@@ -4,4 +4,4 @@
 
 ���Ȃ������Ȃ����Ƃ��m���Ă����ӂ������Ȃ��ł��������B �`�[�����[�g�ł͂Ȃ��l�����ɂ́A�u���̓��̏ォ���E�ɕ������Ȃ��v�Ɓu���������߂邱�Ƃ��ł��Ȃ��v�Ƃ̖��m�ȋ��ʂ����Ȃ����΂Ȃ��Ȃ����������܂����B
 
-Next [How to Tradeoff Time vs. Space](03-How%20to%20Tradeoff%20Time%20vs%20Space.md)
+Next [How to Tradeoff Time vs. Space](03-How-to-Tradeoff-Time-vs-Space.md)

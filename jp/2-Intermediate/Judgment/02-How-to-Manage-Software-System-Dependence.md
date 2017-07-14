@@ -10,4 +10,4 @@
 
 �R���|�[�l���g�̃\�[�X�R�[�h�������Ƃ́A���X�N��4�{�Ɍ��������܂��B�\�[�X�R�[�h���g�p�����ƁA�����ȒP�ɕ]�����A�ȒP�Ƀf�o�b�O���A�������������₷���Ȃ��A�C�����ȒP�ɍs�����Ƃ��ł��܂��B�C���v���O�������쐬�����ꍇ�́A�R���|�[�l���g�̏��L�҂ɏC���v���O�������n���A�C���v���O���������������[�X�ɑg�ݍ��ޕK�v�������܂��B�����ȊO�̏ꍇ�́A�������̃o�[�W�������ێ������K�v�������܂��B
 
-Next [How to Decide if Software is Too Immature](03-How%20to%20Decide%20if%20Software%20is%20Too%20Immature.md)
+Next [How to Decide if Software is Too Immature](03-How-to-Decide-if-Software-is-Too-Immature.md)

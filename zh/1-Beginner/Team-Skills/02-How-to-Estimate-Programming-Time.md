@@ -18,4 +18,4 @@
 
 如果你可以说服你的公司去使用*极限编程*,你只需要评估相当小的事情，这也是更加有趣和有效率的。
 
-Next [如何发现信息](03-How%20to%20Find%20Out%20Information.md)
+Next [如何发现信息](03-How-to-Find-Out-Information.md)

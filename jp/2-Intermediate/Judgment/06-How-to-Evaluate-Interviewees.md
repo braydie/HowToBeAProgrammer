@@ -12,4 +12,4 @@
 
 �Ō��ɁA�C���^�r���[�͔̔��̃v���Z�X�ł������܂��B�����҂ɂ��Ȃ��̉��Ђ��v���W�F�N�g�𔄂��Ă����͂��ł��B�������A���Ȃ��̓v���O���}�Ƙb���Ă����̂ŁA�^�����F�Â����悤�Ƃ��Ȃ��ł��������B�������̂����n�߂āA���ɗǂ����̂ŋ����d�グ�Ă��������B
 
-Next [How to Know When to Apply Fancy Computer Science](07-How%20to%20Know%20When%20to%20Apply%20Fancy%20Computer%20Science.md)
+Next [How to Know When to Apply Fancy Computer Science](07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)

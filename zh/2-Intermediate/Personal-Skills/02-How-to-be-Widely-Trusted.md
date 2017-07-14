@@ -4,4 +4,4 @@
 
 不要不懂装懂。与队友以外的人一起时，你必须清除地区分“当下在我脑子里不懂的东西”以及“我曾经没有认识到的东西”。
 
-Next [如何在时间和空间权衡](03-How%20to%20Tradeoff%20Time%20vs%20Space.md)
+Next [如何在时间和空间权衡](03-How-to-Tradeoff-Time-vs-Space.md)

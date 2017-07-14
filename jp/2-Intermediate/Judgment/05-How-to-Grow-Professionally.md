@@ -8,4 +8,4 @@
 
 �V�����\�t�g�E�F�A�V�X�e�����w�Ԃ��Ƃ̂悤�ȁA���ׂȋZ�p�I�Ȃ��̂ł��A���Ȃ��̎d���ɂ������𓝍����邱�Ƃɂ����āA���܂������悤�ȃn�[�h�ȎЉ��I�Ȃ��̂ł��A�V�����X�L�����w�ԕ��@���v�悷���B
 
-Next [How to Evaluate Interviewees](06-How%20to%20Evaluate%20Interviewees.md)
+Next [How to Evaluate Interviewees](06-How-to-Evaluate-Interviewees.md)

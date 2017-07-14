@@ -20,4 +20,4 @@
 
 �ǂ����ɕԐM���邱�Ƃ��ł��܂����H* Fiat lux *�I
 
-Next [How to Communicate Well](08-How%20to%20Communicate%20Well.md)
+Next [How to Communicate Well](08-How-to-Communicate-Well.md)

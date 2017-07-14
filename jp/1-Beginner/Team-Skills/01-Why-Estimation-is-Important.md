@@ -12,4 +12,4 @@
 
 ���̈��ʓI�ȉ��߂̖����ł́A���i���ڋq�ƌ��ς��肪�����Ӗ������̂����A�V���v�g���̂悤�ɖ����I�ɋc�_�����K�v�������܂��B�ނ炪���Ȃ��ɂǂ̂悤�Ɍ����邩�ɂ������炸�A���Ȃ��̑O�����čl���Ă��������B
 
-Next [How to Estimate Programming Time](02-How%20to%20Estimate%20Programming%20Time.md)
+Next [How to Estimate Programming Time](02-How-to-Estimate-Programming-Time.md)

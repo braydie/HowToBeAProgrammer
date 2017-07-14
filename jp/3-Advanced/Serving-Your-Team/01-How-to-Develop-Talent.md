@@ -20,4 +20,4 @@ Nietschze�͔ނ�[Stronger]�ƌ������Ƃ��Ɍ֒������
 
 ���Ȃ��͂��΂��΁A���苭���`�[�������o�[�ɒ����I�ł����A���Ӑ[���`���ꂽ�^�X�N���^���邱�Ƃ��ł��܂��B
 
-Next [How to Choose What to Work On](02-How%20to%20Choose%20What%20to%20Work%20On.md)
+Next [How to Choose What to Work On](02-How-to-Choose-What-to-Work-On.md)

@@ -10,4 +10,4 @@ Slashdot��NinjaProgrammer�����̕��΂𑗂����F
 
 >�D�ꂽ�݌v�́A�n���ȃR�[�h�����ɑ΂��ĉ񕜂��邱�Ƃ��Y���Ȃ��ł��������B�R�[�h�S�̂ŗǍD�ȃC���^�t�F�[�X�ƒ��ۊT�O�����݂����ꍇ�A�ŏI�I�ȏ��������͂͂邩�ɖ��ɂɂȂ��܂��B�C����������m�ȃR�[�h�������̂�����ꍇ�́A�����������N�����Ă����R�A�f�U�C���ɉ��������Ȃ̂����������Ă��������B
 
-Next [How to Manage Software Dependence](02-How%20to%20Manage%20Software%20System%20Dependence.md)
+Next [How to Manage Software Dependence](02-How-to-Manage-Software-System-Dependence.md)

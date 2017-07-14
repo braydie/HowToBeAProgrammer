@@ -6,4 +6,4 @@ The best way to tell someone about a problem is to offer a solution at the same 
 
 One of the most unpleasant and common things you will have to say is, ‘The schedule will have to slip.’ The conscientious programmer hates to say this, but must say it as early as possible. There is nothing worse than postponing action when a milestone slips, even if the only action is to inform everyone. In doing this, it is better to do it as a team, at least in spirit, if not physically. You will want your team's input on both where you stand and what can be done about it, and the team will have to face the consequences with you.
 
-Next [How to Deal with Managerial Myths](10-How%20to%20Deal%20with%20Managerial%20Myths.md)
+Next [How to Deal with Managerial Myths](10-How-to-Deal-with-Managerial-Myths.md)

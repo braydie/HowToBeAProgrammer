@@ -12,4 +12,4 @@
 
 �ґ��ł͂Ȃ��p�ɂɏ܎^���Ă��������B���ɂ��Ȃ����܎^�����鎞�ɂ��Ȃ��ɓ��ӂ��Ȃ��l���܎^���܂��B���Ɏ^�����A���I�ɔᔻ�����B 1�̗��O�������āF���ɂ͐����⎸�s�̐����͌��̌��ׂɒp�����������ӂ��������ƂȂ��܎^���邱�Ƃ��ł��Ȃ��̂ŁA�����̓v���C�x�[�g�ŏ܎^�������ׂ��ł��B
 
-Next [How to Divide Problems Up](04-How%20to%20Divide%20Problems%20Up.md)
+Next [How to Divide Problems Up](04-How-to-Divide-Problems-Up.md)

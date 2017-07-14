@@ -18,4 +18,4 @@
 
 �������̏��S�҂́A�R�[�h���ύX�����K�v�������Ƃ��Ƀf�o�b�O�������Ă��܂��B�����͗����ł��� - �����͒T���I���p�̂悤�Ȃ��̂ł��B�������A���Ȃ��̓R�[�h���˂��h���ăW�����v�����邱�Ƃ��w�΂Ȃ����΂Ȃ��܂����B���Ȃ��͂����������āA���Ȃ����ꎞ�I�ɍs�����Ƃ͂������������������͉̂����Ȃ����Ƃ𗝉����邱�Ƃ��w�΂Ȃ����΂Ȃ��܂����B���̋��|���������ꍇ�́A�����^�[���T���Ă��������B���̋��|�ւ̕q���Ȏn�܂��ŁA�����̗D�ꂽ�v���O���}�[�������܂��B
 
-Next [How to Debug by Splitting the Problem Space](02-How%20to%20Debug%20by%20Splitting%20the%20Problem%20Space.md)
+Next [How to Debug by Splitting the Problem Space](02-How-to-Debug-by-Splitting-the-Problem-Space.md)

@@ -10,4 +10,4 @@ Try to get your boss to let you have formal training, but understand that it is 
 
 If you lead people, understand how they learn and assist them by assigning them projects that are the right size and that exercise skills they are interested in. Don't forget that the most important skills for a programmer are not the technical ones. Give your people a chance to play and practice courage, honesty, and communication.
 
-Next [Learn to Type](07-Learn%20to%20Type.md)
+Next [Learn to Type](07-Learn-to-Type.md)

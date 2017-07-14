@@ -4,4 +4,4 @@
 
 如果所有其他的途径都不能工作，为那些必须做这个无聊任务的人道歉，但无论什么情况，不要让他们去单独完成它。至少安排一个两人团队去做这个事情，并增强健康的团队协作来完成这个任务。
 
-Next [如何为工程获取支持](06-How%20to%20Gather%20Support%20for%20a%20Project.md)
+Next [如何为工程获取支持](06-How-to-Gather-Support-for-a-Project.md)

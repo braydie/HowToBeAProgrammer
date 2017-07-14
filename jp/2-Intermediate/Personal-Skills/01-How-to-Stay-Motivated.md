@@ -12,4 +12,4 @@
 
 �Ō��ɁA�\�ł����΁A�����̎d���̉e�����A�l�I�ɓ��@�t�����������̂Ƃ��đ��肵�܂��B���Ƃ��΁A�o�O���C�������Ƃ��A�����C�������o�O�̐����J�E���g���邱�Ƃ́A���ꂪ�܂����݂��邩�������Ȃ����Ƃ͖��֌W�ł����A���̉��Љ\�Ȍ��菬���ȕ��@�ł��q�l�ɒ񋟂��܂��B�������A���ꂼ���̃o�O���K���Ȍڋq�Ɍ��ѕt���邱�Ƃ́A���̌l�I�ȓ��@�ł��B
 
-Next [How to be Widely Trusted](02-How%20to%20be%20Widely%20Trusted.md)
+Next [How to be Widely Trusted](02-How-to-be-Widely-Trusted.md)

@@ -11,4 +11,4 @@
 
 这个常见的解读问题需要你与你的 boss 和客户明确地讨论（就好像把他们当做傻子那样）。重新阐述你的解释，不管对你来讲它们有多么显而易见。
 
-Next [如何估计编程时间](02-How%20to%20Estimate%20Programming%20Time.md)
+Next [如何估计编程时间](02-How-to-Estimate-Programming-Time.md)

@@ -4,4 +4,4 @@ Carefully consider the cost of a meeting; it costs *its duration multiplied by t
 
 Everything possible should be done to encourage informal communication. More useful work is done during lunches with colleagues than during any other time. It is a shame that more companies do not recognize nor support this fact.
 
-Next [How to Disagree Honestly and Get Away with It](05-How%20to%20Disagree%20Honestly%20and%20Get%20Away%20with%20It.md)
+Next [How to Disagree Honestly and Get Away with It](05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)

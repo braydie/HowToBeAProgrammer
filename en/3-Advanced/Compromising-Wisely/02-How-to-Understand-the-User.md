@@ -14,4 +14,4 @@ Guy Kawasaki [Rules] has emphasized the importance of *watching* what your users
 
 I believe contractors and consultants often have tremendous problems getting their clients to clarify in their own minds what they really want. If you intend to be a consultant, I suggest you choose your clients based on their clear-headedness as well as their pocketbooks.
 
-Next [How to Get a Promotion](03-How%20to%20Get%20a%20Promotion.md)
+Next [How to Get a Promotion](03-How-to-Get-a-Promotion.md)

@@ -16,4 +16,4 @@
 
 ���Ȃ����r�W�l�X���n�߂Ȃ����΂Ȃ��Ȃ����ǂ��������Ȃ��������l���邱�Ƃ��ł����悤��*�l�I�Ȍ������������̂ł����΁A���̃A�C�f�B�A�ɑ΂����c�_�̃��X�g�������Ă݂Ă��������B���ꂪ���s�����΁A�肢���l���Ă��������B���ׂĂ̊p�x�����A�C�f�A���w�сA���Ȃ��̏h�������ׂďI���āA���Ȃ��̐S�̒��ł��ׂĂ̌��ʂƒ����ƒZ�������菜�������A�ˑR�Ƃ��ĞB���Ȃ܂܂ł����Ƃ��܂��B���Ȃ��͍����Ȃ��̐S�ɏ]���āA���Ȃ��̔]�ɖق��悤�Ɍ����Ȃ����΂Ȃ��܂����B���p�\�Ȑ肢�̋Z�@�̑����́A���Ȃ��̐��݈ӎ����Ӗ������蓖�Ă銮�S�Ȃ����܂��Ń����_���ȃp�^�[�����񎦂����̂ŁA�����̔��ӎ��I�ȗ~�]�𔻒f�����̂ɔ����ɖ𗧂��܂��B
 
-Next [How to Utilize People as Information Sources](04-How%20to%20Utilize%20People%20as%20Information%20Sources.md)
+Next [How to Utilize People as Information Sources](04-How-to-Utilize-People-as-Information-Sources.md)

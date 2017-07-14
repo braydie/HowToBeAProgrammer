@@ -10,4 +10,4 @@
 
 如果你有一个永久的日志，printling 现在可以用日志的形式来完成，并且一些调试语句可能会永久地加入日志系统。
 
-Next [如何理解性能问题](05-How%20to%20Understand%20Performance%20Problems.md)
+Next [如何理解性能问题](05-How-to-Understand-Performance-Problems.md)

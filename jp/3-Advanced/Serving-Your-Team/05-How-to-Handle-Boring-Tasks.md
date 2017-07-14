@@ -4,4 +4,4 @@
 
 ���̂��ׂĂ����s�����ꍇ�́A�ދ��ȍ��Ƃ����Ȃ����΂Ȃ��Ȃ��l�ɂ͎Ӎ߂��܂����A�����Ĉ��l�ōs�����Ƃ͂ł��܂����B �Œ��ł�2�l�̃`�[�������蓖�ĂāA���Ƃ��s���A���S�ȃ`�[�����[�N�𑣐i���ă^�X�N�����������܂��B
 
-Next [How to Gather Support for a Project](06-How%20to%20Gather%20Support%20for%20a%20Project.md)
+Next [How to Gather Support for a Project](06-How-to-Gather-Support-for-a-Project.md)

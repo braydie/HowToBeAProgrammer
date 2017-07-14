@@ -15,4 +15,4 @@
 
 �������̊�������l�������΁A�N�ƉƂ̃��X�N���팸���邽�߂̏\���Ɋm�����ꂽ�t���[�\�t�g�E�F�A�ƃI�[�v���\�[�X�\�t�g�E�F�A�̑傫�ȉ��l���ؖ������܂��B
 
-Next [How to Make a Buy vs. Build Decision](04-How%20to%20Make%20a%20Buy%20vs%20Build%20Decision.md)
+Next [How to Make a Buy vs. Build Decision](04-How-to-Make-a-Buy-vs-Build-Decision.md)

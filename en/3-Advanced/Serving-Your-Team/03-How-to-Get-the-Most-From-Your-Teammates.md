@@ -12,4 +12,4 @@ Ask your team, both as a group and individually, what they think would create te
 
 Praise frequently rather than lavishly. Especially praise those who disagree with you when they are praiseworthy. Praise in public and criticize in private; with one exception: sometimes growth or the correction of a fault can't be praised without drawing embarrassing attention to the original fault, so that growth should be praised in private.
 
-Next [How to Divide Problems Up](04-How%20to%20Divide%20Problems%20Up.md)
+Next [How to Divide Problems Up](04-How-to-Divide-Problems-Up.md)

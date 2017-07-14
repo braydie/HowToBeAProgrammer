@@ -6,4 +6,4 @@ However, they usually cannot become part of the team in the same sense that regu
 
 If consultants are going to write code, you must review it carefully as you go along. You cannot get to the end of the a project with the risk of a large block of code that has not been reviewed. This is true of all team members, really, but you will usually have more knowledge of the team members closer to you.
 
-Next [How to Communicate the Right Amount](04-How%20to%20Communicate%20the%20Right%20Amount.md)
+Next [How to Communicate the Right Amount](04-How-to-Communicate-the-Right-Amount.md)

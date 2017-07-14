@@ -6,4 +6,4 @@ In fixing a bug, you want to make the smallest change that fixes the bug. You ma
 
 Sometimes, there are really several bugs that look like one. It is up to you to define the bugs and fix them one at a time. Sometimes it is unclear what the program should do or what the original author intended. In this case, you must exercise your experience and judgment and assign your own meaning to the code. Decide what it should do, and comment it or clarify it in some way and then make the code conform to your meaning. This is an intermediate or advanced skill that is sometimes harder than writing the original function in the first place, but the real world is often messy. You may have to fix a system you cannot rewrite.
 
-Next [How to Debug Using a Log](04-How%20to%20Debug%20Using%20a%20Log.md)
+Next [How to Debug Using a Log](04-How-to-Debug-Using-a-Log.md)

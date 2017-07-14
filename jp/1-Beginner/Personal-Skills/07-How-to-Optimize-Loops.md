@@ -11,4 +11,4 @@
 - �C���f�b�N�X���Čv�Z�����̂ł͂Ȃ��A�|�C���^���ړ������B
 
 �������̊e�����̃R�X�g�́A�����̃V�X�e���ɂ����ĈقȂ��܂��B�������̃V�X�e���ł́A�R���p�C���ƃn�[�h�E�F�A���������̂��Ƃ��s���܂��B���m�Ō����I�ȃR�[�h�́A�����̃v���b�g�t�H�[���̗������K�v�Ƃ����R�[�h�������D���Ă��܂��B
-Next [How to Deal with I/O Expense](08-How%20to%20Deal%20with%20IO%20Expense.md)
+Next [How to Deal with I/O Expense](08-How-to-Deal-with-IO-Expense.md)

@@ -6,4 +6,4 @@
 
 �����́A�l�X�������̋��݂��\�z���A���_�����P�������A�V�����X�L�����w�񂾂肵�đދ������悤�ɂȂ��Ƃ����A�������x�̊댯�������܂��B�������A���含�́A�ߓx�Ɏg�p�����Ȃ��ꍇ�ɂ͔����ɗL�p�Ȑ��Y���c�[���ł��B
 
-Next [How to Handle Boring Tasks](05-How%20to%20Handle%20Boring%20Tasks.md)
+Next [How to Handle Boring Tasks](05-How-to-Handle-Boring-Tasks.md)

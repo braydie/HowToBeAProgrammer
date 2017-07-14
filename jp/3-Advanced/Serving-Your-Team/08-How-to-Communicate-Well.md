@@ -8,4 +8,4 @@
 
 ���͂��܂��R�~���j�P�[�V�������}�X�^�[�ł��܂����ł������A�������ݎ����g���ł����̂́A����4�̃A�v���[�`���Ƃ��Ă����Ǝv���܂��B�����̃A�C�f�A�������ɏ����������A���͌����Řb���A���́i���ۂ̎��ɂ��d�q�I�ɂ��j�f���������āA���̃v���Z�X���h�������J���Ԃ��B���͂��̎��̓���R�~���j�P�[�V�����ł́A���x�����������\���ɐh�������Ȃ��Ǝv���܂��B���Ȃ��̃A�C�f�A�������Ɏ󂯓��������Ȃ��Ȃ��A���Ȃ��͗��_���Ă͂����܂����B�ނ��̏����ɃG�l���M�[�𓊓������ꍇ�A�N�����Ȃ��̂��߂ɂ������n�ゾ�Ƃ͎v���Ȃ��ł��傤�B
 
-Next [How to Tell People Things They Don't Want to Hear](09-How%20to%20Tell%20People%20Things%20They%20Don't%20Want%20to%20Hear.md)
+Next [How to Tell People Things They Don't Want to Hear](09-How-to-Tell-People-Things-They-Don't-Want-to-Hear.md)

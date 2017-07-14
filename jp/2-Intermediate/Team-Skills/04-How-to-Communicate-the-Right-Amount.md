@@ -4,4 +4,4 @@
 
 �������̃R�~���j�P�[�V�����𑣐i���邽�߂ɂ́A�\�Ȍ����̂��Ƃ��s�����Ȃ����΂Ȃ��Ȃ��B �����֗��ȍ��Ƃ́A���̎��Ԃ����������Ƃ̃����`���ɍs�����܂��B �����̊��Ƃ����̎������F���������T�|�[�g���Ă��Ȃ����Ƃ͎c�O�ł��B
 
-Next [How to Disagree Honestly and Get Away with It](05-How%20to%20Disagree%20Honestly%20and%20Get%20Away%20with%20It.md)
+Next [How to Disagree Honestly and Get Away with It](05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)

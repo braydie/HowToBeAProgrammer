@@ -14,4 +14,4 @@ Guy Kawasaki [Rules]�́A���[�U�[���������Ƃɉ��
 
 ���͐����Ǝ҂��R���T���^���g���A���΂��Δނ炪�{���ɖ]�ނ��̂������̐S�̒��Ŗ��m�ɂ����悤�Ɍڋq�ɑi�����傫�Ȗ����������Ă����ƐM���Ă��܂��B���Ȃ����R���T���^���g�ɂȂ낤�Ǝv���Ă����Ȃ��A���͂��Ȃ��̃N���C�A���g���A�ނ��̖��m�ȓ��̒������łȂ��A�ނ��̎蒠�Ɋ��Â��đI�Ԃ��Ƃ������߂��܂��B
 
-Next [How to Get a Promotion](03-How%20to%20Get%20a%20Promotion.md)
+Next [How to Get a Promotion](03-How-to-Get-a-Promotion.md)

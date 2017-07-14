@@ -16,4 +16,4 @@ If you want to know *how likely it is* that a faster algorithm for a particular 
 
 If you want to make a *personal decision that only you can make* like whether or not you should start a business, try putting into writing a list of arguments for and against the idea. If that fails, consider divination. Suppose you have studied the idea from all angles, have done all your homework, and worked out all the consequences and pros and cons in your mind, and yet still remain indecisive. You now must follow your heart and tell your brain to shut up. The multitude of available divination techniques are very useful for determining your own semi-conscious desires, as they each present a complete ambiguous and random pattern that your own subconscious will assign meaning to.
 
-Next [How to Utilize People as Information Sources](04-How%20to%20Utilize%20People%20as%20Information%20Sources.md)
+Next [How to Utilize People as Information Sources](04-How-to-Utilize-People-as-Information-Sources.md)

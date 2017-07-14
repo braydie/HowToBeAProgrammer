@@ -20,4 +20,4 @@
 
 ���A�̎������݌v���Ȃ����΂Ȃ��Ȃ����Ƃ��悭�����܂��B���ꂼ���̎����͍Ō��̎����œ����ꂽ�m���Ɋ��Â��Ă��܂��B���������āA�\�Ȍ��葽���̏������񋟂����悤�Ɏ������݌v�����K�v�������܂��B�c�O�Ȃ����A�����͊e�������ȒP�ɂ��邱�Ƃɋْ����Ă��܂��B�o�����ʂ��Ă��̔��f�𔭓W�������K�v�������܂��B
 
-Next [Team Skills - Why Estimation is Important](../Team-Skills/01-Why%20Estimation%20is%20Important.md)
+Next [Team Skills - Why Estimation is Important](../Team-Skills/01-Why-Estimation-is-Important.md)

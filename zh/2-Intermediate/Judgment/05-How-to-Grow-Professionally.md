@@ -8,4 +8,4 @@
 
 计划学习新技能的方式，包括琐碎的技术类型，比如学习一个新的软件系统，和困难的社交类型，像漂亮的写作，把它们集成到你的工作中。
 
-Next [如何评估面试者](06-How%20to%20Evaluate%20Interviewees.md)
+Next [如何评估面试者](06-How-to-Evaluate-Interviewees.md)

@@ -10,4 +10,4 @@ If you feel like you are past due for a promotion, talk to your boss about it. A
 
 Most programmers probably have an exaggerated sense of their relative abilities in some ways---after all, we can't all be in the top 10%! However, I have seen some people who were seriously unappreciated. One cannot expect everyone's evaluation to perfectly match reality at all times, but I think people are generally moderately fair, with one caveat: you cannot be appreciated without visibility into your work. Sometimes, due to happenstance or personal habits, someone will not be noticed much. Working from home a lot or being geographically separated from your team and boss makes this especially difficult.
 
-Next [Serving Your Team - How to Develop Talent](../Serving-Your-Team/01-How%20to%20Develop%20Talent.md)
+Next [Serving Your Team - How to Develop Talent](../Serving-Your-Team/01-How-to-Develop-Talent.md)

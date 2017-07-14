@@ -6,4 +6,4 @@
 
 �����̃X�^�C�����J�������͎̂��R�Ŗ𗧂��܂����A�f�U�C���͉Ȋw�ł͂Ȃ��|�p�ł��邱�Ƃ��Y���Ȃ��ł��������B �팱�҂ɖ{�������l�́A�������Ȋw�I�Ɍ����邱�ƂɊ֐S�������܂��B �����̃f�U�C���X�^�C���ɂ��ēƒf�ɂ͂Ȃ��Ȃ��ł��������B
 
-Next [How to Conduct Experiments](12-How%20to%20Conduct%20Experiments.md)
+Next [How to Conduct Experiments](12-How-to-Conduct-Experiments.md)

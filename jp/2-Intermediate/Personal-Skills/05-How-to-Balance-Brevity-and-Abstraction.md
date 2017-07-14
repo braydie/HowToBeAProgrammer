@@ -6,4 +6,4 @@
 
 �ڐA���ɂ����l�̖��肪�����܂��B�R�[�h���ʂ̃R���s���[�^�A�R���p�C���A�\�t�g�E�F�A�V�X�e���A�܂��̓v���b�g�t�H�[���ɈڐA���邩�A�ȒP�ɈڐA�����K�v�������܂����H�|�[�^�u���ł͂Ȃ��A�Z���ĊȒP�ɈڐA�ł����R�[�h�́A�����ڐA�\�ȃR�[�h�������D���Ă����Ǝv���܂��B������DBMS�ɌŗL�̃f�[�^�x�[�X�N�G�����쐬�����N���X�ȂǁA�|�[�^�u���łȂ��R�[�h���w�肳�ꂽ�̈��Ɍ��肷�邱�Ƃ͔��r�I�ȒP�ł����A�m���ɗǂ��l���ł��B
 
-Next [How to Learn New Skills](06-How%20to%20Learn%20New%20Skills.md)
+Next [How to Learn New Skills](06-How-to-Learn-New-Skills.md)

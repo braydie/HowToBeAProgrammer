@@ -12,4 +12,4 @@
 
 �K�x�[�W�R���N�V�����ɗ����̂ł͂Ȃ��A���蓖�Ă��ꂽ�X�y�[�X�𖾎��I�ɉ��������K�v�������ꍇ�������܂��B���ɁA���蓖�Ă��ꂽ�������̊e�`�����N�ɐT�d�ȃC���e���W�F���X���K�p���A�K�؂ȃ^�C�~���O�Ŋ��蓖�Ă������������@���݌v�����K�v�������܂��B���\�b�h�́A�쐬�����I�u�W�F�N�g�̎��ނ��ƂɈقȂ��ꍇ�������܂��B���������蓖�đ����̂��ׂĂ̎��s���A���������蓖�ĉ��������ɂ����čŏI�I�Ɉ��v���邱�Ƃ��m�F�����K�v�������܂��B�����͔����ɓ���̂ŁA�v���O���}�͎Q�ƃJ�E���g�Ȃǂ̊��{�I�Ȍ`���̃K�[�x�W�R���N�V�������������邾���ōς݂܂��B
 
-Next [How to Deal with Intermittent Bugs](10-How%20to%20Deal%20with%20Intermittent%20Bugs.md)
+Next [How to Deal with Intermittent Bugs](10-How-to-Deal-with-Intermittent-Bugs.md)

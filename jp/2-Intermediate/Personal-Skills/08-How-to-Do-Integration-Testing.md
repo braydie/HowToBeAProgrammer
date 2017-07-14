@@ -4,4 +4,4 @@
 
 ���z�I�ɂ́A�����𖾎��I�ɍs���K�v�������t�F�[�Y���ŏI�i�K�ɂȂ��悤�Ƀv���W�F�N�g���Ґ������̂����z�I�ł��B �v���W�F�N�g�̉ߒ��Ŋ����������̂��i�K�I�ɓ������������͂邩�ɗD���Ă��܂��B ���ނ𓾂Ȃ��ꍇ�͒��Ӑ[�����ς����Ă��������B
 
-Next [Communication Languages](09-Communication%20Languages.md)
+Next [Communication Languages](09-Communication-Languages.md)

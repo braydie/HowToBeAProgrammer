@@ -18,4 +18,4 @@
 
 * Extreme Programming *���g�p�����悤�ɉ��Ђɔ[�������邱�Ƃ��ł����΁A���r�I�����Ȃ��̂����ς��邾���ł悭�A�����͂����Ɗy�������Y�I�ł��B
 
-Next [How to Find Out Information](03-How%20to%20Find%20Out%20Information.md)
+Next [How to Find Out Information](03-How-to-Find-Out-Information.md)

@@ -17,4 +17,4 @@
 - �ǎ҂̂��Ƃ��l���āA�ޏ��������Ɗy�ɂ����M�d�Ȏ��Ԃ����₵�Ă��������B������
 - `foo`�A` bar`�A `doIt`�̂悤�Ȋ֐������g�p���邱�Ƃ͂����܂����I
 
-Next [How to Work with Poor Code](06-How%20to%20Work%20with%20Poor%20Code.md)
+Next [How to Work with Poor Code](06-How-to-Work-with-Poor-Code.md)

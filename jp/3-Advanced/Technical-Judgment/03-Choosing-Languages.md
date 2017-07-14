@@ -12,4 +12,4 @@
 
 �������̉e���̈ꕔ�͐S���w�I�Ȃ��̂ɉ߂��Ȃ����������܂����B�S���w�͏d�v�ł��B���ǂ̂Ƃ����A�����ꐧ���`�̔��p�͂��ꂪ�񋟂��闘�_�������d�v�ł��B
 
-Next [Compromising Wisely - How to Fight a Schedule Pressure](../Compromising-Wisely/01-How%20to%20Fight%20Schedule%20Pressure.md)
+Next [Compromising Wisely - How to Fight a Schedule Pressure](../Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)

@@ -6,4 +6,4 @@ The distinction is not facetious, because you may very well be asked to do what 
 
 It is impossible to satisfy a vague requirement, such as ‘Build a system that will compute the most attractive hair style and colour for any person.’ If the requirement can be made more crisp, it will often become merely hard, such as ‘Build a system to compute an attractive hair style and colour for a person, allow them to preview it and make changes, and have the customer satisfaction based on the original styling be so great that we make a lot of money.’ If there is no crisp definition of success, you will not succeed.
 
-Next [How to Utilize Embedded Languages](02-How%20to%20Utilize%20Embedded%20Languages.md)
+Next [How to Utilize Embedded Languages](02-How-to-Utilize-Embedded-Languages.md)

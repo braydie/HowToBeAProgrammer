@@ -13,4 +13,4 @@ Most programmers are good programmers, and good programmers want to get a lot do
 
 Since I have children, I try to spend evenings with them sometimes. The rhythm that works best for me is to work a very long day, sleep in the office or near the office (I have a long commute from home to work) then go home early enough the next day to spend time with my children before they go to bed. I am not comfortable with this, but it is the best compromise I have been able to work out. Go home if you have a contagious disease. You should go home if you are thinking suicidal thoughts. You should take a break or go home if you think homicidal thoughts for more than a few seconds. You should send someone home if they show serious mental malfunctioning or signs of mental illness beyond mild depression. If you are tempted to be dishonest or deceptive in a way that you normally are not due to fatigue, you should take a break. Don't use cocaine or amphetamines to combat fatigue. Don't abuse caffeine.
 
-Next [How to Deal with Difficult People](11-How%20to%20Deal%20with%20Difficult%20People.md)
+Next [How to Deal with Difficult People](11-How-to-Deal-with-Difficult-People.md)

@@ -6,4 +6,4 @@ There is a certain dogma associated with useful techniques such as *information 
 
 Portability poses a similar problem. Should code be portable to a different computer, compiler, software system or platform, or simply easily ported? I think a non-portable, short-and-easily-ported piece of code is better than a long portable one. It is relatively easy and certainly a good idea to confine non-portable code to designated areas, such as a class that makes database queries that are specific to a given DBMS.
 
-Next [How to Learn New Skills](06-How%20to%20Learn%20New%20Skills.md)
+Next [How to Learn New Skills](06-How-to-Learn-New-Skills.md)

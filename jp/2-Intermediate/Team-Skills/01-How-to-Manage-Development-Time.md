@@ -8,4 +8,4 @@
 
 �����`�[���~�[�e�B���O�A�f���A�������A�\�肳�ꂽ�����I�Ȋ����A�����e�X�g�A�O���҂Ƃ̑Ώ��A�a�C�A�x�ɁA�������i�̃����e�i���X�A�J�����̃����e�i���X�ȂǁA�v���Ɏ��Ԃ��܂܂��Ă��邱�Ƃ��m�F���Ă��������B�v���W�F�N�g�v���́A���Ȃ��₠�Ȃ��̃`�[���������Ă��邱�Ƃ��O���҂����i�Ɍ��������@�Ƃ��Ė𗧂��܂��B���̂��߁A�Z���ԂōŐV�̂��̂ɂ����K�v�������܂��B
 
-Next [How to Manage Third-Party Software Risks](02-How%20to%20Manage%20Third-Party%20Software%20Risks.md)
+Next [How to Manage Third-Party Software Risks](02-How-to-Manage-Third-Party-Software-Risks.md)

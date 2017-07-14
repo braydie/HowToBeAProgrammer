@@ -18,4 +18,4 @@ Debugging tools are wonderful when they are stable and available, but printlinin
 
 Some beginners fear debugging when it requires modifying code. This is understandable - it is a little like exploratory surgery. But you have to learn to poke at the code and make it jump; you have to learn to experiment on it and understand that nothing that you temporarily do to it will make it worse. If you feel this fear, seek out a mentor - we lose a lot of good programmers at the delicate onset of their learning to this fear.
 
-Next [How to Debug by Splitting the Problem Space](02-How%20to%20Debug%20by%20Splitting%20the%20Problem%20Space.md)
+Next [How to Debug by Splitting the Problem Space](02-How-to-Debug-by-Splitting-the-Problem-Space.md)

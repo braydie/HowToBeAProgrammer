@@ -8,4 +8,4 @@ There are many dimensions to the performance of a computer system, and many reso
 
 Contention for shared resources that are synchronized can cause deadlock and starvation. Deadlock is the inability to proceed because of improper synchronization or resource demands. Starvation is the failure to schedule a component properly. If it can be at all anticipated, it is best to have a way of measuring this contention from the start of your project. Even if this contention does not occur, it is very helpful to be able to assert that with confidence.
 
-Next [How to Fix Performance Problems](06-How%20to%20Fix%20Performance%20Problems.md)
+Next [How to Fix Performance Problems](06-How-to-Fix-Performance-Problems.md)

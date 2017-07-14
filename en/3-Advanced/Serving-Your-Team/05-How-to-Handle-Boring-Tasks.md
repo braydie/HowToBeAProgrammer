@@ -4,4 +4,4 @@ Sometimes it is not possible to avoid boring tasks that are critical to the succ
 
 If all else fails, apologize to those who have to do the boring task, but under no circumstances allow them to do it alone. At a minimum assign a team of two to do the work and promote healthy teamwork to get the task done.
 
-Next [How to Gather Support for a Project](06-How%20to%20Gather%20Support%20for%20a%20Project.md)
+Next [How to Gather Support for a Project](06-How-to-Gather-Support-for-a-Project.md)

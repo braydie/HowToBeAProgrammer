@@ -14,4 +14,4 @@
 
 <sup>[1]</sup> "to hit" 
 
-Next [How to Balance Brevity and Abstraction](05-How%20to%20Balance%20Brevity%20and%20Abstraction.md)
+Next [How to Balance Brevity and Abstraction](05-How-to-Balance-Brevity-and-Abstraction.md)

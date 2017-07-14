@@ -6,4 +6,4 @@
 
 �R���T���^���g���R�[�h�����������Ȃ��A�������T�d�Ɍ������Ȃ����΂Ȃ��܂����B���r���[�����Ă��Ȃ��傫�ȃR�[�h�u���b�N�̃��X�N�𔺂��v���W�F�N�g�̍Ō��ɂ͓��B�ł��܂����B�����͎��ۂɂ͂��ׂẴ`�[�������o�[�ɓ��Ă͂܂��܂����A�ʏ��͂��Ȃ��ɋ߂��`�[�������o�[�̒m���������܂��B
 
-Next [How to Communicate the Right Amount](04-How%20to%20Communicate%20the%20Right%20Amount.md)
+Next [How to Communicate the Right Amount](04-How-to-Communicate-the-Right-Amount.md)

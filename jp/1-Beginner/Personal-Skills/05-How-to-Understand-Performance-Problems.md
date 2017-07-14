@@ -8,4 +8,4 @@
 
 ���������ꂽ���L���\�[�X�̋����́A�f�b�h���b�N�ƋQ���������N�����\���������܂��B�f�b�h���b�N�́A�s�K�؂ȓ����⃊�\�[�X�v���̂��߂ɏ����ł��Ȃ����Ƃł��B�Q���Ƃ́A�R���|�[�l���g���K�؂ɃX�P�W���[�����邱�Ƃł͂����܂����B���ꂪ���ׂĊ��҂ł����ꍇ�́A�v���W�F�N�g�̊J�n�����炱�̋����𑪒肷�����@�����邱�Ƃ��őP�ł��B���̋������N�����Ȃ��Ă��A���������M�������ĕ\���ł��邱�Ƃ͔����ɗL�p�ł��B
 
-Next [How to Fix Performance Problems](06-How%20to%20Fix%20Performance%20Problems.md)
+Next [How to Fix Performance Problems](06-How-to-Fix-Performance-Problems.md)

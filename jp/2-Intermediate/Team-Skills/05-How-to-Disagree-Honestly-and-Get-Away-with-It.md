@@ -8,4 +8,4 @@
 
 �ӎv���肪�t�]���Ă��邩�ǂ����ɂ������炸�A���֌��肪���S�ɒ������ꂽ�̂ŁA���Ȃ��́u���Ȃ��ɂ����������v�ƌ������Ƃ͌����Ăł��Ȃ����Ƃ��Y���Ȃ��ł��������B
 
-Next [Judgment - How to Tradeoff Quality Against Development Time](../Judgment/01-How%20to%20Tradeoff%20Quality%20Against%20Development%20Time.md)
+Next [Judgment - How to Tradeoff Quality Against Development Time](../Judgment/01-How-to-Tradeoff-Quality-Against-Development-Time.md)

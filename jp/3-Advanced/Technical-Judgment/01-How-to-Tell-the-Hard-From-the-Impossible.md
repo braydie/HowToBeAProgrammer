@@ -6,4 +6,4 @@
 
 �ł����͓I�Ȕ��^���F���v�Z�����V�X�e���ȂǁA���R�Ƃ����v���𖞂������Ƃ͕s�\�ł��B�v���������N���ɂ��邱�Ƃ��ł����΁A�l�̖��͓I�Ȕ��^�ƐF���v�Z���A�������v���r���[�������ύX�������A���̃X�^�C���Ɋ��Â��Čڋq�����x�����߂āA���������̂������҂��V�X�e�����\�z���܂��傤�B�����̑N���Ȓ��`���Ȃ��A���Ȃ��͐������܂����B
 
-Next [How to Utilize Embedded Languages](02-How%20to%20Utilize%20Embedded%20Languages.md)
+Next [How to Utilize Embedded Languages](02-How-to-Utilize-Embedded-Languages.md)

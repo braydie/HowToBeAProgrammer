@@ -13,4 +13,4 @@ You should think twice before building something that is big enough to serve as 
 
 After considering these questions, you should perhaps prepare two draft project plans, one for building and one for buying. This will force you to consider the integration costs. You should also consider the long term maintenance costs of both solutions. To estimate the integration costs, you will have to do a thorough evaluation of the software before you buy it. If you can't evaluate it, you will assume an unreasonable risk in buying it and you should decide against buying that particular product. If there are several buy decisions under consideration, some energy will have to be spent evaluating each.
 
-Next [How to Grow Professionally](05-How%20to%20Grow%20Professionally.md)
+Next [How to Grow Professionally](05-How-to-Grow-Professionally.md)

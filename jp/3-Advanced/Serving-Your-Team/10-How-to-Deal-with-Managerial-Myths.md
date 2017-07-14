@@ -10,4 +10,4 @@
 
 �@������΁A�������̂��Ƃ��������邱�Ƃ͂ł��܂����A�������Ă��Ȃ��ƈ����C�����ɂȂ炸�A�������̐_�b�ɑ΍R���Ă��Ȃ��̕]���𑹂Ȃ����Ƃ͂����܂����B�������̐_�b�̂��ꂼ���́A�����N�����Ă��邩�����ۂɎx�z���Ă����}�l�[�W���[�̍l�������߂��B�^���́A�}�l�[�W���[���ނ炪�ǂ����Ηe�ՂɂȂ��A�ނ炪�����ꍇ�ɂ͂������W���邱�Ƃł��B
 
-Next [How to Deal with Organizational Chaos](11-How%20to%20Deal%20with%20Organizational%20Chaos.md)
+Next [How to Deal with Organizational Chaos](11-How-to-Deal-with-Organizational-Chaos.md)

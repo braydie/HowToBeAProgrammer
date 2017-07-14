@@ -12,4 +12,4 @@
 
 这些操作的具体代价取决于你的具体系统。在一些系统中，编译器和硬件会为你做一些事情。但必须清楚，有效的代码比需要在特殊平台下理解的代码要好。
 
-Next [如何处理I/O开销](08-How%20to%20Deal%20with%20IO%20Expense.md)
+Next [如何处理I/O开销](08-How-to-Deal-with-IO-Expense.md)

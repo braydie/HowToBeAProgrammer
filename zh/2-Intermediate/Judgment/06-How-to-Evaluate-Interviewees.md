@@ -12,4 +12,4 @@
 
 最后，面试也是一个销售的过程。你应该把你的公司或工程销售给候选人。然而，你是在与程序员谈话，所以不要尝试改变事实。从坏的事物开始讲起，最后以好的事物作为强有力的结束。
 
-Next [怎么决定什么时候使用奇妙的计算机科学](07-How%20to%20Know%20When%20to%20Apply%20Fancy%20Computer%20Science.md)
+Next [怎么决定什么时候使用奇妙的计算机科学](07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
