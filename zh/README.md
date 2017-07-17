@@ -100,7 +100,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [如何为工程获取支持](3-Advanced/Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
 		- [如何发展一个系统](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
 		- [如何有效地沟通](3-Advanced/Serving-Your-Team/08-How-to-Communicate-Well.md)
-		- [如何告诉人们他们不想听的东西](3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Don't-Want-to-Hear.md)
+		- [如何告诉人们他们不想听的东西](3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
 		- [如何处理管理神话](3-Advanced/Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
 		- [如何处理混乱的组织](3-Advanced/Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
 4. [词汇表](4-Glossary.md)

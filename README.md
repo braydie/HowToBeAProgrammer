@@ -97,7 +97,7 @@ Welcome to the tribe.
 		- [How to Gather Support for a Project](en/3-Advanced/Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
 		- [How to Grow a System](en/3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
 		- [How to Communicate Well](en/3-Advanced/Serving-Your-Team/08-How-to-Communicate-Well.md)
-		- [How to Tell People Things They Don't Want to Hear](en/3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Don't-Want-to-Hear.md)
+		- [How to Tell People Things They Don't Want to Hear](en/3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
 		- [How to Deal with Managerial Myths](en/3-Advanced/Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
 		- [How to Deal with Organizational Chaos](en/3-Advanced/Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
 4. [Glossary](en/GLOSSARY.md)

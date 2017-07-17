@@ -17,6 +17,6 @@
 	- [How to Gather Support for a Project](Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
 	- [How to Grow a System](Serving-Your-Team/07-How-to-Grow-a-System.md)
 	- [How to Communicate Well](Serving-Your-Team/08-How-to-Communicate-Well.md)
-	- [How to Tell People Things They Don't Want to Hear](Serving-Your-Team/09-How-to-Tell-People-Things-They-Don't-Want-to-Hear.md)
+	- [How to Tell People Things They Don't Want to Hear](Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
 	- [How to Deal with Managerial Myths](Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
 	- [How to Deal with Organizational Chaos](Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
