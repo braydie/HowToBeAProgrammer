@@ -19,20 +19,20 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 
 ## Содержание
 
-1. [Beginner](1-Beginner)
-	- Personal Skills
-		- [Learn to Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
-		- [How to Debug by Splitting the Problem Space](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
-		- [How to Remove an Error](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
-		- [How to Debug Using a Log](1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
-		- [How to Understand Performance Problems](1-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
-		- [How to Fix Performance Problems](1-Beginner/Personal-Skills/06-How-to-Fix-Performance-Problems.md)
-		- [How to Optimize Loops](1-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
-		- [How to Deal with I/O Expense](1-Beginner/Personal-Skills/08-How-to-Deal-with-IO-Expense.md)
-		- [How to Manage Memory](1-Beginner/Personal-Skills/09-How-to-Manage-Memory.md)
-		- [How to Deal with Intermittent Bugs](1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
-		- [How to Learn Design Skills](1-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
-		- [How to Conduct Experiments](1-Beginner/Personal-Skills/12-How-to-Conduct-Experiments.md)
+1. [Начало](1-Beginner)
+	- Личные навыки
+		- [Изучение отладкой](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
+		- [Как отлаживать, разбивая пространство проблем](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
+		- [Как удалить ошибку](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
+		- [Как отлаживать используя лог](1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
+		- [Как выяснить проблему производительности](1-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
+		- [Как исправить проблемы производительности](1-Beginner/Personal-Skills/06-How-to-Fix-Performance-Problems.md)
+		- [Как оптимизировать циклы](1-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
+		- [Как справиться с издержками при операциях ввод-вывод](1-Beginner/Personal-Skills/08-How-to-Deal-with-IO-Expense.md)
+		- [Как управлять памятью](1-Beginner/Personal-Skills/09-How-to-Manage-Memory.md)
+		- [Как бороться с прерывистыми ошибками](1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
+		- [Как выробатать навыки проектирования](1-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
+		- [Как проводить эксперименты](1-Beginner/Personal-Skills/12-How-to-Conduct-Experiments.md)
 	- Team Skills
 		- [Why Estimation is Important](1-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
 		- [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
