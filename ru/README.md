@@ -28,7 +28,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [Как выяснить проблему производительности](1-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
 		- [Как исправить проблемы производительности](1-Beginner/Personal-Skills/06-How-to-Fix-Performance-Problems.md)
 		- [Как оптимизировать циклы](1-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
-		- [Как справиться с издержками при операциях ввод-вывод](1-Beginner/Personal-Skills/08-How-to-Deal-with-IO-Expense.md)
+		- [Как справиться с издержками при операциях ввода-вывода](1-Beginner/Personal-Skills/08-How-to-Deal-with-IO-Expense.md)
 		- [Как управлять памятью](1-Beginner/Personal-Skills/09-How-to-Manage-Memory.md)
 		- [Как бороться с прерывистыми ошибками](1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
 		- [Как выробатать навыки проектирования](1-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
