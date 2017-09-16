@@ -14,3 +14,5 @@ _book
 *.epub
 *.mobi
 *.pdf
+/.vs/HowToBeAProgrammer/v15/.suo
+/.vs/slnx.sqlite
