@@ -1,14 +1,14 @@
 # Heavy Tools
  [//]: # (Version:1.0.0)
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹Zï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Þ‚É‚Â‚ï¿½ï¿½ÄAï¿½\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½Zï¿½pï¿½ÍAï¿½zï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Vï¿½ï¿½ï¿½iï¿½Aï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½iï¿½Aï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Èï¿½ï¿½iï¿½ÉˆÚsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìdï¿½ï¿½ï¿½Hï¿½ï¿½ï¿½Í‘å‚«ï¿½È•ï¿½ï¿½×‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½Ðˆï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½É‘å‚«ï¿½È“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½Æ‚ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½Ôƒvï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½}ï¿½[ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂŽgï¿½pï¿½ï¿½ï¿½×‚ï¿½ï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½Ílï¿½ï¿½ï¿½ï¿½ï¿½×‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Kï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
+Ž„‚½‚¿‚Ì‹Zp•¶‰»‚ªi‚Þ‚É‚Â‚ê‚ÄAƒ\ƒtƒgƒEƒFƒA‹Zp‚ÍA‘z‘œ‚à‚Å‚«‚È‚¢‚à‚Ì‚©‚çAŒ¤‹†AV»•iA•W€‰»‚³‚ê‚½»•iAL‚­•‹y‚µ‚½ˆÀ‰¿‚È»•i‚ÉˆÚs‚µ‚Ä‚¢‚Ü‚·B ‚±‚ê‚ç‚Ìd‚¢H‹ï‚Í‘å‚«‚È•‰‰×‚ð‚©‚¯‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªAˆÐˆ³‚·‚é‚±‚Æ‚ª‚ ‚èA—‰ð‚É‘å‚«‚È“ŠŽ‘‚ð•K—v‚Æ‚µ‚Ü‚·B ’†ŠÔƒvƒƒOƒ‰ƒ}[‚ÍA‚»‚ê‚ç‚ðŠÇ—‚·‚é•û–@‚ÆA‚»‚ê‚ç‚ð‚¢‚ÂŽg—p‚·‚×‚«‚©A‚Ü‚½‚Íl—¶‚·‚×‚«‚©‚ð’m‚é•K—v‚ª‚ ‚è‚Ü‚·B
 
-ï¿½ï¿½ï¿½ï¿½ï¿½ÌSï¿½É‚ÍAï¿½Å‚ï¿½ï¿½dï¿½ï¿½ï¿½cï¿½[ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½F
+¡Ž„‚ÌS‚É‚ÍAÅ‚àd‚¢ƒc[ƒ‹‚Ì‚¢‚­‚Â‚©‚ª‚ ‚è‚Ü‚·F
 
-- ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½iï¿½ï¿½ï¿½fï¿½[ï¿½^ï¿½xï¿½[ï¿½Xï¿½A
-- ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Gï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½A
-- ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½A
-- OpenGLï¿½A
-- XMLï¿½pï¿½[ï¿½Tï¿½[ï¿½A
-- ï¿½Xï¿½vï¿½ï¿½ï¿½bï¿½hï¿½Vï¿½[ï¿½gï¿½B
+- ƒŠƒŒ[ƒVƒ‡ƒiƒ‹ƒf[ƒ^ƒx[ƒXA
+- ‘S•¶ŒŸõƒGƒ“ƒWƒ“A
+- ”Šwƒ‰ƒCƒuƒ‰ƒŠ[A
+- OpenGLA
+- XMLƒp[ƒT[A
+- ƒXƒvƒŒƒbƒhƒV[ƒgB
 
 Next [How to analyze data](11-How-to-analyze-data.md)
