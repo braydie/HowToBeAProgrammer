@@ -6,7 +6,7 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-##はじめに
+## はじめに
 良いプログラマになることは難しく、高貴です。ソフトウェアプロジェクトの実質的なビジョンを実現する最も難しい部分は、同僚や顧客を扱うことです。コンピュータプログラムを書くことは重要であり、優れた知性とスキルを必要とします。しかし、実際に子供の遊びであるのは、良いプログラマが、顧客と部分的に責任がある無数の同僚の両方のために成功するソフトウェアシステムを作るために必要なことです。このエッセイでは、21歳のときに誰かが私に説明したかったことを可能な限り簡潔にまとめようとしています。
 
 これは非常に主観的なものであり、したがって、この論文は個人的で、多少の意見をもって運命づけられます。私はプログラマが自分の仕事で直面しなければならない可能性が高い問題に自分自身を限定しています。これらの問題の多くとその解決策の多くは人間の状態に非常に一般的なものであり、おそらく私は説得力があるように見えます。それにもかかわらず、私はこのエッセイが役立つことを願っています。
@@ -75,25 +75,25 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [How to Talk to Non-Engineers](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
 3. [Advanced](3-Advanced)
 	- Technological Judgment
-        - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
-        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
-        - [Choosing Languages](3-Advanced/Technical-Judgment/03-Choosing-Languages.md)
-    - Compromising Wisely
-        - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
-        - [How to Understand the User](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
-        - [How to Get a Promotion](3-Advanced/Compromising-Wisely/03-How-to-Get-a-Promotion.md)
-    - Serving Your Team
-        - [How to Develop Talent](3-Advanced/Serving-Your-Team/01-How-to-Develop-Talent.md)
-        - [How to Choose What to Work On](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
-        - [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
-        - [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
-        - [How to Handle Boring Tasks](3-Advanced/Serving-Your-Team/05-How-to-Handle-Boring-Tasks.md)
-        - [How to Gather Support for a Project](3-Advanced/Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
-        - [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
-        - [How to Communicate Well](3-Advanced/Serving-Your-Team/08-How-to-Communicate-Well.md)
-        - [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
-        - [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
-        - [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
+		- [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
+		- [How to Utilize Embedded Languages](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
+		- [Choosing Languages](3-Advanced/Technical-Judgment/03-Choosing-Languages.md)
+	- Compromising Wisely
+		- [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
+		- [How to Understand the User](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
+		- [How to Get a Promotion](3-Advanced/Compromising-Wisely/03-How-to-Get-a-Promotion.md)
+	- Serving Your Team
+		- [How to Develop Talent](3-Advanced/Serving-Your-Team/01-How-to-Develop-Talent.md)
+		- [How to Choose What to Work On](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
+		- [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
+		- [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
+		- [How to Handle Boring Tasks](3-Advanced/Serving-Your-Team/05-How-to-Handle-Boring-Tasks.md)
+		- [How to Gather Support for a Project](3-Advanced/Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
+		- [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
+		- [How to Communicate Well](3-Advanced/Serving-Your-Team/08-How-to-Communicate-Well.md)
+		- [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
+		- [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
+		- [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
 4. [Glossary](GLOSSARY.md)
 5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
 6. [Appendix B - History (As of January 2016)](6-History.md)
