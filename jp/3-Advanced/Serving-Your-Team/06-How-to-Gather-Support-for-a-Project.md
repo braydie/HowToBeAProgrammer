@@ -1,5 +1,5 @@
 # How to Gather Support for a Project
 
-ï¿½vï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½ÌƒTï¿½|ï¿½[ï¿½gï¿½ï¿½ï¿½Wï¿½ß‚ï¿½ï¿½É‚ÍAï¿½gï¿½Dï¿½Sï¿½Ì‚É^ï¿½Ì‰ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½rï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ì¬ï¿½ï¿½ï¿½Ä“`ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ìƒrï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ì¬ï¿½É‘ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½Í”Þ‚ï¿½ï¿½É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Tï¿½|ï¿½[ï¿½gï¿½ï¿½ï¿½é—ï¿½Rï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌƒAï¿½Cï¿½fï¿½Aï¿½Ì‰ï¿½ï¿½bï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½vï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½ÌŽï¿½ï¿½vï¿½Tï¿½|ï¿½[ï¿½^ï¿½[ï¿½ï¿½ï¿½Â•Ê‚É•ï¿½ï¿½Wï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B ï¿½Â”\ï¿½ÈŒï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B ï¿½Â”\ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÎAï¿½ï¿½ï¿½ï¿½ï¿½iï¿½âƒ‚ï¿½bï¿½Nï¿½Aï¿½bï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄƒAï¿½Cï¿½fï¿½Aï¿½ð”­Šï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B ï¿½vï¿½ï¿½ï¿½gï¿½^ï¿½Cï¿½vï¿½Íï¿½ï¿½É‹ï¿½ï¿½Í‚Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½\ï¿½tï¿½gï¿½Eï¿½Fï¿½Aï¿½Å‚Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚é‚©ï¿½É—Dï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+ƒvƒƒWƒFƒNƒg‚ÌƒTƒ|[ƒg‚ðW‚ß‚é‚É‚ÍA‘gD‘S‘Ì‚É^‚Ì‰¿’l‚ðŽ¦‚·ƒrƒWƒ‡ƒ“‚ðì¬‚µ‚Ä“`‚¦‚Ü‚·B ‚ ‚È‚½‚ÌƒrƒWƒ‡ƒ“ì¬‚É‘¼‚Ìl‚½‚¿‚ð‹¤—L‚µ‚æ‚¤‚Æ‚·‚éB ‚±‚ê‚Í”Þ‚ç‚É‚ ‚È‚½‚ðƒTƒ|[ƒg‚·‚é——R‚ð—^‚¦A‚ ‚È‚½‚ÌƒAƒCƒfƒA‚Ì‰¶Œb‚ð—^‚¦‚Ü‚·B ƒvƒƒWƒFƒNƒg‚ÌŽå—vƒTƒ|[ƒ^[‚ðŒÂ•Ê‚É•åW‚µ‚Ü‚·B ‰Â”\‚ÈŒÀ‚èA‹³‚¦‚Ä‚­‚¾‚³‚¢B ‰Â”\‚Å‚ ‚ê‚ÎAŽŽì•i‚âƒ‚ƒbƒNƒAƒbƒv‚ðì‚Á‚ÄƒAƒCƒfƒA‚ð”­Šö‚³‚¹‚Ä‚­‚¾‚³‚¢B ƒvƒƒgƒ^ƒCƒv‚Íí‚É‹­—Í‚Å‚·‚ªAƒ\ƒtƒgƒEƒFƒA‚Å‚Íà–¾•¶‚æ‚è‚Í‚é‚©‚É—D‚ê‚Ä‚¢‚Ü‚·B
 
 Next [How to Grow a System](07-How-to-Grow-a-System.md)

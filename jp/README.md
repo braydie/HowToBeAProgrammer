@@ -6,16 +6,16 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-##�͂��߂�
-�ǂ��v���O���}�ɂȂ邱�Ƃ͓���A���M�ł��B�\�t�g�E�F�A�v���W�F�N�g�̎����I�ȃr�W���������������ł���������́A�������ڋq���������Ƃł��B�R���s���[�^�v���O�������������Ƃ͏d�v�ł����A�D�ꂽ�m���ƃX�L�����K�v�Ƃ��܂��B�������A���ۂɎq���̗V�тł����̂́A�ǂ��v���O���}���A�ڋq�ƕ����I�ɐӔC�����閳���̓����̗����̂��߂ɐ��������\�t�g�E�F�A�V�X�e�������邽�߂ɕK�v�Ȃ��Ƃł��B���̃G�b�Z�C�ł́A21�΂̂Ƃ��ɒN�������ɐ����������������Ƃ��\�Ȍ����Ȍ��ɂ܂Ƃ߂悤�Ƃ��Ă��܂��B
+## はじめに
+良いプログラマになることは難しく、高貴です。ソフトウェアプロジェクトの実質的なビジョンを実現する最も難しい部分は、同僚や顧客を扱うことです。コンピュータプログラムを書くことは重要であり、優れた知性とスキルを必要とします。しかし、実際に子供の遊びであるのは、良いプログラマが、顧客と部分的に責任がある無数の同僚の両方のために成功するソフトウェアシステムを作るために必要なことです。このエッセイでは、21歳のときに誰かが私に説明したかったことを可能な限り簡潔にまとめようとしています。
 
-�����͔����Ɏ��ϓI�Ȃ��̂ł����A���������āA���̘_���͌l�I�ŁA�����̈ӌ��������ĉ^���Â������܂��B���̓v���O���}�������̎d���Œ��ʂ��Ȃ����΂Ȃ��Ȃ��\�������������Ɏ������g�����肵�Ă��܂��B�������̖����̑����Ƃ��̉������̑����͐l�Ԃ̏��Ԃɔ����Ɉ��ʓI�Ȃ��̂ł����A�����炭���͐����͂������悤�Ɍ����܂��B�����ɂ��������炸�A���͂��̃G�b�Z�C���𗧂��Ƃ������Ă��܂��B
+これは非常に主観的なものであり、したがって、この論文は個人的で、多少の意見をもって運命づけられます。私はプログラマが自分の仕事で直面しなければならない可能性が高い問題に自分自身を限定しています。これらの問題の多くとその解決策の多くは人間の状態に非常に一般的なものであり、おそらく私は説得力があるように見えます。それにもかかわらず、私はこのエッセイが役立つことを願っています。
 
-�R���s���[�^�v���O���~���O�̓R�[�X�ŋ��������܂��B�D�ꂽ�{�FPragmatic Programmer [Prag99]�ACode Complete [CodeC93]�ARapid Development [RDev96]�AExtreme Programming Explained [XP99]�͂��ׂăR���s���[�^�v���O���~���O�ƗD�ꂽ�v���O���}�[�ł����Ƃ����傫�Ȗ����������Ă��܂��B�|�[���E�O���n���iPGSite�j�ƃG���b�N�E���C�����h[�n�b�J�[]�̃G�b�Z�C�́A���̋L���̑O�ɁA�܂��͂��̋L���ƂƂ��ɓǂނׂ��ł��B���̃G�b�Z�C�́A�Љ��������������A�K�v�ȃX�L���S�̂���I�ɗv�񂷂邱�Ƃɂ����āA�������̗D�ꂽ���i�Ƃ͈قȂ��܂��B
+コンピュータプログラミングはコースで教えられます。優れた本：Pragmatic Programmer [Prag99]、Code Complete [CodeC93]、Rapid Development [RDev96]、Extreme Programming Explained [XP99]はすべてコンピュータプログラミングと優れたプログラマーであるという大きな問題を教えています。ポール・グラハム（PGSite）とエリック・レイモンド[ハッカー]のエッセイは、この記事の前に、またはこの記事とともに読むべきです。このエッセイは、社会問題を強調し、必要なスキル全体を包括的に要約することによって、それらの優れた作品とは異なります。
 
-���̃G�b�Z�C�ł́A�{�X�Ƃ������t�́A���Ȃ��������v���W�F�N�g���񋟂����l���w���̂Ɏg�p�����܂��B���̓r�W�l�X�A���ЁA�����Ƃ������t�𓯋`���Ƃ��Ďg���Ă��܂����A�r�W�l�X�͂������������Ƃ��Î����܂����A���Ђ͌����̐E�����Î����A�����͈��ʓI�ɂ��Ȃ��������S�𕪂��������l�X�ł��B
+このエッセイでは、ボスという言葉は、あなたがするプロジェクトを提供する人を指すのに使用されます。私はビジネス、会社、部族という言葉を同義語として使っていますが、ビジネスはお金を抱くことを暗示しますが、会社は現代の職場を暗示し、部族は一般的にあなたが忠誠心を分かち合う人々です。
 
-�����ւ悤�����B
+部族へようこそ。
 
 ## Contents
 
@@ -75,25 +75,25 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [How to Talk to Non-Engineers](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
 3. [Advanced](3-Advanced)
 	- Technological Judgment
-        - [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
-        - [How to Utilize Embedded Languages](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
-        - [Choosing Languages](3-Advanced/Technical-Judgment/03-Choosing-Languages.md)
-    - Compromising Wisely
-        - [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
-        - [How to Understand the User](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
-        - [How to Get a Promotion](3-Advanced/Compromising-Wisely/03-How-to-Get-a-Promotion.md)
-    - Serving Your Team
-        - [How to Develop Talent](3-Advanced/Serving-Your-Team/01-How-to-Develop-Talent.md)
-        - [How to Choose What to Work On](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
-        - [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
-        - [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
-        - [How to Handle Boring Tasks](3-Advanced/Serving-Your-Team/05-How-to-Handle-Boring-Tasks.md)
-        - [How to Gather Support for a Project](3-Advanced/Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
-        - [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
-        - [How to Communicate Well](3-Advanced/Serving-Your-Team/08-How-to-Communicate-Well.md)
-        - [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
-        - [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
-        - [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
+		- [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
+		- [How to Utilize Embedded Languages](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
+		- [Choosing Languages](3-Advanced/Technical-Judgment/03-Choosing-Languages.md)
+	- Compromising Wisely
+		- [How to Fight Schedule Pressure](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
+		- [How to Understand the User](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
+		- [How to Get a Promotion](3-Advanced/Compromising-Wisely/03-How-to-Get-a-Promotion.md)
+	- Serving Your Team
+		- [How to Develop Talent](3-Advanced/Serving-Your-Team/01-How-to-Develop-Talent.md)
+		- [How to Choose What to Work On](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
+		- [How to Get the Most From Your Team-mates](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
+		- [How to Divide Problems Up](3-Advanced/Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
+		- [How to Handle Boring Tasks](3-Advanced/Serving-Your-Team/05-How-to-Handle-Boring-Tasks.md)
+		- [How to Gather Support for a Project](3-Advanced/Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
+		- [How to Grow a System](3-Advanced/Serving-Your-Team/07-How-to-Grow-a-System.md)
+		- [How to Communicate Well](3-Advanced/Serving-Your-Team/08-How-to-Communicate-Well.md)
+		- [How to Tell People Things They Don't Want to Hear](3-Advanced/Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
+		- [How to Deal with Managerial Myths](3-Advanced/Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
+		- [How to Deal with Organizational Chaos](3-Advanced/Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
 4. [Glossary](GLOSSARY.md)
 5. [Appendix A - Bibliography/Websiteography](5-Bibliography.md)
 6. [Appendix B - History (As of January 2016)](6-History.md)

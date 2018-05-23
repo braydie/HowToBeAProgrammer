@@ -1,5 +1,5 @@
 # Take Breaks when Stumped
 [//]: # (Version:1.0.0)
-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÍAï¿½xï¿½eï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÉŽï¿½ï¿½ÍŽï¿½ï¿½É‚ï¿½15ï¿½ï¿½ï¿½ï¿½ï¿½Ò‘zï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É–ß‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É–ï¿½ï¿½ï¿½ï¿½Í–ï¿½ï¿½@ï¿½Ì‚æ‚¤ï¿½É‰ï¿½ï¿½ï¿½ï¿½B ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ÍŽï¿½ï¿½É‚Í“ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‘å‚«ï¿½ï¿½ï¿½È‚ï¿½ï¿½B ï¿½êŽžï¿½Iï¿½É‘ï¿½ï¿½ÌƒAï¿½Nï¿½eï¿½Bï¿½rï¿½eï¿½Bï¿½ÉØ‚ï¿½ï¿½Ö‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+¢‚Á‚½‚Æ‚«‚ÍA‹xŒe‚µ‚Ä‚­‚¾‚³‚¢B ¢‚Á‚½‚Æ‚«‚ÉŽ„‚ÍŽž‚É‚Í15•ªŠÔáÒ‘z‚µAŽ„‚ª‚»‚ê‚É–ß‚Á‚½‚Æ‚«‚É–â‘è‚Í–‚–@‚Ì‚æ‚¤‚É‰ð‚­B –é‚Ì‡–°‚ÍŽž‚É‚Í“¯‚¶‚æ‚¤‚É‘å‚«‚­‚È‚éB ˆêŽž“I‚É‘¼‚ÌƒAƒNƒeƒBƒrƒeƒB‚ÉØ‚è‘Ö‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
 
 Next [How to Recognize When to Go Home](10-How-to-Recognize-When-to-Go-Home.md)
