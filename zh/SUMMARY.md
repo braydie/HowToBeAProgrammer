@@ -10,7 +10,7 @@
 		- [学会 Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		- [如何通过分割问题 Debug](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
 		- [如何移除一个错误](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
-		- [如何用使用日志调试](1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
+		- [如何使用日志调试](1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
 		- [如何理解性能问题](1-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
 		- [如何解决性能问题](1-Beginner/Personal-Skills/06-How-to-Fix-Performance-Problems.md)
 		- [如何优化循环](1-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
