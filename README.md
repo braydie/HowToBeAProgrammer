@@ -6,7 +6,7 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[Available on gitbook to read online or download for offline reading (as PDF, ePub or Mobi)](https://braydie.gitbook.io/how-to-be-a-programmer/)
+[Available on gitbook to read](https://braydie.gitbook.io/how-to-be-a-programmer/)
 
 [Available to buy as a hardcover book (cost covers production & shipping only)](http://www.blurb.com/b/6999069-how-to-be-a-programmer) - Edition 1, published 04/01/16
 
