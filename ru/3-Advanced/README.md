@@ -1,0 +1,22 @@
+# 3. Advanced
+[//]: # (Version:1.0.0)
+- Технологическая экспертиза
+	- [Как отличить сложное от невозможного](Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
+	- [Как использовать встроенные языки](Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
+	- [Выбор языка программирования](Technical-Judgment/03-Choosing-Languages.md)
+- Правильные компромиссы
+	- [Как справляться с давлением графика](Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
+	- [Как понять пользователя](Compromising-Wisely/02-How-to-Understand-the-User.md)
+	- [Как получить повышение](Compromising-Wisely/03-How-to-Get-a-Promotion.md)
+- Управление командой
+	- [Как развивать таланты](Serving-Your-Team/01-How-to-Develop-Talent.md)
+	- [Как выбрать, над чем работать](Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
+	- [Как получить наибольшую отдачу от коллег](Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
+	- [Как разделять задачи](Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
+	- [Как распределять скучные задания](Serving-Your-Team/05-How-to-Handle-Boring-Tasks.md)
+	- [Как получить поддержку для проекта](Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
+	- [Как развивать систему](Serving-Your-Team/07-How-to-Grow-a-System.md)
+	- [Как качественно взаимодействовать](Serving-Your-Team/08-How-to-Communicate-Well.md)
+	- [Как сообщать неприятное](Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
+	- [Как справляться с менеджерскими мифами](Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
+	- [Как справляться с организационным хаосом](Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)
