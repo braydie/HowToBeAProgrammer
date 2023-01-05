@@ -18,7 +18,7 @@
 
 ## Сайты
 
-[PGSite] Paul Graham. 2002. Articles on his website: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). All of them, but especially "Beating the Averages".
+[PGSite] Paul Graham. 2002. Статьи на его вебсайте: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). Рекомендую все статьи, особенно "Beating the Averages".
 
 [Hacker] Eric S. Raymond. 2003. How to Become a Hacker. [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html).
 

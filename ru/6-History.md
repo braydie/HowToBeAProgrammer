@@ -1,47 +1,43 @@
 # Приложение B - История
 [//]: # (Version:1.0.0)
-## Move to Github
+## Переезд на Github
 
-This essay has been created as a repository on Github so that it can be easily shared, updated and improved. It was copied from [http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm](http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm) by [Braydie Grove](https://github.com/braydie). It was moved to Github in January 2016.
+Это эссе было перемещено в репозиторий Gihub для более простого распространения, обновлени и улучшения. Оно было скопировано [Braydie Grove](https://github.com/braydie) с [http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm](http://samizdat.mines.edu/howto/HowToBeAProgrammer.htm). Эссе переехало на Github в январе 2016 года.
 
-## Request for Feedback or Extension
+## Просьба об обратной связи и дополнениях
 
-Please send me any comments you may have on this essay. I consider all suggestions, many of which have already improved this essay.
+Пожалуйста, присылайте любые комментарии, которые у вас есть по этому эссе. Я рассматриваю все предложения, многие из них уже внесли свой вклад в улучшение эссе.
 
-I have placed this essay under the GNU Free Documentation License. This license is not specifically designed for essays. Essays are usually intended to be coherent and convincing arguments that are written from a single point of view in a single voice. I hope this essay is a short and pleasant read.
+Я разместил эссе под GNU Free Documentation License. Эта лицензия не предназначена специально для эссе. Они обычно представляют собой последовательные и убедительные тезисы, изложенные с одной точки зрения в едином стиле. Я надеюсь, что это эссе будет коротким и приятным чтением.
 
-I also hope that it is instructive. Although not a textbook, it is broken into many small sections to which new sections can be freely added. If so inclined, you are encouraged to expand upon this essay as you see fit, subject to the provisions of the License.
+Я также надеюсь, что оно поучительным. Хоть это и не учебник, я разбил его на множество маленьких разделов, к которым можно легко добавлять новые. Если у вас есть желание, вы можете расширить это эссе по своему усмотрению в соответствии с положениеями лицензии.
 
-It may be arrogance to imagine that this document is worthy of extension; but hope springs eternal. I would be joyous if it were extended in the following ways:
+Возможно, самонадеянно полагать, что документ достоин расширения, но надежда вечна. Я был бы счастлив, если бы он был бы расширен следующим образом:
 
-The addition of a comprehensive reading list to each section,
+- Добавление полного списка литературы к каждому разделу
+- Добавление новых и лучших разделов
+- Переводы на другие языки, даже если только на основе подразделов
+- Критика или построчные комментарии
+- Возможность преобразовывать в другие форматы, такие как PALM и более совершенный HTML
 
-The addition of more and better sections,
+Если вы сообщите мне о своей работе, я рассмотрю ее и, возможно, включу в последующие версии в соответствии с положениями лицензии. Конечно, вы можете создать свою собственную версию этого документа без моего ведома, как это разъясняется в лицензии.
 
-Translation into other languages, even if only on a subsection-by-subsection basis, and/or
+Спасибо.
 
-Criticism or commentary in-lined into the text.
+Роберт Л. Рид
 
-The ability to build into different formats, such as palm formats and better HTML.
+## Оригинальная версия
 
-If you inform me of your work, I will consider it and may include it in subsequent versions that I produce, subject to the provisions of the License. You may of course produce your own versions of this document without my knowledge, as explained in the License.
+Оригинальная версия этого документа была начата Робртом Л. Ридом в 2000 году и впервые опубликована в электронном вида в Samizdat Press(http://Samizdat.mines.edu) в 2002 году. Он посвящен программистам Hire.com.
 
-Thank you.
+После того, как статья была упомянута на Slashdot в 2003 году, около 75 человек прислали мне письма с предложениями и найденными ошибками. Я ценю помощь и вклад каждого из них. Было немало повторов, но эти люди внесли значимые предложения или первые заметили ошибки, которые я позже исправил: Морган МакГуайр, Дэвид Мейсон, Том Мортел, ninja Programmer на Slashdot, Бен Верк, Роб Хаферник, Марк Хоув, Питер Парейт, Брайан Грейсон, Зед А. Шоу, Стив, Бенц, Максим Йоффе, Эндрю Ву, Дэвид Джецке и Том Коркоран.
 
-Robert L. Read
+Наконец, я хотел бы поблагодарить Кристину Валлери, чья редакция и вычитка существенно улучшили второй черновик, и Уэйна Аллена, который побудил мне начать это эссе.
 
-## Original Version
+## Биография автора
 
-The original version of this document was begun by Robert L. Read in the year 2000 and first published electronically at Samizdat Press(http://Samizdat.mines.edu) in 2002. It is dedicated to the programmers of Hire.com.
+Роберт Л. Рид живет в Остине, Техас, с женой и двумя детьми. В настоящее время он работает главным инженером в Hire.com, где он работает последние четыре года. До этого он основал 4R Technology, разработавшую инструмент контроля качества для анализа изображений на основе сканнера в индустрии производства бумаги.
 
-After this article was mentioned on Slashdot in 2003, about 75 people sent me email with suggestions and errata. I appreciate them all. There was a lot of duplication, but the following people either made major suggestions or were the first to find a bug that I fixed: Morgan McGuire, David Mason, Tom Moertel, Ninja Programmer (145252) at Slashdot, Ben Vierck, Rob Hafernik, Mark Howe, Pieter Pareit, Brian Grayson, Zed A. Shaw, Steve Benz, Maksim Ioffe, Andrew Wu, David Jeschke, and Tom Corcoran.
+Роберт получил ученую степень PhD в университете Техаса в Остине в 1995 году в области информатики, связанной с теорией баз данных. В 1987 году он получил степень бакалавра информатики в университете Райса. Он работает программистом с 16 лет.
 
-Finally I would like to thank Christina Vallery, whose editing and proofreading greatly improved the second draft, and Wayne Allen, who encouraged me to initiate this.
-
-## Original Author's Bio
-
-Robert L. Read lives in Austin, Texas, with his wife and two children. He is currently a Principal Engineer at Hire.com, where he has worked for four years. Prior to that he founded 4R Technology, which made a scanner-based image analysis quality control tool for the paper industry.
-
-Rob received a PhD from the University of Texas at Austin in 1995 in Computer Science related to database theory. In 1987 he received a BA in Computer Science from Rice University. He has been a paid programmer since the age of 16.
-
-Next [License](LICENSE.md)
+Следующее: [Лицензия](LICENSE.md)
