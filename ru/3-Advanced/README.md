@@ -1,6 +1,6 @@
-# 3. Advanced
+# 3. Продвинутый программист
 [//]: # (Version:1.0.0)
-- Технологическая экспертиза
+- Техническая экспертиза
 	- [Как отличить сложное от невозможного](Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
 	- [Как использовать встроенные языки](Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
 	- [Выбор языка программирования](Technical-Judgment/03-Choosing-Languages.md)

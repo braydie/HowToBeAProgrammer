@@ -1,31 +1,32 @@
-# Участеи в проекте
+# Участие в проекте
 [//]: # (Version:1.0.0)
-This repository aims to be a community driven project, and your involvement will ultimately help improve the quality of this guide. 
+Данный репозиторий предназначен для проекта с участием широкого общества. Ваш личный вклад существенно улучшит качества данного эссе.
 
-## What can I do to contribute?
-There are a number of ways to contribute to "How to be a Programmer".
+## Как я могу внести свой вклад в проект?
+Есть несколько способов внести свой вклад в проект.
 
-- Ideas for new sections
-- Improvements to existing sections
-- Identifying typos or other issues in sections
-- Contributing additional links to resources for sections
-- General suggestions for improving the project
-- Provide translations of the guide
+- Идеи по новым разделам
+- Улучшения уже имеющихся разделов
+- Выявление опечаток или иных ошибок в разделах
+- Добавление новых ссылок на источники в разделах
+- Общие предложения по улучшению проекта
+- Переводы на другие языки
 
-## Translations
+## Переводы
 
-Currently this guide has been translated from English into the following languages:
+В настоящее время это эссе переведено с английского на следующие языки:
 
-- Chinese by [ahangchen](https://github.com/ahangchen)
+- Китайский. Переводчик [ahangchen](https://github.com/ahangchen)
+- Русский. Переводчик [paveltovchigrechko](https://github.com/paveltovchigrechko)
 
-**If you provide the initial translation of the guide into another language, you become legible to become a contributor on this project to help maintain and review changes made to the translation.**
+**Если вы предоставляете начальный перевод эссе на другой язык, то вы получаете право стать соавтором проекта для поддержки и ревью изменений в вашем переводе.**
 
-## Contributors
+## Участники проекта
 
-Github holds a list of all [contributors](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors) to this project.
+Github содержит список всех [участников](https://github.com/braydie/HowToBeAProgrammer/graphs/contributors) данного проекта.
 
-## Editorship and Move to GitHub
+## Редакция и переезд на Github
 
-[Braydie Grove](https://www.github.com/braydie) has agreed to serve as editor-in-chief.
+[Braydie Grove](https://www.github.com/braydie) согласился быть главным редактором проекта.
 
-Braydie transposed the original essay into MarkDown and created the repository.
+Он перевел оригинальное эссе в MarkDown и создал данный репозиторий.

@@ -14,7 +14,7 @@
 
 [Prag99] Andrew Hunt, David Thomas, and Ward Cunningham. 1999. 020161622X. Addison-Wesley. The Pragmatic Programmer: From Journeyman to Master.
 
-[Stronger] Friedrich Nietzsche. 1889. Twilight of the Idols, "Maxims and Arrows", section 8..
+[Stronger] Friedrich Nietzsche. 1889. Twilight of the Idols, "Maxims and Arrows", section 8.
 
 ## Сайты
 

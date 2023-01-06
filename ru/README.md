@@ -1,25 +1,25 @@
-# How to be a Programmer: Community Version
+# Как быть программистом: Community Version
 [//]: # (Version:1.0.0)
 Robert L. Read with Community
 
 Copyright 2002, 2003, 2016 Robert L. Read
 
-Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Выпущено под лицензией [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Введение
-Быть хорошим программистом трудно и благородно. Самое сложное в коллективной разработке программного обеспечения это взаимодействие с коллегами и клиентами. Писать компьютерные программы важно и требует многих знаний и навыков, но это лишь детский лепет по сравнению с тем прочим, что хороший программист должен делать, чтобы создать программное обеспечение, успешное и для клиентов, и для множества коллег, за которых он несет частичную ответственность. В данном эссе я попытаюсь как можно более кратко изложить все те нюансы и детали, которые я сам бы хотел, чтобы кто-нибудь мне объяснил, когда мне был двадцать один год.
+Быть хорошим программистом трудно и благородно. Самое сложное в коллективной разработке программного обеспечения это взаимодействие с коллегами и клиентами. Писать компьютерные программы важно и требует многих знаний и навыков, но это лишь детский лепет по сравнению с тем прочим, что хороший программист должен делать, чтобы создать программное обеспечение, успешное как для клиентов, так для множества коллег, за которых он несет частичную ответственность. В данном эссе я попытаюсь как можно более кратко изложить все те нюансы и детали, которые я сам бы хотел, чтобы кто-нибудь мне объяснил, когда мне был двадцать один год.
 
-Это очень субъективная тема, поэтому данное эссе неизбежно будет отражением моих персональных взглядов и убеждений. Я ограничу себя проблемами, с которыми, скорее всего, столкнется почти каждый программист во время работы. Многие из них, а также их решения являются настолько общечеловеческими, что вероятно, мой тон покажется назидательным. Несмотря на это, я надеюсь, что эссе окажется полезным.
+Это очень субъективная тема, поэтому данное эссе неизбежно будет отражать мои личные взгляды и убеждения. Я ограничу себя проблемами, с которыми, скорее всего, столкнется почти каждый программист во время работы. Многие из них, а также их решения являются настолько общечеловеческими, что вероятно, мой тон покажется назидательным. Несмотря на это, я надеюсь, что эссе окажется полезным.
 
-Программирование преподается на курсах. Великолепные книги The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96] и Extreme Programming Explained [XP99]: все обучают программированию и более общим вопросам о том, как быть хорошим программистом. До или вместе с данной статьей непременно стоит ознакомиться также с эссе Paul Graham [PGSite] и Eric Raymond [Hacker]. Данное эссе слегка отличается от этих великолепных работ тем, что акцентирует внимание на социальных проблемах и обобщает набор необходимых программисту навыков так с моей личной точки зрения.
+Программирование преподается на курсах. Великолепные книги The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96] и Extreme Programming Explained [XP99]: все обучают программированию и более общим вопросам о том, как быть хорошим программистом. До или вместе с данной статьей непременно стоит ознакомиться также с эссе Пола Грехэма [PGSite] и Эрика Рэймонда [Hacker]. Данное эссе слегка отличается от этих великолепных работ тем, что акцентирует внимание на социальных проблемах и обобщает набор навыков, необходимых программисту, с моей личной точки зрения.
 
-В данном эссе я называю "боссом" любого, кто ставит перед вами задачи. Слова "бизнес", "компания" и "племя" я использую как синонимы, кроме тех случаев, когда "бизнес" означает генерирование прибыли, "компания" - место работы, а "клан" - людей, с которыми вы разделяете преданность.
+В данном эссе я называю "боссом" любого, кто ставит перед вами задачи. Слова "бизнес", "компания" и "клан" я использую как синонимы, кроме тех случаев, когда "бизнес" означает генерирование прибыли, "компания" - место работы, а "клан" - людей, с которыми вы разделяете преданность общему делу или профессии.
 
 Добро пожаловать в клан.
 
 ## Содержание
 
-1. [Начинающий разработчик](1-Beginner)
+1. [Начинающий программист](1-Beginner)
 	- Личные навыки
 		- [Научитесь отлаживать](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		- [Как отлаживать, разделяя пространство проблемы](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
@@ -45,7 +45,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [Делайте перерывы, когда вы в тупике](1-Beginner/Team-Skills/09-Take-Breaks-when-Stumped.md)
 		- [Как понять, когда идти домой](1-Beginner/Team-Skills/10-How-to-Recognize-When-to-Go-Home.md)
 		- [Как вести себя с трудными людьми](1-Beginner/Team-Skills/11-How-to-Deal-with-Difficult-People.md)
-2. [Разработчик среднего уровня](2-Intermediate)
+2. [Программист среднего уровня](2-Intermediate)
 	- Личные навыки
 		- [Как сохранять мотивацию](2-Intermediate/Personal-Skills/01-How-to-Stay-Motivated.md)
 		- [Как заслужить доверие](2-Intermediate/Personal-Skills/02-How-to-be-Widely-Trusted.md)
@@ -73,8 +73,8 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 		- [Как проводить собеседования](2-Intermediate/Judgment/06-How-to-Evaluate-Interviewees.md)
 		- [Как понять, когда применять высокие технологии](2-Intermediate/Judgment/07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
 		- [Как разговаривать с неинженерами](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
-3. [Продвинутый разработчик](3-Advanced)
-	- Технологическая экспертиза
+3. [Продвинутый программист](3-Advanced)
+	- Техническая экспертиза
 		- [Как отличить сложное от невозможного](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
 		- [Как использовать встроенные языки](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
 		- [Выбор языка программирования](3-Advanced/Technical-Judgment/03-Choosing-Languages.md)
@@ -97,7 +97,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 4. [Глоссарий](GLOSSARY.md)
 5. [Приложение A - Библиография/Список сайтов](5-Bibliography.md)
 6. [Приложение B - История (на январь 2016)](6-History.md)
-6. [Приложение C - Участие в проекте (на январь 2016)](7-Contributions.md)
+7. [Приложение C - Участие в проекте (на январь 2016)](7-Contributions.md)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
