@@ -17,6 +17,7 @@ There are a number of ways to contribute to "How to be a Programmer".
 Currently this guide has been translated from English into the following languages:
 
 - Chinese by [ahangchen](https://github.com/ahangchen)
+- Russian by [paveltovchigrechko](https://github.com/paveltovchigrechko)
 
 **If you provide the initial translation of the guide into another language, you become legible to become a contributor on this project to help maintain and review changes made to the translation.**
 
