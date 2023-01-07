@@ -18,14 +18,14 @@
 
 ## Сайты
 
-[PGSite] Paul Graham. 2002. Статьи на его вебсайте: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). Рекомендую все статьи, особенно "Beating the Averages".
+[PGSite] Пол Грэхем. 2002. Статьи на его вебсайте: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). Рекомендую все статьи, особенно "Beating the Averages".
 
-[Hacker] Eric S. Raymond. 2003. How to Become a Hacker. [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html).
+[Hacker] Эрик С. Рэймонд. 2003. How to Become a Hacker. [http://www.catb.org/~esr/faqs/hacker-howto.html](http://www.catb.org/~esr/faqs/hacker-howto.html).
 
-[HackDict] Eric S. Raymond. 2003. The New Hacker Dictionary. [http://catb.org/esr/jargon/jargon.html](http://catb.org/esr/jargon/jargon.html).
+[HackDict] Эрик С. Рэймонд. 2003. The New Hacker Dictionary. [http://catb.org/esr/jargon/jargon.html](http://catb.org/esr/jargon/jargon.html).
 
-[ExpCS] Edsger W. Dijkstra. 1986. How Experimental is Computing Science?. [http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD988a.PDF](http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD988a.PDF).
+[ExpCS] Эдсгер В. Дейкстра. 1986. How Experimental is Computing Science?. [http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD988a.PDF](http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD988a.PDF).
 
-[Knife] Edsger W. Dijkstra. 1984. On a Cultural Gap. [http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD913.PDF](http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD913.PDF).
+[Knife] Эдсгер В. Дейкстра. 1984. On a Cultural Gap. [http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD913.PDF](http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD913.PDF).
 
 Следующее: [История](6-History.md)
