@@ -1,0 +1,13 @@
+# ¿Cómo depurar utilizando un registro (Log)?
+[//]: # (Version:1.0.0)
+*Registro* es la práctica de escribir un sistema de manera que produzca una secuencia de registros informativos, llamada un registro. *Printlining* es simplemente producir un registro simple, generalmente temporal. Los principiantes absolutos deben comprender y utilizar registros porque su conocimiento de programación es limitado; los arquitectos del sistema deben comprender y utilizar registros debido a la complejidad del sistema. La cantidad de información proporcionada por el registro debería ser configurable, idealmente mientras el programa se está ejecutando. En general, los registros ofrecen tres ventajas básicas:
+
+- Los logs pueden proporcionar información útil sobre errores que son difíciles de reproducir, como aquellos que ocurren en el entorno de producción pero que no pueden reproducirse en el entorno de prueba.
+- Los logs pueden proporcionar estadísticas y datos relevantes para el rendimiento, como el tiempo transcurrido entre declaraciones.
+- Cuando son configurables, los logs permiten capturar información general para depurar problemas específicos no anticipados sin tener que modificar y/o volver a implementar el código solo para abordar esos problemas específicos.
+
+La cantidad de información que se incluye en el log es siempre un compromiso entre la información y la concisión. Demasiada información hace que el log sea costoso y produce una *ceguera al desplazamiento*, dificultando encontrar la información necesaria. Muy poca información puede hacer que no contenga lo necesario. Por esta razón, hacer configurable lo que se produce en el log es muy útil. Típicamente, cada registro en el log identificará su posición en el código fuente, el hilo que lo ejecutó si es aplicable, el tiempo exacto de ejecución y, comúnmente, una pieza adicional de información útil, como el valor de alguna variable, la cantidad de memoria libre, el número de objetos de datos, etc. Estas declaraciones de log están distribuidas por todo el código fuente, especialmente en los puntos de funcionalidad principales y alrededor del código riesgoso. Cada declaración puede recibir un nivel y solo producirá un registro si el sistema está configurado actualmente para producir ese nivel. Debe diseñar las declaraciones de log para abordar problemas que anticipa. Anticipe la necesidad de medir el rendimiento.
+
+Si tiene un log permanente, la impresión temporal ahora se puede hacer en términos de los registros del log, y algunas de las declaraciones de depuración probablemente se agregarán permanentemente al sistema de registro.
+
+Siguiente [¿Cómo entender problemas de rendimiento?](05-How-to-Understand-Performance-Problems.md)

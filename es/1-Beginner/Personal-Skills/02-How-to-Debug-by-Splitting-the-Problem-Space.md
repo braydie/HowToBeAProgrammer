@@ -1,0 +1,16 @@
+# ¿Cómo depurar dividiendo el espacio del problema?
+[//]: # (Version:1.0.0)
+
+Depurar es divertido, porque comienza con un misterio. Piensas que debería hacer algo, pero en cambio hace algo diferente. No siempre es tan simple; cualquier ejemplo que pueda dar será más artificial en comparación con lo que a veces sucede en la práctica. Depurar requiere creatividad e ingenio. Si hay una clave única para depurar, es utilizar la técnica de dividir y conquistar en el misterio.
+
+Supongamos, por ejemplo, que creaste un programa que debería realizar diez cosas en una secuencia. Cuando lo ejecutas, se bloquea. Como no lo programaste para que se bloqueara, ahora tienes un misterio. Cuando miras la salida, ves que las primeras siete cosas de la secuencia se ejecutaron con éxito. Las últimas tres no son visibles en la salida, así que ahora tu misterio es más pequeño: 'Se bloqueó en la cosa #8, #9 o #10'.
+
+¿Puedes diseñar un experimento para ver en qué cosa se bloqueó? Claro. Puedes usar un depurador o podemos agregar declaraciones de impresión (o su equivalente en el lenguaje en el que estás trabajando) después de #8 y #9. Cuando lo ejecutemos nuevamente, nuestro misterio será más pequeño, como 'Se bloqueó en la cosa #9'. Encuentro que tener en cuenta exactamente cuál es el misterio en cualquier momento ayuda a mantener el enfoque. Cuando varias personas trabajan juntas bajo presión en un problema, es fácil olvidar cuál es el misterio más importante.
+
+La clave para dividir y conquistar como técnica de depuración es la misma que para el diseño de algoritmos: siempre y cuando dividas bien el misterio por la mitad, no tendrás que dividirlo muchas veces y depurarás rápidamente. Pero, ¿cuál es la mitad de un misterio? Aquí es donde entra la verdadera creatividad y experiencia.
+
+Para un principiante real, el espacio de todos los posibles errores parece abarcar cada línea del código fuente. No tienes la visión que desarrollarás más adelante para ver las otras dimensiones del programa, como el espacio de las líneas ejecutadas, la estructura de datos, la gestión de memoria, la interacción con el código externo, el código riesgoso y el código simple. Para el programador experimentado, estas otras dimensiones forman un modelo mental imperfecto pero muy útil de todas las cosas que pueden salir mal. Contar con ese modelo mental es lo que ayuda a encontrar efectivamente el punto medio del misterio.
+
+Una vez que hayas subdividido equitativamente el espacio de todo lo que puede salir mal, debes tratar de decidir en qué espacio se encuentra el error. En el caso sencillo en el que el misterio es: "¿Qué línea desconocida hace que mi programa se bloquee?", puedes preguntarte: "¿Se ejecuta la línea desconocida antes o después de esta línea que juzgo que se ejecuta en el medio del programa en ejecución?" Por lo general, no tendrás la suerte de saber que el error existe en una sola línea, o incluso en un solo bloque. A menudo, el misterio será más como: "O bien hay un puntero en ese gráfico que apunta al nodo incorrecto, o mi algoritmo que suma las variables en ese gráfico no funciona". En ese caso, es posible que debas escribir un pequeño programa para verificar que los punteros en el gráfico sean correctos y así decidir qué parte del misterio subdividido se puede eliminar.
+
+Siguiente [¿Cómo eliminar un error?](03-How-to-Remove-an-Error.md)

@@ -1,0 +1,5 @@
+# Aprender a escribir
+[//]: # (Version:1.0.0)
+Aprende a escribir a máquina sin mirar el teclado (touch-type). Esta es una habilidad intermedia porque escribir código es tan difícil que la velocidad a la que puedes escribir es irrelevante y no puede marcar mucha diferencia en el tiempo que lleva escribir código, sin importar cuán bueno seas. Sin embargo, cuando eres un programador intermedio, probablemente pasarás mucho tiempo escribiendo en lenguaje natural para tus colegas y otros. Esto es una prueba divertida de tu compromiso; toma tiempo dedicado que no es muy divertido aprender algo así. Se cuenta la leyenda de que cuando Michael Tiemann estaba en MCC, la gente se paraba fuera de su puerta para escuchar el zumbido generado por sus pulsaciones de teclas, que eran tan rápidas que eran indistinguibles.
+
+Siguiente [¿Cómo hacer pruebas de integración?](08-How-to-Do-Integration-Testing.md)

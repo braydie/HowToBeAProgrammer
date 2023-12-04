@@ -1,0 +1,9 @@
+# ¿Cómo eliminar un error?
+[//]: # (Version:1.0.0)
+He separado intencionalmente el acto de examinar la ejecución de un programa del acto de corregir un error. Pero, por supuesto, depurar también significa eliminar el error. Idealmente, tendrás un entendimiento perfecto del código y llegarás a un momento de "¡Ajá!" donde verás perfectamente el error y cómo solucionarlo. Pero dado que tu programa a menudo utilizará sistemas insuficientemente documentados en los que no tienes visibilidad, esto no siempre es posible. En otros casos, el código es tan complicado que tu comprensión no puede ser perfecta.
+
+Al corregir un error, quieres hacer el cambio más pequeño que solucione el error. Puedes notar otras cosas que necesitan mejoras, pero no las corrijas al mismo tiempo. Intenta emplear el método científico de cambiar solo una cosa a la vez. El mejor proceso para esto es poder reproducir fácilmente el error, luego implementar tu corrección y volver a ejecutar el programa para observar que el error ya no existe. Por supuesto, a veces es necesario cambiar más de una línea, pero aún así debes aplicar conceptualmente un cambio único y atómico para corregir el error.
+
+A veces, hay varios errores que parecen ser uno solo. Depende de ti definir los errores y corregirlos uno a la vez. En ocasiones, no está claro qué debería hacer el programa o cuál era la intención del autor original. En este caso, debes ejercitar tu experiencia y juicio, asignar tu propio significado al código. Decide qué debería hacer y coméntalo o acláralo de alguna manera, luego haz que el código se ajuste a tu interpretación. Esta es una habilidad intermedia o avanzada que a veces es más difícil que escribir la función original en primer lugar, pero el mundo real a menudo es complicado. Puedes tener que corregir un sistema que no puedes reescribir.
+
+Siguiente [¿Cómo depurar utilizando un registro (Log)?](04-How-to-Debug-Using-a-Log.md)
