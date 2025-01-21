@@ -1,5 +1,5 @@
 # Contributions
-
+[//]: # (Version:1.0.0)
 这个仓库目标是成为一个社区驱动的工程，你的加入会极大地促进这个向导的质量。
 
 ## 我可以做什么贡献？
@@ -18,6 +18,7 @@
 当前，这份指导已经从英文翻译为以下语言：
 
 - 中文 by [ahangchen](https://github.com/ahangchen)
+- Spanish by [Maximiliano Murua](https://gitlab.com/maximiliano.murua)
 
  **如果你第一个提供了其他语言的翻译，你就是这个工程的一个明确的贡献者，请帮忙维护和 review 对翻译版本的修改。**
 

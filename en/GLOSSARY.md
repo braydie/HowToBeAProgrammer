@@ -1,5 +1,5 @@
 # Glossary
-
+[//]: # (Version:1.0.0)
 This is a glossary of terms as used in this essay. These do not necessarily have a standardized meaning to other people. Eric S. Raymond has compiled a massive and informative glossary[HackerDict] that rather surprisingly can pleasurably be read cover-to-cover once you can appreciate a fraction of it.
 
 ### unk-unk
@@ -45,10 +45,6 @@ A group of people organized for making money.
 ### company
 
 A group of people organized for making money.
-
-### tribe
-
-A group of people you share cultural affinity and loyalty with.
 
 ### scroll blindness
 

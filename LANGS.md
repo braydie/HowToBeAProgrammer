@@ -1,2 +1,6 @@
 * [English](en/)
+* [Spanish](es/)
 * [Chinese](zh/)
+* [Japanese](jp/)
+* [Russian](ru/)
+* [Chinese-Traditional](zh-traditional/)

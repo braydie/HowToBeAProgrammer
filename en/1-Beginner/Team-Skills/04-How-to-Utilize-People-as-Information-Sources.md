@@ -1,0 +1,15 @@
+# How to Utilize People as Information Sources
+[//]: # (Version:1.0.0)
+Respect every person's time and balance it against your own. Asking someone a question accomplishes far more than just receiving the answer. The person learns about you, both by enjoying your presence and hearing the particular question. You learn about the person in the same way, and you may learn the answer you seek. This is usually far more important than your question.
+
+However, the value of this diminishes the more you do it. You are, after all, using the most precious commodity a person has: their time. The benefits of communication must be weighed against the costs. Furthermore, the particular costs and benefits derived differ from person to person. I strongly believe that an executive of 100 people should spend five minutes a month talking to each person in her organization, which would be about 5% of their time. But ten minutes might be too much, and five minutes is too much if they have one thousand employees. The amount of time you spend talking to each person in your organization depends on their role (more than their position). You should talk to your boss more than your boss's boss, but you should talk to your boss's boss a little. It may be uncomfortable, but I believe you have a duty to talk a little bit to all your superiors, each month, no matter what.
+
+The basic rule is that everyone benefits from talking to you a little bit, and the more they talk to you, the less benefit they derive. It is your job to provide them this benefit, and to get the benefit of communicating with them, keeping the benefit in balance with the time spent.
+
+It is important to respect your own time. If talking to someone, even if it will cost them time, will save you a great deal of time, then you should do it unless you think their time is more valuable than yours, to the tribe, by that factor.
+
+A strange example of this is the summer intern. A summer intern in a highly technical position can't be expected to accomplish too much; they can be expected to pester the hell out of everybody there. So why is this tolerated? Because the pestered are receiving something important from the intern. They get a chance to show-off a little. They get a chance to hear some new ideas, maybe; they get a chance to see things from a different perspective. They may also be trying to recruit the intern, but even if this is not the case there is much to gain.
+
+You should ask people for a little bit of their wisdom and judgement whenever you honestly believe they have something to say. This flatters them and you will learn something and teach them something. A good programmer does not often need the advice of a Vice President of Sales, but if you ever do, you be sure to ask for it. I once asked to listen in on a few sales calls to better understand the job of our sales staff. This took no more than 30 minutes but I think that small effort made an impression on the sales force.
+
+Next [How to Document Wisely](05-How-to-Document-Wisely.md)
