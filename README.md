@@ -79,6 +79,9 @@ Welcome to the tribe.
 		- [How to Evaluate Interviewees](en/2-Intermediate/Judgment/06-How-to-Evaluate-Interviewees.md)
 		- [How to Know When to Apply Fancy Computer Science](en/2-Intermediate/Judgment/07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
 		- [How to Talk to Non-Engineers](en/2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
+	- Mentoring
+		- [How to Be Mentored](en/2-Intermediate/Mentoring/How-To-Be-Mentored.md)
+  		- [How to Mentor Others](en/[2-Intermediate/Mentoring/How-to-Mentor-Others.md)
 3. [Advanced](en/3-Advanced)
 	- Technological Judgment
 		- [How to Tell the Hard From the Impossible](en/3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
