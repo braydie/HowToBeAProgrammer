@@ -1,0 +1,17 @@
+# ¿Cómo realizar pruebas de resistencia?
+[//]: # (Version:1.0.0)
+Las pruebas de estrés son divertidas. Al principio, parece que el propósito de las pruebas de estrés es descubrir si el sistema funciona bajo carga. En realidad, es común que el sistema funcione bajo carga pero falle de alguna manera cuando la carga es lo suficientemente pesada. Llamo a esto chocar *contra la pared* o *bonking*<sup>[1]</sup>. Puede haber algunas excepciones, pero casi siempre hay una ‘pared’. El propósito de las pruebas de estrés es descubrir dónde está la pared y luego averiguar cómo moverla más hacia afuera.
+
+Un plan para las pruebas de estrés debe desarrollarse temprano en el proyecto, porque a menudo ayuda a aclarar exactamente lo que se espera. ¿Dos segundos para una solicitud de página web son un fracaso miserable o un éxito rotundo? ¿Son suficientes 500 usuarios concurrentes? Eso, por supuesto, depende, pero uno debe saber la respuesta al diseñar el sistema que responde a la solicitud. La prueba de estrés necesita modelar la realidad lo suficientemente bien como para ser útil. No es realmente posible simular fácilmente a 500 humanos erráticos e impredecibles usando un sistema al mismo tiempo, pero al menos se pueden crear 500 simulaciones e intentar modelar alguna parte de lo que podrían hacer.
+
+En las pruebas de estrés, comienza con una carga ligera y carga el sistema a lo largo de alguna dimensión, como la tasa de entrada o el tamaño de la entrada, hasta que choques contra la pared. Si la pared está demasiado cerca para satisfacer tus necesidades, averigua cuál es el recurso limitante (generalmente hay uno dominante). ¿Es la memoria, el procesador, la E/S, el ancho de banda de la red o la contención de datos? Luego, descubre cómo puedes mover la pared. Ten en cuenta que mover la pared, es decir, aumentar la carga máxima que el sistema puede manejar, podría no ayudar o incluso perjudicar el rendimiento de un sistema ligeramente cargado. Por lo general, el rendimiento bajo carga pesada es más importante que el rendimiento bajo carga ligera.
+
+Es posible que debas obtener visibilidad en varias dimensiones diferentes para construir un modelo mental de ello; ninguna técnica única es suficiente. Por ejemplo, el registro a menudo da una buena idea del tiempo de reloj entre dos eventos en el sistema, pero a menos que esté cuidadosamente construido, no proporciona visibilidad en la utilización de la memoria ni siquiera en el tamaño de la estructura de datos. De manera similar, en un sistema moderno, varios equipos y muchos sistemas de software pueden estar cooperando. Especialmente cuando chocas contra la pared (es decir, el rendimiento no es lineal en el tamaño de la entrada), estos otros sistemas de software pueden ser un cuello de botella. La visibilidad en estos sistemas, incluso si solo mides la carga del procesador en todas las máquinas participantes, puede ser muy útil.
+
+Saber dónde está la pared es esencial no solo para moverla, sino también para proporcionar previsibilidad para que el negocio se pueda gestionar de manera efectiva.
+
+--
+
+<sup>[1]</sup> "chocar"
+
+Siguiente [¿Cómo equilibrar brevedad y abstracción?](05-How-to-Balance-Brevity-and-Abstraction.md)

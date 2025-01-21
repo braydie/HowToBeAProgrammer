@@ -1,0 +1,11 @@
+# ¿Cómo trabajar con un código deficiente?
+[//]: # (Version:1.0.0)
+Es muy común tener que trabajar con código de baja calidad que alguien más ha escrito. No pienses demasiado mal de ellos, sin embargo, hasta que hayas estado en su lugar. Es posible que les hayan pedido muy conscientemente que hagan algo rápidamente para cumplir con la presión del cronograma. Independientemente, para trabajar con código poco claro, debes entenderlo. Entenderlo lleva tiempo de aprendizaje, y ese tiempo tendrá que salir de algún cronograma, en algún lugar, y debes insistir en ello. Para entenderlo, tendrás que leer el código fuente. Probablemente tendrás que experimentar con él.
+
+Este es un buen momento para documentar, incluso si es solo para ti, porque el acto de intentar documentar el código te obligará a considerar ángulos que quizás no hayas tenido en cuenta, y el documento resultante puede ser útil. Mientras haces esto, considera qué sería necesario para reescribir parte o todo el código. ¿Realmente ahorraría tiempo reescribir parte de él? ¿Podrías confiar más en él si lo reescribieras? Ten cuidado con la arrogancia aquí. Si lo reescribes, será más fácil para ti manejarlo, pero ¿realmente será más fácil para la siguiente persona que tenga que leerlo? Si lo reescribes, ¿cuál será la carga de pruebas? ¿Superará la necesidad de volver a probarlo cualquier beneficio que se pueda obtener?
+
+En cualquier estimación que hagas para trabajar con código que no escribiste, la calidad de ese código debería afectar tu percepción del riesgo de problemas y desconocidos.
+
+Es importante recordar que la abstracción y la encapsulación, dos de las mejores herramientas de un programador, son particularmente aplicables al código deficiente. Es posible que no puedas rediseñar un bloque grande de código, pero si puedes agregar cierta cantidad de abstracción, puedes obtener algunos de los beneficios de un buen diseño sin rehacer todo el desorden. En particular, puedes intentar aislar las partes que son especialmente malas para que puedan ser rediseñadas de forma independiente.
+
+Siguiente [¿Cómo Utilizar el Control de Código Fuente?](07-How-to-Use-Source-Code-Control.md)

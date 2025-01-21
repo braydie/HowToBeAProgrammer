@@ -18,6 +18,7 @@ Currently this guide has been translated from English into the following languag
 
 - Chinese by [ahangchen](https://github.com/ahangchen)
 - Russian by [paveltovchigrechko](https://github.com/paveltovchigrechko)
+- Spanish by [Maximiliano Murua](https://gitlab.com/maximiliano.murua)
 
 **If you provide the initial translation of the guide into another language, you become legible to become a contributor on this project to help maintain and review changes made to the translation.**
 

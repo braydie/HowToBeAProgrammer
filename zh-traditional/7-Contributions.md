@@ -18,7 +18,6 @@
 当前，这份指导已经从英文翻译为以下语言：
 
 - 中文 by [ahangchen](https://github.com/ahangchen)
-- Spanish by [Maximiliano Murua](https://gitlab.com/maximiliano.murua)
 
  **如果你第一个提供了其他语言的翻译，你就是这个工程的一个明确的贡献者，请帮忙维护和 review 对翻译版本的修改。**
 

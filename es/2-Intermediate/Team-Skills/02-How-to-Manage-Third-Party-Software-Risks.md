@@ -1,0 +1,11 @@
+# ¿Cómo gestionar los riesgos del software de terceros?
+[//]: # (Version:1.0.0)
+Un proyecto a menudo depende del software producido por organizaciones que no controla. Hay grandes riesgos asociados con el software de terceros que deben ser reconocidos por todos los involucrados.
+
+Nunca, bajo ninguna circunstancia, deposites esperanzas en *vapor*. El vapor es cualquier software supuestamente prometido pero que aún no está disponible. Esta es la manera más segura de ir a la quiebra. No es prudente ser simplemente escéptico ante la promesa de una empresa de software de lanzar un producto específico con una función específica en una fecha determinada; es mucho más sabio ignorarlo por completo y olvidar que alguna vez lo escuchaste. Nunca dejes que se escriba en documentos utilizados por tu empresa.
+
+Si el software de terceros no es vapor, aún así conlleva riesgos, pero al menos es un riesgo que se puede abordar. Si estás considerando usar software de terceros, debes dedicar energía desde el principio a evaluarlo. A la gente puede que no le guste escuchar que llevará dos semanas o dos meses evaluar cada uno de los tres productos en cuanto a su idoneidad, pero se debe hacer tan pronto como sea posible. El costo de la integración no se puede estimar con precisión sin una evaluación adecuada.
+
+Entender la idoneidad del software de terceros existente para un propósito específico es un conocimiento muy tribal. Es muy subjetivo y generalmente reside en expertos. Puedes ahorrar mucho tiempo si puedes encontrar a esos expertos. Muchas veces, un proyecto dependerá tan completamente de un sistema de software de terceros que si falla la integración, el proyecto también fallará. Expresa claramente riesgos como ese por escrito en el cronograma. Intenta tener un plan de contingencia, como otro sistema que se pueda utilizar o la capacidad de escribir la funcionalidad tú mismo si el riesgo no se puede eliminar temprano. Nunca hagas que un cronograma dependa del vapor.
+
+Siguiente [¿Cómo gestionar a los consultores?](03-How-to-Manage-Consultants.md)

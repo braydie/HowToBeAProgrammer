@@ -1,0 +1,22 @@
+# 3. Avanzado
+[//]: # (Version:1.0.0)
+- Juicio Tecnológico
+	- [¿Cómo Distinguir lo Difícil de lo Imposible?](Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
+	- [¿Cómo Utilizar Lenguajes Incorporados?](Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
+	- [Elección de Lenguajes](Technical-Judgment/03-Choosing-Languages.md)
+- Comprometerse Sabiamente
+	- [¿Cómo Combatir la Presión del Cronograma?](Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
+	- [¿Cómo Entender al Usuario?](Compromising-Wisely/02-How-to-Understand-the-User.md)
+	- [¿Cómo Obtener un Ascenso?](Compromising-Wisely/03-How-to-Get-a-Promotion.md)
+- Sirviendo a tu Equipo
+	- [¿Cómo Desarrollar el Talento?](Serving-Your-Team/01-How-to-Develop-Talent.md)
+	- [¿Cómo Elegir en Qué Trabajar?](Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
+	- [¿Cómo Obtener lo Mejor de tus Compañeros de Equipo?](Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
+	- [¿Cómo Dividir Problemas?](Serving-Your-Team/04-How-to-Divide-Problems-Up.md)
+	- [¿Cómo Manejar Tareas Aburridas?](Serving-Your-Team/05-How-to-Handle-Boring-Tasks.md)
+	- [¿Cómo Obtener Apoyo para un Proyecto?](Serving-Your-Team/06-How-to-Gather-Support-for-a-Project.md)
+	- [¿Cómo Hacer Crecer un Sistema?](Serving-Your-Team/07-How-to-Grow-a-System.md)
+	- [¿Cómo Comunicarse Bien?](Serving-Your-Team/08-How-to-Communicate-Well.md)
+	- [¿Cómo Decir Cosas que la Gente no Quiere Escuchar?](Serving-Your-Team/09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)
+	- [¿Cómo Lidiar con Mitos Gerenciales?](Serving-Your-Team/10-How-to-Deal-with-Managerial-Myths.md)
+	- [¿Cómo Lidiar con el Caos Organizacional?](Serving-Your-Team/11-How-to-Deal-with-Organizational-Chaos.md)

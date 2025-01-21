@@ -1,0 +1,11 @@
+# ¿Cómo Comunicarse Bien?
+[//]: # (Version:1.0.1)
+Para comunicarse bien, debes reconocer lo difícil que es. Es una habilidad por sí misma. Se complica por el hecho de que las personas con las que tienes que comunicarte son imperfectas. No se esfuerzan mucho en comprenderte. Hablan y escriben mal. A menudo están sobrecargados de trabajo o aburridos, y, como mínimo, están algo enfocados en su propio trabajo en lugar de los problemas más amplios que puedas estar abordando. Una de las ventajas de tomar clases y practicar la escritura, la oratoria y la escucha es que, si te vuelves hábil en ello, puedes ver más fácilmente dónde están los problemas y cómo corregirlos.
+
+El programador es un animal social cuya supervivencia depende de la comunicación con su equipo. El programador avanzado es un animal social cuya satisfacción depende de la comunicación con personas fuera de su equipo.
+
+El programador aporta orden al caos. Una forma interesante de hacerlo es iniciar una propuesta de algún tipo fuera del equipo. Esto se puede hacer en formato de *propuesta inicial* o *documento técnico* o simplemente verbalmente. Este liderazgo tiene la tremenda ventaja de establecer los términos del debate. También te expone a la crítica y, lo que es peor, al rechazo y al olvido. El programador avanzado debe estar preparado para aceptar esto, porque tiene un poder único y, por lo tanto, una responsabilidad única. Los emprendedores que no son programadores necesitan programadores para proporcionar liderazgo de alguna manera. Los programadores son la parte del puente entre las ideas y la realidad que descansa sobre la realidad.
+
+No he dominado la comunicación efectiva, pero lo que estoy intentando actualmente es lo que llamo un enfoque de cuatro puntas: después de tener mis ideas en orden y estar completamente preparado, intento hablar verbalmente, entregarles un documento técnico (en papel real, así como electrónicamente), mostrarles una demostración y luego repetir pacientemente este proceso. Creo que muchas veces no somos lo suficientemente pacientes en este tipo de comunicación difícil. No debes desanimarte si tus ideas no son aceptadas de inmediato. Si has invertido energía en su preparación, nadie pensará mal de ti por ello.
+
+Siguiente [¿Cómo Decir Cosas que la Gente no Quiere Escuchar?](09-How-to-Tell-People-Things-They-Dont-Want-to-Hear.md)

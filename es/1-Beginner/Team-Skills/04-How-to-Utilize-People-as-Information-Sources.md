@@ -1,0 +1,15 @@
+# ¿Cómo utilizar a las personas como fuentes de información?
+[//]: # (Version:1.0.0)
+Respetar el tiempo de cada persona y equilibrarlo con el tuyo es fundamental. Hacer una pregunta a alguien logra mucho más que simplemente recibir la respuesta. La persona aprende acerca de ti, tanto disfrutando de tu presencia como escuchando la pregunta en particular. De la misma manera, tú aprendes acerca de la persona y es posible que obtengas la respuesta que buscas. Esto suele ser mucho más importante que la propia pregunta.
+
+Sin embargo, el valor de esto disminuye a medida que lo haces más frecuentemente. Estás utilizando el bien más preciado que tiene una persona: su tiempo. Los beneficios de la comunicación deben sopesarse contra los costos. Además, los costos y beneficios particulares obtenidos difieren de una persona a otra. Creo firmemente que un ejecutivo con 100 personas a cargo debería pasar cinco minutos al mes hablando con cada persona en su organización, lo que sería aproximadamente el 5% de su tiempo. Pero diez minutos podrían ser demasiado, y cinco minutos son demasiados si tienen mil empleados. La cantidad de tiempo que dedicas a hablar con cada persona en tu organización depende de su función (más que de su posición). Deberías hablar más con tu jefe que con el jefe de tu jefe, pero deberías hablar un poco con el jefe de tu jefe. Puede ser incómodo, pero creo que tienes el deber de hablar un poco con todos tus superiores cada mes, sin importar qué.
+
+La regla básica es que todos se benefician al hablar contigo un poco, y cuanto más hablen contigo, menos beneficio obtendrán. Es tu trabajo proporcionarles este beneficio y obtener el beneficio de comunicarte con ellos, manteniendo un equilibrio con el tiempo invertido.
+
+Es importante respetar tu propio tiempo. Si hablar con alguien, incluso si les costará tiempo, te ahorrará mucho tiempo, entonces deberías hacerlo a menos que creas que su tiempo es más valioso que el tuyo, para la tribu, por ese factor.
+
+Un ejemplo extraño de esto es el becario de verano. No se espera que un becario de verano en una posición altamente técnica logre mucho; se espera que moleste a todos. Entonces, ¿por qué se tolera esto? Porque los molestados están recibiendo algo importante del becario. Tienen la oportunidad de lucirse un poco. Tienen la oportunidad de escuchar algunas ideas nuevas, tal vez; tienen la oportunidad de ver las cosas desde una perspectiva diferente. También pueden estar intentando reclutar al becario, pero incluso si no es el caso, hay mucho que ganar.
+
+Deberías pedirle a la gente un poco de su sabiduría y juicio siempre que honestamente creas que tienen algo que decir. Esto los halaga y aprenderás algo y les enseñarás algo. Un buen programador no suele necesitar el consejo de un Vicepresidente de Ventas, pero si alguna vez lo necesitas, asegúrate de pedirlo. Una vez pedí escuchar algunas llamadas de ventas para entender mejor el trabajo de nuestro personal de ventas. Esto no llevó más de 30 minutos, pero creo que ese pequeño esfuerzo dejó una impresión en el equipo de ventas.
+
+Siguiente [¿Cómo documentar de manera inteligente?](05-How-to-Document-Wisely.md)
