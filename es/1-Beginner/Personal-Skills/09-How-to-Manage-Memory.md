@@ -1,0 +1,15 @@
+# ¿Cómo gestionar la memoria?
+[//]: # (Version:1.0.0)
+La memoria es un recurso precioso del cual no te puedes permitir quedarse sin. Puedes ignorarlo por un tiempo, pero eventualmente tendrás que decidir cómo gestionar la memoria.
+
+El espacio que necesita persistir más allá del alcance de una única subrutina se llama a menudo asignado en el montón (*heap allocated*). Un trozo de memoria es inútil, de ahí *basura*, cuando nada se refiere a él. Dependiendo del sistema que uses, es posible que debas desasignar explícitamente la memoria tú mismo cuando esté a punto de convertirse en basura. Con mayor frecuencia, puedes usar un sistema que proporciona un recolector de basura (*garbage collector*). Un recolector de basura se da cuenta de la basura y libera su espacio sin ninguna acción requerida por el programador. La recolección de basura es maravillosa: disminuye los errores y aumenta la brevedad y concisión del código de manera económica. Úsalo cuando puedas.
+
+Pero incluso con la recolección de basura, puedes llenar toda la memoria con basura. Un error clásico es usar una tabla hash como caché y olvidar quitar las referencias en la tabla hash. Dado que la referencia permanece, el referente no es recopilable pero es inútil. Esto se llama una fuga de memoria (memory leak). Deberías buscar y corregir las fugas de memoria temprano. Si tienes sistemas de larga duración, la memoria puede nunca agotarse durante las pruebas, pero se agotará durante el uso del usuario.
+
+La creación de nuevos objetos es moderadamente costosa en cualquier sistema. Sin embargo, la memoria asignada directamente en las variables locales de una subrutina suele ser barata porque la política para liberarla puede ser muy simple. Deberías evitar la creación innecesaria de objetos.
+
+Un caso importante ocurre cuando puedes definir un límite superior en el número de objetos que necesitarás al mismo tiempo. Si todos estos objetos ocupan la misma cantidad de memoria, es posible que puedas asignar un solo bloque de memoria, o un búfer, para contenerlos a todos. Los objetos que necesitas pueden asignarse y liberarse dentro de este búfer en un patrón de rotación establecido, por lo que a veces se le llama búfer circular. Esto suele ser más rápido que la asignación en el montón (heap allocation).
+
+A veces, debes liberar explícitamente el espacio asignado para que pueda volver a asignarse en lugar de depender de la recolección de basura. Luego, debes aplicar inteligencia cuidadosa a cada fragmento de memoria asignada y diseñar una forma de liberarla en el momento adecuado. El método puede diferir para cada tipo de objeto que creas. Debes asegurarte de que cada ejecución de una operación de asignación de memoria sea coincidente con una operación de desasignación de memoria eventualmente. Esto es tan difícil que los programadores a menudo simplemente implementan una forma rudimentaria de recolección de basura, como el recuento de referencias, para hacer esto por ellos.
+
+Siguiente [¿Cómo manejar errores intermitentes?](10-How-to-Deal-with-Intermittent-Bugs.md)
