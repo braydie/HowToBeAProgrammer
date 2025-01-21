@@ -23,7 +23,8 @@ Welcome to the tribe.
 
 ## Contents
 
-**Also available in [Chinese](zh/README.md), [Japanese](jp/README.md) and [Spanish](es/README.md)**
+**Also available in [Chinese](zh/README.md), [Japanese](jp/README.md),[Spanish](es/README.md), and [Russian](ru/README.md)**
+
 
 1. [Beginner](en/1-Beginner)
 	- Personal Skills
