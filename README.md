@@ -10,6 +10,10 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 
 [Available to buy as a hardcover book (cost covers production & shipping only)](http://www.blurb.com/b/6999069-how-to-be-a-programmer) - Edition 1, published 04/01/16
 
+# Contributing
+
+NOTE: What follows is the essay mostly as it was written in 2002. However, the community has provided some improvements, and all of the translations. Please submit a pull request or create an issue to make major or minor changes, respectively.
+
 ## Introduction
 To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom he or she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
 
